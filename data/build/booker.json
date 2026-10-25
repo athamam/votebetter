@@ -1,0 +1,495 @@
+{
+  "id": "booker",
+  "built_at": "2026-10-24T03:30:21+00:00",
+  "profile": [
+    {
+      "issue_id": "profile:previous_role",
+      "claim": "Tenant lawyer",
+      "quote": "As a tenant lawyer, city councilman, mayor, and now U.S. senator, Cory has spent his life bringing people together to take on the problems we face.",
+      "url": "https://corybooker.com/about-cory/",
+      "source_type": "campaign",
+      "source_title": "About Cory - Stand with Cory Booker - join our campaign for Senate today",
+      "retrieved_at": "2026-10-24T03:28:14+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote explicitly describes Booker as a tenant lawyer."
+    },
+    {
+      "issue_id": "profile:top_policy",
+      "claim": "Fights for justice and opportunity for all Americans.",
+      "quote": "Cory is fighting for justice and opportunity for all Americans.",
+      "url": "https://corybooker.com/",
+      "source_type": "campaign",
+      "source_title": "Stand with Cory Booker -- join our campaign for Senate today",
+      "retrieved_at": "2026-10-24T03:28:14+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote says Booker is fighting for justice and opportunity for all Americans.",
+      "original_claim": "The campaign highlights justice and opportunity for all Americans."
+    },
+    {
+      "issue_id": "profile:current_role",
+      "claim": "Senator for New Jersey",
+      "quote": "As New Jersey’s Senator, Cory Booker has brought an innovative and consensus-building approach to tackling some of the most difficult problems facing New Jersey and our country.",
+      "url": "https://www.booker.senate.gov/about-cory",
+      "source_type": "official",
+      "source_title": "About Cory | U.S. Senator Cory Booker of New Jersey",
+      "retrieved_at": "2026-10-24T03:28:14+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote identifies Booker as New Jersey’s senator."
+    },
+    {
+      "issue_id": "profile:previous_role",
+      "claim": "Newark City Council member",
+      "quote": "At 29, Cory was elected to the Newark City Council, where he challenged the city’s entrenched political machine and fought to increase economic security for city residents, expand access to health care, and improve public safety.",
+      "url": "https://www.booker.senate.gov/about-cory",
+      "source_type": "official",
+      "source_title": "About Cory | U.S. Senator Cory Booker of New Jersey",
+      "retrieved_at": "2026-10-24T03:28:14+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote says Booker was elected to the Newark City Council."
+    },
+    {
+      "issue_id": "profile:previous_role",
+      "claim": "Mayor of Newark",
+      "quote": "Cory served as Newark mayor from 2006 until 2013.",
+      "url": "https://www.booker.senate.gov/about-cory",
+      "source_type": "official",
+      "source_title": "About Cory | U.S. Senator Cory Booker of New Jersey",
+      "retrieved_at": "2026-10-24T03:28:14+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote says Booker served as Newark mayor from 2006 until 2013."
+    },
+    {
+      "issue_id": "profile:education",
+      "claim": "Undergraduate and master’s degrees, Stanford University.",
+      "quote": "Cory grew up in northern New Jersey and received his undergraduate and master’s degree from Stanford University.",
+      "url": "https://www.booker.senate.gov/about-cory",
+      "source_type": "official",
+      "source_title": "About Cory | U.S. Senator Cory Booker of New Jersey",
+      "retrieved_at": "2026-10-24T03:28:14+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote states that Booker received his undergraduate and master’s degrees from Stanford University."
+    },
+    {
+      "issue_id": "profile:education",
+      "claim": "Studied at the University of Oxford as a Rhodes Scholar.",
+      "quote": "He was awarded a Rhodes Scholarship and went on to study at the University of Oxford, and then Yale Law School, where he graduated in 1997.",
+      "url": "https://www.booker.senate.gov/about-cory",
+      "source_type": "official",
+      "source_title": "About Cory | U.S. Senator Cory Booker of New Jersey",
+      "retrieved_at": "2026-10-24T03:28:14+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote states that Booker received a Rhodes Scholarship and studied at the University of Oxford."
+    },
+    {
+      "issue_id": "profile:education",
+      "claim": "Yale Law School graduate (1997).",
+      "quote": "He was awarded a Rhodes Scholarship and went on to study at the University of Oxford, and then Yale Law School, where he graduated in 1997.",
+      "url": "https://www.booker.senate.gov/about-cory",
+      "source_type": "official",
+      "source_title": "About Cory | U.S. Senator Cory Booker of New Jersey",
+      "retrieved_at": "2026-10-24T03:28:14+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote states that Booker graduated from Yale Law School in 1997.",
+      "original_claim": "Graduated from Yale Law School in 1997."
+    }
+  ],
+  "findings": [
+    {
+      "issue_id": "abortion",
+      "claim": "Says he supports access to reproductive health care and introduced a bill affirming FDA authority over FDA-approved reproductive health products.",
+      "quote": "As a staunch supporter of access to reproductive health, Cory has introduced the Protecting National Access to Reproductive Care Act, which would affirm the FDA’s long standing preemptive authority over state law for all FDA-approved reproductive health products",
+      "url": "https://www.booker.senate.gov/about/issues/health-care",
+      "source_type": "official",
+      "source_title": "Health Care | U.S. Senator Cory Booker of New Jersey",
+      "retrieved_at": "2026-10-24T03:28:26+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote says Booker supports access to reproductive health care and introduced the bill described.",
+      "original_claim": "Booker says he supports access to reproductive health care and introduced a bill affirming FDA authority over FDA-approved reproductive health products."
+    },
+    {
+      "issue_id": "economy",
+      "claim": "Says he has advocated higher wages and better benefits, entrepreneurship, and policies to address rent costs and practices such as overdraft fees.",
+      "quote": "Cory has advocated for innovative policy measures to reward work through higher wages and better benefits, advance entrepreneurship and innovation in every corner of the country, and crack down on the soaring cost of rent and predatory practices like overdraft fees",
+      "url": "https://www.booker.senate.gov/about/issues/economic-opportunity",
+      "source_type": "official",
+      "source_title": "Economic Opportunity | U.S. Senator Cory Booker of New Jersey",
+      "retrieved_at": "2026-10-24T03:28:26+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote supports the stated positions on wages, benefits, entrepreneurship, rent costs, and overdraft fees.",
+      "original_claim": "Booker says he has advocated higher wages and better benefits, entrepreneurship, and policies to address rent costs and practices such as overdraft fees."
+    },
+    {
+      "issue_id": "education",
+      "claim": "Says he introduced a proposal for refundable tax credits that could raise teacher compensation by as much as $15,000 and a bill expanding underrepresented students’ access to advanced courses.",
+      "quote": "He introduced the RAISE Act, which would boost teacher compensation by as much as $15,000 through refundable tax credits. He also introduced the Advanced Coursework Equity Act which would increase enrollment and performance of underrepresented students in advanced courses and programs.",
+      "url": "https://www.booker.senate.gov/about/issues/education",
+      "source_type": "official",
+      "source_title": "Education | U.S. Senator Cory Booker of New Jersey",
+      "retrieved_at": "2026-10-24T03:28:26+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote supports both the teacher tax-credit proposal and the advanced-coursework bill as described.",
+      "original_claim": "Booker introduced a proposal for refundable tax credits that could raise teacher compensation by as much as $15,000, and a bill to expand underrepresented students’ access to advanced courses."
+    },
+    {
+      "issue_id": "healthcare",
+      "claim": "Says he has worked to protect and build on the Affordable Care Act, expand care access, and lower costs.",
+      "quote": "Throughout his time in the Senate, he has been a leader in the fight to protect the Affordable Care Act, while also championing proposals to build upon the law, increase access to care, and lower costs.",
+      "url": "https://www.booker.senate.gov/about/issues/health-care",
+      "source_type": "official",
+      "source_title": "Health Care | U.S. Senator Cory Booker of New Jersey",
+      "retrieved_at": "2026-10-24T03:28:26+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote supports protecting and building on the ACA, increasing access to care, and lowering costs.",
+      "original_claim": "Booker says he has worked to protect and build on the Affordable Care Act, expand care access, and lower costs."
+    },
+    {
+      "issue_id": "housing",
+      "claim": "Says he has advocated policies to address rising rent costs.",
+      "quote": "Cory has advocated for innovative policy measures to reward work through higher wages and better benefits, advance entrepreneurship and innovation in every corner of the country, and crack down on the soaring cost of rent",
+      "url": "https://www.booker.senate.gov/about/issues/economic-opportunity",
+      "source_type": "official",
+      "source_title": "Economic Opportunity | U.S. Senator Cory Booker of New Jersey",
+      "retrieved_at": "2026-10-24T03:28:26+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote says Booker advocated measures to address the cost of rent.",
+      "original_claim": "Booker says he has advocated policies to address rising rent costs."
+    },
+    {
+      "issue_id": "immigration",
+      "claim": "Booker says he led colleagues in urging federal health agencies to remove barriers to ACA and CHIP coverage for DACA recipients.",
+      "quote": "He also led colleagues in successfully urging the U.S. Department of Health and Human Services to remove barriers that prevent DACA recipients from accessing health insurance through the ACA and CHIP.",
+      "url": "https://www.booker.senate.gov/about/issues/civil-rights",
+      "source_type": "official",
+      "source_title": "Civil Rights | U.S. Senator Cory Booker of New Jersey",
+      "retrieved_at": "2026-10-24T03:28:26+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote says Booker led colleagues in urging HHS to remove barriers to DACA recipients’ ACA and CHIP coverage."
+    },
+    {
+      "issue_id": "foreign_policy",
+      "claim": "Says he urges international human-rights protections, advocates food-security assistance, and has worked to increase diversity in the diplomatic corps.",
+      "quote": "He is vocal in urging the international community to protect human rights, and during an unprecedented global food crisis, he has been a strong advocate for more robust food security assistance to those suffering from malnutrition and famine. He has spearheaded efforts to increase the diversity of our diplomatic corps",
+      "url": "https://www.booker.senate.gov/about/issues/foreign-policy-and-national-security?all=true",
+      "source_type": "official",
+      "source_title": "Foreign Policy & National Security | U.S. Senator Cory Booker of New Jersey",
+      "retrieved_at": "2026-10-24T03:28:17+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote supports the stated positions on international human rights, food-security assistance, and diplomatic-corp diversity.",
+      "original_claim": "Booker says he urges international human-rights protections, advocates food-security assistance, and has worked to increase diversity in the diplomatic corps."
+    },
+    {
+      "issue_id": "lgbtq",
+      "claim": "Says people should be able to live free from discrimination based on sexual orientation or gender identity and that he has championed the Equality Act.",
+      "quote": "He is committed to ensuring all people can live free from discrimination, regardless of their race, ethnicity, national origin, sex, religion, sexual orientation, gender identity, age, or immigration status. Cory has championed numerous pieces of legislation affirming these rights, including the Do No Harm Act, CROWN Act, Equality Act, and HOME Act.",
+      "url": "https://www.booker.senate.gov/about/issues/civil-rights",
+      "source_type": "official",
+      "source_title": "Civil Rights | U.S. Senator Cory Booker of New Jersey",
+      "retrieved_at": "2026-10-24T03:28:26+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote names sexual orientation and gender identity protections and says Booker championed the Equality Act.",
+      "original_claim": "Booker says people should be able to live free from discrimination based on sexual orientation or gender identity, and says he has championed the Equality Act."
+    },
+    {
+      "issue_id": "womens_childrens",
+      "claim": "Says he is working to improve maternal health and advocates permanent postpartum Medicaid coverage.",
+      "quote": "He is also committed to improving maternal health, leading the Black Maternal Health Momnibus in the Senate and advocating for permanent postpartum Medicaid coverage.",
+      "url": "https://www.booker.senate.gov/about/issues/health-care",
+      "source_type": "official",
+      "source_title": "Health Care | U.S. Senator Cory Booker of New Jersey",
+      "retrieved_at": "2026-10-24T03:28:26+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote says Booker is committed to improving maternal health and advocates permanent postpartum Medicaid coverage.",
+      "original_claim": "Booker says he is working to improve maternal health and advocates permanent postpartum Medicaid coverage."
+    },
+    {
+      "issue_id": "climate",
+      "claim": "Says he was an original cosponsor of the Green New Deal.",
+      "quote": "The existential threat of climate change is a threat to all and will exacerbate existing inequities unless we act boldly, which is why Cory is an original cosponsor of the Green New Deal.",
+      "url": "https://www.booker.senate.gov/about/issues/environment?all=true",
+      "source_type": "official",
+      "source_title": "Environment | U.S. Senator Cory Booker of New Jersey",
+      "retrieved_at": "2026-10-24T04:13:16+00:00",
+      "archived_copy": null,
+      "verifier_note": "The official page states that Cory Booker is an original cosponsor of the Green New Deal.",
+      "original_claim": "Booker is an original cosponsor of the Green New Deal."
+    },
+    {
+      "issue_id": "climate",
+      "claim": "Commits to addressing climate change with attention to its effects on vulnerable communities.",
+      "quote": "is committed to addressing climate change with an eye toward its impact on vulnerable communities.",
+      "url": "https://corybooker.com/about-cory/",
+      "source_type": "campaign",
+      "source_title": "About Cory - Stand with Cory Booker - join our campaign for Senate today",
+      "retrieved_at": "2026-10-24T03:28:14+00:00",
+      "archived_copy": null,
+      "verifier_note": "The campaign quote directly says Booker is committed to addressing climate change with attention to effects on vulnerable communities.",
+      "original_claim": "Booker’s campaign says he is committed to addressing climate change with attention to its effects on vulnerable communities."
+    },
+    {
+      "issue_id": "climate",
+      "claim": "His Senate environment page says he supports federal policies protecting communities from pollution, particularly communities bearing disproportionate pollution burdens.",
+      "quote": "Cory believes all Americans should have access to clean water, clean air, and a healthy environment, which is why he is a leader in developing federal policies that protect all communities from pollution, particularly low-income communities, indigenous communities, and communities of color",
+      "url": "https://www.booker.senate.gov/about/issues/environment",
+      "source_type": "official",
+      "source_title": "Environment | U.S. Senator Cory Booker of New Jersey",
+      "retrieved_at": "2026-10-24T03:28:26+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote says Booker believes in clean air, clean water, and a healthy environment and is developing federal policies to protect communities from pollution."
+    },
+    {
+      "issue_id": "climate",
+      "claim": "His Senate environment page says he has worked on climate initiatives that include nature-based solutions and reducing fossil-based plastic production and consumption.",
+      "quote": "from expanding nature-based climate solutions to reducing fossil-based plastic production and consumption.",
+      "url": "https://www.booker.senate.gov/about/issues/environment",
+      "source_type": "official",
+      "source_title": "Environment | U.S. Senator Cory Booker of New Jersey",
+      "retrieved_at": "2026-10-24T03:28:26+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote identifies nature-based climate solutions and reducing fossil-based plastic production and consumption as areas of work."
+    },
+    {
+      "issue_id": "climate",
+      "claim": "Booker supported a New Jersey coastal resilience project, saying its funding would restore wetlands and implement green infrastructure.",
+      "quote": "This investment, secured through the Inflation Reduction Act (IRA) passed by Democrats in Congress and the Biden-Harris administration, will restore wetlands, implement green infrastructure, and protect our environment",
+      "url": "https://www.booker.senate.gov/news/press/booker-noaa-biden-harris-administration-announce-725-million-for-new-jersey-project-as-part-of-investing-in-america-agenda",
+      "source_type": "official",
+      "source_title": "Booker, NOAA, Biden-Harris Administration Announce $72.5 Million for New Jersey Project as Part of Investing in America Agenda",
+      "retrieved_at": "2026-10-24T05:10:11+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote says the investment will restore wetlands, implement green infrastructure, and protect the environment."
+    },
+    {
+      "issue_id": "crime",
+      "claim": "Says he worked to reduce crime as Newark mayor.",
+      "quote": "As mayor, Cory took on some of the city’s biggest challenges. He successfully fought to reduce crime",
+      "url": "https://corybooker.com/about-cory/",
+      "source_type": "campaign",
+      "source_title": "About Cory - Stand with Cory Booker - join our campaign for Senate today",
+      "retrieved_at": "2026-10-24T03:28:14+00:00",
+      "archived_copy": null,
+      "verifier_note": "The campaign quote says Booker successfully fought to reduce crime as mayor.",
+      "original_claim": "Booker’s campaign biography says that, as Newark mayor, he worked to reduce crime."
+    },
+    {
+      "issue_id": "crime",
+      "claim": "Says he reintroduced legislation to legalize marijuana federally and address past marijuana convictions.",
+      "quote": "In 2019, he reintroduced the Marijuana Justice Act, which would legalize marijuana at the federal level and restore justice to those already convicted of marijuana-related offenses",
+      "url": "https://corybooker.com/about-cory/",
+      "source_type": "campaign",
+      "source_title": "About Cory - Stand with Cory Booker - join our campaign for Senate today",
+      "retrieved_at": "2026-10-24T03:28:14+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote says Booker reintroduced the bill, which would legalize marijuana federally and address people already convicted of marijuana-related offenses.",
+      "original_claim": "Booker’s campaign says he reintroduced legislation to legalize marijuana federally and address past marijuana convictions."
+    },
+    {
+      "issue_id": "crime",
+      "claim": "Says he has worked to address racial disparities in the criminal-justice system and improve reentry outcomes.",
+      "quote": "In the Senate, Cory has worked to eliminate racial disparities in our criminal justice system and improve reentry outcomes for returning citizens.",
+      "url": "https://www.booker.senate.gov/about/issues/criminal-justice",
+      "source_type": "official",
+      "source_title": "Criminal Justice | U.S. Senator Cory Booker of New Jersey",
+      "retrieved_at": "2026-10-24T03:28:26+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote says Booker worked to eliminate racial disparities in the criminal-justice system and improve reentry outcomes.",
+      "original_claim": "Booker’s Senate office says he has worked to address racial disparities in the criminal-justice system and improve reentry outcomes."
+    },
+    {
+      "issue_id": "economy",
+      "claim": "Proposes federally backed savings accounts for children to support upward mobility through the American Opportunity Accounts Act.",
+      "quote": "His baby bonds proposal, the American Opportunity Accounts Act, would virtually close the racial wealth gap by funding a federally-backed savings account for every child born in America that grows with them as they grow up, ensuring that all children born in this country are afforded the opportunity for upward mobility.",
+      "url": "https://corybooker.com/about-cory/",
+      "source_type": "campaign",
+      "source_title": "About Cory - Stand with Cory Booker - join our campaign for Senate today",
+      "retrieved_at": "2026-10-24T03:28:14+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote describes the American Opportunity Accounts Act as a proposal for federally backed child savings accounts intended to support upward mobility.",
+      "original_claim": "Booker’s American Opportunity Accounts Act proposes federally backed savings accounts for children to support upward mobility."
+    },
+    {
+      "issue_id": "economy",
+      "claim": "Says he championed expanding the Earned Income Tax Credit and the Child Tax Credit.",
+      "quote": "He championed the expansion of theEarned Income Tax Credit and the Child Tax Credit, which benefited tens of millions of everyday American families, covering almost 90 precent of children, and cut child poverty nearly in half.",
+      "url": "https://www.booker.senate.gov/about/issues/economic-opportunity?all=true",
+      "source_type": "official",
+      "source_title": "Economic Opportunity | U.S. Senator Cory Booker of New Jersey",
+      "retrieved_at": "2026-10-24T05:10:22+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote says Booker championed expansion of the Earned Income Tax Credit and Child Tax Credit.",
+      "original_claim": "Booker championed expanding the Earned Income Tax Credit and the Child Tax Credit."
+    },
+    {
+      "issue_id": "education",
+      "claim": "Says a student’s location should not determine their educational and economic opportunities.",
+      "quote": "Cory believes that a student’s zip code should not determine the educational and economic trajectory of their lives.",
+      "url": "https://www.booker.senate.gov/about/issues/education",
+      "source_type": "official",
+      "source_title": "Education | U.S. Senator Cory Booker of New Jersey",
+      "retrieved_at": "2026-10-24T03:28:26+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote says Booker believes a student's zip code should not determine their educational and economic trajectory.",
+      "original_claim": "Booker says a student’s location should not determine their educational and economic opportunities."
+    },
+    {
+      "issue_id": "healthcare",
+      "claim": "Advocates integrating food-based programs into health care to prevent and treat diet-related diseases.",
+      "quote": "Cory has been advocating for greater integration of Food as Medicine – programs that integrate the power of food to prevent and treat diet-related diseases – into healthcare.",
+      "url": "https://www.booker.senate.gov/about/issues/health-care?all=true",
+      "source_type": "official",
+      "source_title": "Health Care | U.S. Senator Cory Booker of New Jersey",
+      "retrieved_at": "2026-10-24T05:10:22+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote says Booker has advocated integrating food-based programs into health care to prevent and treat diet-related diseases.",
+      "original_claim": "Booker says he advocates integrating food-based programs into health care to prevent and treat diet-related diseases."
+    },
+    {
+      "issue_id": "healthcare",
+      "claim": "Says he introduced legislation affirming FDA authority over reproductive health products, including medication-abortion drugs.",
+      "quote": "Cory has introduced the Protecting National Access to Reproductive Care Act, which would affirm the FDA’s long standing preemptive authority over state law for all FDA-approved reproductive health products, including drugs used in medication abortion, helping to ensure that every American has access to the medication they need.",
+      "url": "https://www.booker.senate.gov/about/issues/health-care?all=true",
+      "source_type": "official",
+      "source_title": "Health Care | U.S. Senator Cory Booker of New Jersey",
+      "retrieved_at": "2026-10-24T05:10:22+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote says Booker introduced legislation to affirm FDA authority over FDA-approved reproductive health products, including medication-abortion drugs.",
+      "original_claim": "Booker introduced legislation to affirm FDA authority over reproductive health products, including medication-abortion drugs."
+    },
+    {
+      "issue_id": "healthcare",
+      "claim": "Says he has advanced research and public-health efforts for sickle cell disease and efforts to increase access to addiction treatment.",
+      "quote": "Cory has advanced efforts to expand research and public health activities for sickle cell disease, and increase access to addiction treatment.",
+      "url": "https://www.booker.senate.gov/about/issues/health-care?all=true",
+      "source_type": "official",
+      "source_title": "Health Care | U.S. Senator Cory Booker of New Jersey",
+      "retrieved_at": "2026-10-24T05:10:22+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote says Booker advanced sickle-cell research and public-health efforts and efforts to increase access to addiction treatment.",
+      "original_claim": "Booker says he has advanced research and public-health efforts for sickle cell disease and efforts to increase access to addiction treatment."
+    },
+    {
+      "issue_id": "housing",
+      "claim": "Says he lived in a Newark public housing project for eight years and worked with neighbors on tenant rights, including challenging their building’s landlord.",
+      "quote": "Instead of pursuing a lucrative career after leaving Yale, Cory moved into Newark’s central ward, and eventually into a public housing project, where he lived for eight years. He fought for tenants rights, and teamed up with his neighbors to take on the slumlord running their building, and won.",
+      "url": "https://corybooker.com/about-cory/",
+      "source_type": "campaign",
+      "source_title": "About Cory - Stand with Cory Booker - join our campaign for Senate today",
+      "retrieved_at": "2026-10-24T03:28:14+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote says Booker lived in a public housing project for eight years and worked with neighbors to challenge the building's landlord over tenants' rights.",
+      "original_claim": "His campaign biography says he lived in a Newark public housing project for eight years and worked with neighbors on tenant rights, including challenging their building’s landlord."
+    },
+    {
+      "issue_id": "womens_childrens",
+      "claim": "Says he authored baby-bonds legislation providing seed money at birth.",
+      "quote": "He is also the author of landmark “baby bonds” legislation to fight intergenerational poverty and the enormous racial wealth gap by providing every American seed money at birth.",
+      "url": "https://www.booker.senate.gov/about/issues/economic-opportunity",
+      "source_type": "official",
+      "source_title": "Economic Opportunity | U.S. Senator Cory Booker of New Jersey",
+      "retrieved_at": "2026-10-24T03:28:26+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote says Booker authored baby-bonds legislation providing every American seed money at birth.",
+      "original_claim": "Booker’s economic-opportunity page says he authored baby-bonds legislation providing seed money at birth."
+    },
+    {
+      "issue_id": "womens_childrens",
+      "claim": "Says he championed expanding the Earned Income Tax Credit and Child Tax Credit.",
+      "quote": "He championed the expansion of theEarned Income Tax Credit and the Child Tax Credit, which benefited tens of millions of everyday American families",
+      "url": "https://www.booker.senate.gov/about/issues/economic-opportunity",
+      "source_type": "official",
+      "source_title": "Economic Opportunity | U.S. Senator Cory Booker of New Jersey",
+      "retrieved_at": "2026-10-24T03:28:26+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote says Booker championed expansion of the Earned Income Tax Credit and Child Tax Credit.",
+      "original_claim": "The same page says Booker championed expanding the Earned Income Tax Credit and Child Tax Credit."
+    },
+    {
+      "issue_id": "womens_childrens",
+      "claim": "Supports resources for early-childhood educators.",
+      "quote": "Cory believes our nation’s teachers and early childhood educators must be given the resources and support they need to ensure educational outcomes forall students, particularly vulnerable students.",
+      "url": "https://www.booker.senate.gov/about/issues/education",
+      "source_type": "official",
+      "source_title": "Education | U.S. Senator Cory Booker of New Jersey",
+      "retrieved_at": "2026-10-24T03:28:26+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote says Booker believes early-childhood educators should receive the resources and support they need.",
+      "original_claim": "Booker’s education page says he supports resources for early-childhood educators."
+    }
+  ],
+  "scores": {
+    "abortion": {
+      "score": -0.5,
+      "confidence": "medium",
+      "rationale": "Matches the legal-access anchor: Booker supports reproductive-health access and legislation affirming FDA authority over approved reproductive-health products, though the finding does not specify limits later in pregnancy."
+    },
+    "climate": {
+      "score": -1.0,
+      "confidence": "high",
+      "rationale": "Matches the rapid clean-energy action anchor: Booker is an original Green New Deal cosponsor, alongside findings describing climate initiatives and pollution protections."
+    },
+    "crime": {
+      "score": -0.5,
+      "confidence": "medium",
+      "rationale": "Matches the criminal-justice-reform anchor: findings describe work to address disparities and reentry and legislation to legalize marijuana and address past convictions."
+    },
+    "economy": {
+      "score": -0.5,
+      "confidence": "medium",
+      "rationale": "Matches the targeted-programs and higher-wages anchor: Booker supports higher wages and championed expanded Earned Income and Child Tax Credits."
+    },
+    "education": {
+      "score": -0.5,
+      "confidence": "low",
+      "rationale": "Partially matches the public-education investment anchor: Booker proposed refundable tax credits to raise teacher compensation and expand access to advanced courses, but the findings do not address the other elements of that anchor."
+    },
+    "guns": {
+      "score": null,
+      "confidence": null,
+      "rationale": "Not enough verified information."
+    },
+    "healthcare": {
+      "score": -0.25,
+      "confidence": "medium",
+      "rationale": "Falls between the public-coverage expansion and targeted-fixes anchors: Booker supports protecting and building on the ACA and increasing access, but the findings do not specify a public option or Medicaid expansion."
+    },
+    "housing": {
+      "score": -0.25,
+      "confidence": "low",
+      "rationale": "Falls between the tenant-protection and targeted-aid anchors: findings describe Booker’s work on tenant rights and his advocacy on rising rents, without specifying a housing policy proposal."
+    },
+    "immigration": {
+      "score": null,
+      "confidence": null,
+      "rationale": "The finding concerns DACA recipients’ access to health coverage and does not establish a position matching the immigration-policy anchors."
+    },
+    "foreign_policy": {
+      "score": null,
+      "confidence": null,
+      "rationale": "The findings on human rights, food-security assistance, and diplomatic diversity do not establish a position matching the anchors on military aid, Israel, Iran, or force."
+    },
+    "lgbtq": {
+      "score": -0.5,
+      "confidence": "medium",
+      "rationale": "Matches the federal anti-discrimination anchor: Booker says he has championed the Equality Act and protections based on sexual orientation and gender identity."
+    },
+    "womens_childrens": {
+      "score": -0.5,
+      "confidence": "medium",
+      "rationale": "Partially matches the family-support expansion anchor: findings cite expansion of the Child Tax Credit, postpartum Medicaid coverage, and support for early-childhood educators, but do not specify paid leave or child-care subsidies."
+    }
+  },
+  "stats": {
+    "raw_findings": 12,
+    "passed_code_checks": 10,
+    "verified": 9,
+    "profile_facts": 2,
+    "deep_pass": {
+      "found": 29,
+      "passed_code_checks": 22,
+      "added": 17,
+      "before": 10,
+      "after": 27
+    }
+  },
+  "refreshed_at": "2026-10-24T04:13:36+00:00",
+  "deepened_at": "2026-10-24T05:12:27+00:00"
+}

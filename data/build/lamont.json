@@ -1,0 +1,557 @@
+{
+  "id": "lamont",
+  "built_at": "2026-10-24T03:28:08+00:00",
+  "profile": [
+    {
+      "issue_id": "profile:current_role",
+      "claim": "Governor of Connecticut.",
+      "quote": "Welcome to the Office of Governor Ned Lamont",
+      "url": "https://portal.ct.gov/governor?A=3998&Q=479082",
+      "source_type": "official",
+      "source_title": "Connecticut Governor Ned Lamont | CT.gov",
+      "retrieved_at": "2026-10-24T03:26:54+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quoted page identifies the Office of Governor Ned Lamont."
+    },
+    {
+      "issue_id": "profile:previous_role",
+      "claim": "Business owner and job creator in Connecticut.",
+      "quote": "Governor Lamont started a business here in Connecticut; as a business owner and job creator",
+      "url": "https://www.nedlamont.com/about/",
+      "source_type": "campaign",
+      "source_title": "About Governor Ned Lamont",
+      "retrieved_at": "2026-10-24T03:26:54+00:00",
+      "archived_copy": null,
+      "verifier_note": "The campaign says Lamont started a business in Connecticut and describes him as a business owner and job creator."
+    },
+    {
+      "issue_id": "profile:previous_role",
+      "claim": "High school teacher volunteer in Bridgeport.",
+      "quote": "volunteered as a high school teacher in Bridgeport",
+      "url": "https://www.nedlamont.com/about/",
+      "source_type": "campaign",
+      "source_title": "About Governor Ned Lamont",
+      "retrieved_at": "2026-10-24T03:26:54+00:00",
+      "archived_copy": null,
+      "verifier_note": "The campaign says he volunteered as a high school teacher in Bridgeport.",
+      "original_claim": "Volunteered as a high school teacher in Bridgeport."
+    },
+    {
+      "issue_id": "profile:top_policy",
+      "claim": "Prioritizes lowering costs and making life more affordable for working families.",
+      "quote": "Governor Lamont’s forward agenda will continue focusing on lowering costs and making life more affordable for working families across Connecticut.",
+      "url": "https://www.nedlamont.com/priorities/",
+      "source_type": "campaign",
+      "source_title": "Governor Ned Lamont's Priorities",
+      "retrieved_at": "2026-10-24T03:26:54+00:00",
+      "archived_copy": null,
+      "verifier_note": "The campaign says its agenda will focus on lowering costs and making life more affordable for working families.",
+      "original_claim": "The campaign highlights lowering costs and making life more affordable for working families."
+    },
+    {
+      "issue_id": "profile:top_policy",
+      "claim": "Prioritizes lowering electricity costs and holding utilities accountable.",
+      "quote": "Governor Lamont is taking on one of the biggest challenges facing Connecticut families: the high cost of electricity. His plan puts ratepayers first by holding utilities accountable, encouraging competition, and driving down costs.",
+      "url": "https://www.nedlamont.com/priorities/",
+      "source_type": "campaign",
+      "source_title": "Governor Ned Lamont's Priorities",
+      "retrieved_at": "2026-10-24T03:26:54+00:00",
+      "archived_copy": null,
+      "verifier_note": "The campaign describes a plan to hold utilities accountable and drive down electricity costs.",
+      "original_claim": "The campaign highlights lowering electricity costs and holding utilities accountable."
+    },
+    {
+      "issue_id": "profile:top_policy",
+      "claim": "Prioritizes requiring large corporations to contribute to healthcare costs for their workforce.",
+      "quote": "Governor Lamont’s Fair Share Healthcare Initiative lowers health insurance premiums by requiring large corporations to take responsibility for the healthcare costs of their workforce instead of shifting those costs onto taxpayers.",
+      "url": "https://www.nedlamont.com/priorities/",
+      "source_type": "campaign",
+      "source_title": "Governor Ned Lamont's Priorities",
+      "retrieved_at": "2026-10-24T03:26:54+00:00",
+      "archived_copy": null,
+      "verifier_note": "The campaign says the initiative would require large corporations to take responsibility for workforce healthcare costs.",
+      "original_claim": "The campaign highlights requiring large corporations to contribute to healthcare costs for their workforce."
+    },
+    {
+      "issue_id": "profile:education",
+      "claim": "Bachelor of Arts in sociology, Harvard College (1976).",
+      "quote": "he earned a Bachelor of Arts in sociology from Harvard College in 1976",
+      "url": "https://portal.ct.gov/en/SOTS/Register-Manual/Section-II/Biographies---CT-Elective-State-Officers",
+      "source_type": "official",
+      "source_title": "Biographies - Connecticut Elective State Officers",
+      "retrieved_at": "2026-10-24T04:27:39+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote supports Lamont’s degree, field, institution, and graduation year."
+    },
+    {
+      "issue_id": "profile:education",
+      "claim": "Master of Business Administration, Yale School of Management (1980).",
+      "quote": "a Master of Business Administration from the Yale School of Management in 1980.",
+      "url": "https://portal.ct.gov/en/SOTS/Register-Manual/Section-II/Biographies---CT-Elective-State-Officers",
+      "source_type": "official",
+      "source_title": "Biographies - Connecticut Elective State Officers",
+      "retrieved_at": "2026-10-24T04:27:39+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote supports Lamont’s MBA, institution, and year."
+    }
+  ],
+  "findings": [
+    {
+      "issue_id": "climate",
+      "claim": "Proposes a zero-carbon electric grid by 2040 and net-zero emissions by 2050.",
+      "quote": "Achieve a 100% zero-carbon grid by 2040 and net-zero emissions by 2050 targets.",
+      "url": "https://www.nedlamont.com/priorities/",
+      "source_type": "campaign",
+      "source_title": "Governor Ned Lamont's Priorities",
+      "retrieved_at": "2026-10-24T03:26:54+00:00",
+      "archived_copy": null,
+      "verifier_note": "The campaign agenda states both the 2040 zero-carbon-grid target and the 2050 net-zero-emissions target.",
+      "original_claim": "His campaign agenda calls for a zero-carbon electric grid by 2040 and net-zero emissions by 2050."
+    },
+    {
+      "issue_id": "crime",
+      "claim": "Says public safety should guide state and local law enforcement and serious offenders should be taken off the streets.",
+      "quote": "The top priority of local and state law enforcement needs to be public safety and getting those who commit serious crimes off our streets.",
+      "url": "https://portal.ct.gov/governor/news/press-releases/2025/08-2025/governor-lamont-statement-on-letter-from-the-department-of-justice?language=en_US",
+      "source_type": "official",
+      "source_title": "Governor Lamont Statement on Letter From the U.S. Department of Justice Erroneously Identifying Connecticut as a ‘Sanctuary’ Jurisdiction",
+      "retrieved_at": "2026-10-24T03:27:03+00:00",
+      "archived_copy": null,
+      "verifier_note": "Lamont says public safety should be law enforcement’s top priority and that people who commit serious crimes should be taken off the streets.",
+      "original_claim": "Lamont said public safety should guide state and local law enforcement and that serious offenders should be taken off the streets."
+    },
+    {
+      "issue_id": "economy",
+      "claim": "Says his record includes reducing income-tax rates for middle-income residents and increasing the Earned Income Tax Credit.",
+      "quote": "Delivered the largest income tax cut in Connecticut’s history, lowering rates for middle-income residents and raising the Earned Income Tax Credit, putting meaningful, permanent relief in the hands of working families",
+      "url": "https://www.nedlamont.com/accomplishments/",
+      "source_type": "campaign",
+      "source_title": "Governor Ned Lamont's Accomplishments",
+      "retrieved_at": "2026-10-24T03:26:54+00:00",
+      "archived_copy": null,
+      "verifier_note": "The campaign says Lamont lowered rates for middle-income residents and raised the Earned Income Tax Credit.",
+      "original_claim": "His campaign says his record includes reducing income-tax rates for middle-income residents and increasing the Earned Income Tax Credit."
+    },
+    {
+      "issue_id": "education",
+      "claim": "Proposes increased state support for special education and improved student outcomes.",
+      "quote": "Increasing state support for special education\nImproving accountability and outcomes for students",
+      "url": "https://www.nedlamont.com/priorities/",
+      "source_type": "campaign",
+      "source_title": "Governor Ned Lamont's Priorities",
+      "retrieved_at": "2026-10-24T03:26:54+00:00",
+      "archived_copy": null,
+      "verifier_note": "The agenda calls for increased state support for special education and improved student outcomes.",
+      "original_claim": "His campaign agenda calls for increased state support for special education and improved student outcomes."
+    },
+    {
+      "issue_id": "guns",
+      "claim": "Proposed generally banning open carry in public, with specified exceptions.",
+      "quote": "The proposal generally bans the open carry of firearms in public, except for a list of enumerated exceptions, and prohibits the carry of firearms in alcohol-serving establishments.",
+      "url": "https://portal.ct.gov/dmv/-/media/office-of-the-governor/2023-legislative-proposals/aa-addressing-gun-violence.pdf",
+      "source_type": "official",
+      "source_title": "",
+      "retrieved_at": "2026-10-24T03:27:14+00:00",
+      "archived_copy": null,
+      "verifier_note": "The official legislative proposal describes a general public open-carry ban with enumerated exceptions.",
+      "original_claim": "Lamont proposed generally banning open carry in public, with specified exceptions."
+    },
+    {
+      "issue_id": "healthcare",
+      "claim": "Proposes expanding access to coverage through the Connecticut Option and lowering prescription-drug costs.",
+      "quote": "Lower prescription drug costs\nExpand access to high-quality healthcare coverage with the CT Option",
+      "url": "https://www.nedlamont.com/priorities/",
+      "source_type": "campaign",
+      "source_title": "Governor Ned Lamont's Priorities",
+      "retrieved_at": "2026-10-24T03:26:54+00:00",
+      "archived_copy": null,
+      "verifier_note": "The campaign agenda calls for expanding coverage through the CT Option and lowering prescription-drug costs.",
+      "original_claim": "His campaign agenda proposes expanding access to coverage through the Connecticut Option and lowering prescription-drug costs."
+    },
+    {
+      "issue_id": "lgbtq",
+      "claim": "Says he signed legislation strengthening legal protections for LGBTQ+ parents and families.",
+      "quote": "Signed legislation strengthening legal protections for LGBTQ+ parents and families",
+      "url": "https://www.nedlamont.com/accomplishments/",
+      "source_type": "campaign",
+      "source_title": "Governor Ned Lamont's Accomplishments",
+      "retrieved_at": "2026-10-24T03:26:54+00:00",
+      "archived_copy": null,
+      "verifier_note": "The campaign says Lamont signed legislation strengthening legal protections for LGBTQ+ parents and families.",
+      "original_claim": "His campaign says he signed legislation strengthening legal protections for LGBTQ+ parents and families."
+    },
+    {
+      "issue_id": "womens_childrens",
+      "claim": "Says he signed the state Paid Family and Medical Leave program into law, providing up to 12 weeks of paid leave.",
+      "quote": "Signed Connecticut’s Paid Family and Medical Leave program into law, ensuring workers have up to 12 weeks of paid leave to care for a new child or an ailing loved one",
+      "url": "https://www.nedlamont.com/accomplishments/",
+      "source_type": "campaign",
+      "source_title": "Governor Ned Lamont's Accomplishments",
+      "retrieved_at": "2026-10-24T03:26:54+00:00",
+      "archived_copy": null,
+      "verifier_note": "The campaign says Lamont signed the program into law and that workers can receive up to 12 weeks of paid leave.",
+      "original_claim": "His campaign reports that Lamont signed the state Paid Family and Medical Leave program into law, providing up to 12 weeks of paid leave."
+    },
+    {
+      "issue_id": "foreign_policy",
+      "claim": "Condemned Hamas’s attacks on Israeli civilians and expressed solidarity with Israel in October 2023.",
+      "quote": "I am appalled by the attacks on innocent Israeli civilians. Connecticut stands in solidarity with the people of Israel and condemns these terrorist attacks by Hamas.",
+      "url": "https://portal.ct.gov/governor/news/press-releases/2023/10-2023/governor-lamont-statement-on-violent-attacks-in-israel",
+      "source_type": "official",
+      "source_title": "Governor Lamont Statement on Violent Attacks in Israel",
+      "retrieved_at": "2026-10-24T03:27:41+00:00",
+      "archived_copy": null,
+      "verifier_note": "Lamont’s quote condemns Hamas’s attacks on Israeli civilians and expresses solidarity with Israel.",
+      "original_claim": "In October 2023, Lamont condemned Hamas’s attacks on Israeli civilians and expressed solidarity with Israel."
+    },
+    {
+      "issue_id": "abortion",
+      "claim": "In July 2023, Lamont signed laws that he said further protected access to abortion and chosen contraceptive care in Connecticut.",
+      "quote": "These new laws we’re enacting further safeguard the rights of all persons in Connecticut to access an abortion and the contraceptive care they choose.",
+      "url": "https://portal.ct.gov/DPH/Newsroom/Press-Releases---2023/Governor-Lamont-signs-series-of-new-laws-protecting-reproductive-rights-in-Connecticut",
+      "source_type": "official",
+      "source_title": "Governor Lamont signs series of new laws protecting reproductive rights in Connecticut",
+      "retrieved_at": "2026-10-24T05:07:19+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote says Lamont’s new laws further safeguard access to abortion and chosen contraceptive care."
+    },
+    {
+      "issue_id": "abortion",
+      "claim": "Says he would protect reproductive rights in Connecticut and oppose laws restricting them.",
+      "quote": "Politicians should not get between a person and their doctor. As long as I am governor, reproductive rights will be protected in Connecticut, and I will do everything in my power to block laws from being passed that restrict those rights.",
+      "url": "https://portal.ct.gov/reproductiverights/?language=en_US",
+      "source_type": "official",
+      "source_title": "Abortion Access in Connecticut",
+      "retrieved_at": "2026-10-24T05:07:19+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote directly states that he would protect reproductive rights and oppose laws restricting them.",
+      "original_claim": "Lamont said he would protect reproductive rights in Connecticut and oppose laws restricting them."
+    },
+    {
+      "issue_id": "climate",
+      "claim": "Proposes energy-efficiency measures including weatherization, efficient heat pumps, electrification and stronger building-code efficiency standards.",
+      "quote": "A continued push for energy efficiency. This starts with weatherization, deploying highly efficient heat pumps, and moving towards electrification, while updating our building codes to include higher energy efficiency standards.",
+      "url": "https://www.nedlamont.com/priorities/",
+      "source_type": "campaign",
+      "source_title": "Governor Ned Lamont's Priorities",
+      "retrieved_at": "2026-10-24T03:26:54+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote lists weatherization, efficient heat pumps, electrification, and higher building-code efficiency standards.",
+      "original_claim": "His campaign agenda calls for energy efficiency measures including weatherization, efficient heat pumps, electrification and stronger building-code efficiency standards."
+    },
+    {
+      "issue_id": "climate",
+      "claim": "Proposes reducing transportation emissions through electrification and transit-oriented development near rail and bus hubs.",
+      "quote": "Reduce transportation emissions, combining electrification whenever possible with Transit-Oriented Development (TOD). We are rethinking our cities, helping towns build dense, walkable, mixed-income housing around our major rail and bus hubs.",
+      "url": "https://www.nedlamont.com/priorities/",
+      "source_type": "campaign",
+      "source_title": "Governor Ned Lamont's Priorities",
+      "retrieved_at": "2026-10-24T03:26:54+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote links transportation-emissions reduction with electrification and transit-oriented development near rail and bus hubs.",
+      "original_claim": "His campaign agenda proposes reducing transportation emissions through electrification and transit-oriented development near rail and bus hubs."
+    },
+    {
+      "issue_id": "climate",
+      "claim": "Proposes permanently preserving 21% of Connecticut as open space.",
+      "quote": "Permanently preserving 21% of Connecticut as open space, ensuring our state has the natural spaces to protect our wildlife.",
+      "url": "https://www.nedlamont.com/priorities/",
+      "source_type": "campaign",
+      "source_title": "Governor Ned Lamont's Priorities",
+      "retrieved_at": "2026-10-24T03:26:54+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote directly states the goal of permanently preserving 21% of Connecticut as open space.",
+      "original_claim": "His campaign agenda proposes permanently preserving 21% of Connecticut as open space."
+    },
+    {
+      "issue_id": "education",
+      "claim": "Proposed giving every Connecticut high school senior access to at least one free college class before graduation.",
+      "quote": "No matter where you attend high school, this proposal means that by the time you walk across the stage at graduation, you can already have your first college credits under your belt – for free.",
+      "url": "https://www.nedlamont.com/news/governor-lamont-proposes-free-college-class-for-every-connecticut-high-school-senior/",
+      "source_type": "campaign",
+      "source_title": "GOVERNOR LAMONT PROPOSES FREE COLLEGE CLASS FOR EVERY CONNECTICUT HIGH SCHOOL SENIOR | Ned Lamont",
+      "retrieved_at": "2026-10-24T05:07:31+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote says the proposal would let students at any high school earn college credits for free before graduation.",
+      "original_claim": "Lamont proposed giving every Connecticut high school senior access to at least one free college class before graduation."
+    },
+    {
+      "issue_id": "education",
+      "claim": "Plans to continue increasing pre-K opportunities and pursue sustainable long-term funding for early childhood education.",
+      "quote": "Over the next four years, Governor Lamont will continue working to: Expand access to affordable childcare statewide Increase pre-K opportunities for families Support childcare providers and educators Build a sustainable long-term funding structure for early childhood education",
+      "url": "https://www.nedlamont.com/priorities/",
+      "source_type": "campaign",
+      "source_title": "Governor Ned Lamont's Priorities",
+      "retrieved_at": "2026-10-24T03:26:54+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote includes increasing pre-K opportunities and building sustainable long-term early-childhood funding.",
+      "original_claim": "His campaign agenda says he will continue increasing pre-K opportunities and pursue sustainable long-term funding for early childhood education."
+    },
+    {
+      "issue_id": "education",
+      "claim": "Plans to continue delivering universal free school meals.",
+      "quote": "Continuing to deliver universal free school meals",
+      "url": "https://www.nedlamont.com/priorities/",
+      "source_type": "campaign",
+      "source_title": "Governor Ned Lamont's Priorities",
+      "retrieved_at": "2026-10-24T03:26:54+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote directly states that his agenda would continue delivering universal free school meals.",
+      "original_claim": "His campaign agenda says he will continue delivering universal free school meals."
+    },
+    {
+      "issue_id": "guns",
+      "claim": "Proposed a 10-day waiting period before sales of all firearms in Connecticut in 2023.",
+      "quote": "In conjunction with the above bulk purchasing limit, this proposal institutes a ten-day waiting period on sales of all firearms in Connecticut.",
+      "url": "https://portal.ct.gov/dmv/-/media/office-of-the-governor/2023-legislative-proposals/aa-addressing-gun-violence.pdf",
+      "source_type": "official",
+      "source_title": "",
+      "retrieved_at": "2026-10-24T03:27:14+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote explicitly says the proposal would institute a ten-day waiting period on sales of all firearms in Connecticut.",
+      "original_claim": "His 2023 proposal called for a 10-day waiting period before sales of all firearms in Connecticut."
+    },
+    {
+      "issue_id": "guns",
+      "claim": "His 2023 bill proposed making family-violence crimes and federal misdemeanor domestic-violence crimes automatic disqualifiers for pistol permits.",
+      "quote": "Makes commission of a family violence crime or federal misdemeanor crime of domestic violence into an automatic disqualifier for having a pistol permit",
+      "url": "https://portal.ct.gov/governor/news/press-releases/2023/06-2023/governor-lamont-applauds-senate-for-giving-final-approval-to-legislation-on-gun-violence-prevention",
+      "source_type": "official",
+      "source_title": "Governor Lamont Applauds Senate for Giving Final Approval to Comprehensive Legislation on Gun Violence Prevention, Says He Will Sign It Into Law",
+      "retrieved_at": "2026-10-24T05:07:41+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote identifies the family-violence and federal misdemeanor domestic-violence disqualifiers described in the claim."
+    },
+    {
+      "issue_id": "guns",
+      "claim": "His 2023 bill proposed requiring pistol-permit and eligibility-certificate training to cover safe storage, state firearms laws, and lawful use of firearms.",
+      "quote": "Updates the training requirements for pistol permits and eligibility certificates to require instruction on safe storage, state firearms laws, and lawful use of firearms.",
+      "url": "https://portal.ct.gov/governor/news/press-releases/2023/06-2023/governor-lamont-applauds-senate-for-giving-final-approval-to-legislation-on-gun-violence-prevention",
+      "source_type": "official",
+      "source_title": "Governor Lamont Applauds Senate for Giving Final Approval to Comprehensive Legislation on Gun Violence Prevention, Says He Will Sign It Into Law",
+      "retrieved_at": "2026-10-24T05:07:41+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote lists the three training subjects stated in the claim."
+    },
+    {
+      "issue_id": "healthcare",
+      "claim": "Would strengthen preventive and mental-health services.",
+      "quote": "Strengthen preventative and mental healthcare services",
+      "url": "https://www.nedlamont.com/priorities/",
+      "source_type": "campaign",
+      "source_title": "Governor Ned Lamont's Priorities",
+      "retrieved_at": "2026-10-24T03:26:54+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote directly states the campaign priority of strengthening preventive and mental-health services.",
+      "original_claim": "His campaign priorities page says he would strengthen preventive and mental-health services."
+    },
+    {
+      "issue_id": "housing",
+      "claim": "Would increase housing supply near transit and job centers, support workforce and middle-income housing, and revitalize downtowns and underused properties, according to his 2026 campaign platform.",
+      "quote": "Expanding housing supply near transit and job centers\nSupporting workforce and middle-income housing\nRevitalizing downtowns and underused properties\nWorking with local leaders and communities to meet housing needs responsibly",
+      "url": "https://www.nedlamont.com/priorities/",
+      "source_type": "campaign",
+      "source_title": "Governor Ned Lamont's Priorities",
+      "retrieved_at": "2026-10-24T03:26:54+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote lists the claimed housing-supply, workforce and middle-income housing, and downtown-revitalization priorities.",
+      "original_claim": "Lamont’s 2026 campaign platform says it would increase housing supply near transit and job centers, support workforce and middle-income housing, and revitalize downtowns and underused properties."
+    },
+    {
+      "issue_id": "housing",
+      "claim": "Proposed limiting renters’ security deposits to one month and increasing fines for landlords’ housing-code violations in a 2023 policy package.",
+      "quote": "This bill expands the rights of renters by limiting security deposits to just one month; raises fines for landlords for housing code violations from $250 to $1,000",
+      "url": "https://portal.ct.gov/governor/news/press-releases/2023/02-2023/governor-lamont-announces-budget-and-policy-proposals-include-support-to-expand-access-to-housing",
+      "source_type": "official",
+      "source_title": "Governor Lamont Announces Budget and Policy Proposals Include Support To Expand Access to Affordable and Workforce Housing",
+      "retrieved_at": "2026-10-24T05:07:56+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote directly supports the one-month security-deposit limit and increase in housing-code-violation fines.",
+      "original_claim": "Lamont’s 2023 policy package proposed limiting renters’ security deposits to one month and increasing fines for landlords’ housing-code violations."
+    },
+    {
+      "issue_id": "immigration",
+      "claim": "Would require federal immigration officials to obtain a judicial warrant to enter designated protected areas, subject to exigent-circumstances exceptions, under his 2026 legislative proposal.",
+      "quote": "Protect hospitals, schools, religious and government buildings and properties by codifying the \"protected areas” policy that federal law enforcement previously maintained. The proposal requires federal immigration officials to provide a judicial warrant in order to enter a protected area, subject to certain exceptions for exigent circumstances.",
+      "url": "https://portal.ct.gov/governor/-/media/office-of-the-governor/2026-legislative-proposals/sb-91-ig-and-protected-areas.pdf?hash=82F09E7DAC9E32BBFC0DD9BD28F3779C&rev=10e0c187dea44dda9e49d7950353f21b",
+      "source_type": "official",
+      "source_title": "",
+      "retrieved_at": "2026-10-24T05:07:51+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote directly states the judicial-warrant requirement for protected areas and its exigent-circumstances exception.",
+      "original_claim": "Lamont’s 2026 legislative proposal would require federal immigration officials to obtain a judicial warrant to enter designated protected areas, subject to exceptions for exigent circumstances."
+    },
+    {
+      "issue_id": "immigration",
+      "claim": "Says Connecticut did not want the kind of ICE presence it experienced that week and that random roundups to meet quotas do not reduce crime.",
+      "quote": "Let me be clear: Connecticut does not want, nor do we need, the type of presence ICE has had in our state this week. Connecticut has some of the lowest crime rates in the country, thanks to the excellent work our state and local police do to keep violent criminals off our streets. Rounding up people at random to fill a quota does not lower crime.",
+      "url": "https://portal.ct.gov/governor/news/press-releases/2026/08-2026/governor-lamont-on-ice-activity?language=en_US",
+      "source_type": "official",
+      "source_title": "Governor Lamont on ICE Activity in Connecticut: What Residents Should Know",
+      "retrieved_at": "2026-10-24T05:07:51+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote states both that Connecticut did not want that ICE presence and that random roundups to fill quotas do not lower crime.",
+      "original_claim": "Lamont said Connecticut did not want the kind of ICE presence it experienced that week and said random roundups to meet quotas do not reduce crime."
+    },
+    {
+      "issue_id": "immigration",
+      "claim": "Says Connecticut is not a “sanctuary” state and its laws set rules for cooperation with federal immigration authorities while respecting due process.",
+      "quote": "Connecticut is not a ‘sanctuary’ state. That term has no legal definition, and it is not an accurate description of our laws and practices. Labeling Connecticut a ‘sanctuary’ ignores the reality that our approach mirrors that of many other states that have adopted clear rules for cooperation with federal immigration authorities. These rules keep communities safe, respect due process, and allow police to focus resources where they are most needed.",
+      "url": "https://portal.ct.gov/governor/news/press-releases/2025/08-2025/governor-lamont-statement-on-letter-from-the-department-of-justice?language=en_US",
+      "source_type": "official",
+      "source_title": "Governor Lamont Statement on Letter From the U.S. Department of Justice Erroneously Identifying Connecticut as a ‘Sanctuary’ Jurisdiction",
+      "retrieved_at": "2026-10-24T03:27:03+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote directly states that Connecticut is not a sanctuary state and describes rules for federal cooperation and due process.",
+      "original_claim": "Lamont said Connecticut is not a “sanctuary” state and described its laws as setting rules for cooperation with federal immigration authorities while respecting due process."
+    },
+    {
+      "issue_id": "immigration",
+      "claim": "Requested $5 million from the state’s Federal Cuts Response Fund to support residents affected by changes to Temporary Protected Status, including Haitian and Syrian residents.",
+      "quote": "Governor Ned Lamont today announced that he has submitted a fifth request to utilize Connecticut’s recently created Federal Cuts Response Fund, directing $5 million to support Connecticut residents affected by Trump administration changes to Temporary Protected Status (TPS), including Haitian, Syrian, and other impacted individuals.",
+      "url": "https://portal.ct.gov/governor/news/press-releases/2026/07-2026/governor-lamont-announces-fifth-round-of-federal-cuts-response-funding",
+      "source_type": "official",
+      "source_title": "Governor Lamont Announces Fifth Round of Federal Cuts Response Funding To Support Connecticut Residents Impacted by Federal Immigration Changes",
+      "retrieved_at": "2026-10-24T05:07:51+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote states that Lamont submitted a request directing $5 million to residents affected by TPS changes, including Haitian and Syrian residents.",
+      "original_claim": "Lamont requested $5 million from the state’s Federal Cuts Response Fund to support residents affected by changes to Temporary Protected Status, including Haitian and Syrian residents."
+    },
+    {
+      "issue_id": "foreign_policy",
+      "claim": "Condemned Russia’s invasion of Ukraine and praised President Biden for leading sanctions against Russia on February 24, 2022.",
+      "quote": "“I condemn the unjustified, unprovoked Russian invasion of Ukraine. It is abhorrent. The people of Connecticut stand in solidarity with the citizens of Ukraine and pray for their safety as they endure this assault on their freedom. I commend President Biden for leading the free world in sanctioning and punishing Russia”",
+      "url": "https://portal.ct.gov/governor/news/press-releases/2022/02-2022/governor-lamont-statement-on-russian-invasion-of-ukraine",
+      "source_type": "official",
+      "source_title": "Governor Lamont Statement on Russian Invasion of Ukraine",
+      "retrieved_at": "2026-10-24T05:08:03+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote directly says Lamont condemned Russia’s invasion and commended Biden for leading sanctions against Russia.",
+      "original_claim": "On February 24, 2022, Lamont condemned Russia’s invasion of Ukraine and praised President Biden for leading sanctions against Russia."
+    },
+    {
+      "issue_id": "lgbtq",
+      "claim": "Says his record includes ensuring access to gender-affirming care and barring health-insurance discrimination based on gender identity.",
+      "quote": "Ensured access to gender-affirming care and banned discrimination based on gender identity in health insurance",
+      "url": "https://www.nedlamont.com/progressive-wins/",
+      "source_type": "campaign",
+      "source_title": "Support Ned Lamont",
+      "retrieved_at": "2026-10-24T03:27:03+00:00",
+      "archived_copy": null,
+      "verifier_note": "The campaign statement directly claims the record described in the item.",
+      "original_claim": "Lamont’s campaign says his record includes ensuring access to gender-affirming care and barring health-insurance discrimination based on gender identity."
+    },
+    {
+      "issue_id": "lgbtq",
+      "claim": "Opposed allowing health providers or insurers to discriminate based on sexual orientation or gender identity in a 2019 letter to federal officials.",
+      "quote": "We cannot allow health care providers in Connecticut to object to treating a patient based on immutable characteristics such as sexual orientation or gender identity. We also reject the right of issuers to limit or exclude people from coverage on that basis.",
+      "url": "https://portal.ct.gov/governor/-/media/office-of-the-governor/news/20190806-gov-lamont-comment-to-hhs-on-proposed-rule-on-nondiscrimination.pdf",
+      "source_type": "official",
+      "source_title": "",
+      "retrieved_at": "2026-10-24T05:08:12+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote directly opposes provider and insurer discrimination based on sexual orientation or gender identity.",
+      "original_claim": "In a 2019 letter to federal officials, Lamont opposed allowing health providers or insurers to discriminate based on sexual orientation or gender identity."
+    },
+    {
+      "issue_id": "lgbtq",
+      "claim": "Signed 2019 legislation barring criminal defendants from using a victim’s sexual orientation or gender identity to bolster a defense to violent-crime charges.",
+      "quote": "Governor Ned Lamont today announced that he has signed legislation prohibiting criminal defendants in Connecticut from using a victim’s actual or perceived sexual orientation or gender identity as a legal tactic to bolster the defense of the violent crimes for which they are accused.",
+      "url": "https://portal.ct.gov/governor/news/press-releases/2019/06-2019/governor-lamont-signs-legislation-banning-gay-and-transgender-panic-defenses?language=en_US",
+      "source_type": "official",
+      "source_title": "Governor Lamont Signs Legislation Banning Gay and Transgender 'Panic' Defenses in Criminal Cases",
+      "retrieved_at": "2026-10-24T05:08:03+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote states that Lamont signed legislation barring the described defense tactic.",
+      "original_claim": "In 2019, Lamont signed legislation barring criminal defendants from using a victim’s sexual orientation or gender identity to bolster a defense to violent-crime charges."
+    },
+    {
+      "issue_id": "lgbtq",
+      "claim": "Described Connecticut as proud of its laws supporting LGBTQ people, including its history of legislating same-sex marriage rights, in his June 2026 Pride Month proclamation.",
+      "quote": "Connecticut is proud to have led the nation in adopting laws supporting the LGBTQ community- including being the first state in the nation to enact a law through the legislature granting same-sex couples with the rights and responsibilities of marriage;",
+      "url": "https://portal.ct.gov/governor/-/media/office-of-the-governor/news/2026/20260601-pride-month.pdf",
+      "source_type": "official",
+      "source_title": "",
+      "retrieved_at": "2026-10-24T05:08:03+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote describes Connecticut’s LGBTQ-supporting laws and its same-sex marriage legislation history as stated.",
+      "original_claim": "In his June 2026 Pride Month proclamation, Lamont described Connecticut as proud of its laws supporting LGBTQ people, including its history of legislating same-sex marriage rights."
+    }
+  ],
+  "scores": {
+    "abortion": {
+      "score": -0.5,
+      "confidence": "medium",
+      "rationale": "This matches the protect-legal-access anchor: Lamont said he would protect reproductive rights and signed laws further safeguarding abortion access."
+    },
+    "climate": {
+      "score": -0.5,
+      "confidence": "high",
+      "rationale": "This matches the binding-targets and gradual clean-energy transition anchor: his agenda sets zero-carbon-grid and net-zero targets and promotes efficiency, electrification, and transit."
+    },
+    "crime": {
+      "score": 0.25,
+      "confidence": "low",
+      "rationale": "This falls between the balance and expanded-enforcement anchors: Lamont emphasized public safety and taking serious offenders off the streets, without findings on police funding or reform."
+    },
+    "economy": {
+      "score": 0.0,
+      "confidence": "medium",
+      "rationale": "This matches the targeted tax-relief anchor: his record cites lower middle-income tax rates and an increased Earned Income Tax Credit."
+    },
+    "education": {
+      "score": -0.5,
+      "confidence": "medium",
+      "rationale": "This matches the public-school funding and pre-K expansion anchor: his agenda supports special education, more pre-K, and early-childhood education funding, and proposes a free college class for seniors."
+    },
+    "guns": {
+      "score": -0.25,
+      "confidence": "medium",
+      "rationale": "This falls between the some-new-checks and broader-restrictions anchors: his proposals include a firearm waiting period, permit disqualifiers, training requirements, and limits on open carry."
+    },
+    "healthcare": {
+      "score": -0.5,
+      "confidence": "medium",
+      "rationale": "This matches the public-coverage expansion and lower-drug-costs anchor: his agenda proposes the Connecticut Option and lower prescription-drug costs."
+    },
+    "housing": {
+      "score": -0.25,
+      "confidence": "medium",
+      "rationale": "This falls between the zoning-and-targeted-aid and tenant-protection anchors: his platform promotes housing supply near transit and jobs, and a policy package limits deposits and raises fines for code violations."
+    },
+    "immigration": {
+      "score": -0.25,
+      "confidence": "medium",
+      "rationale": "This falls between the expanded-pathways and due-process-oriented anchors: he opposed random ICE roundups, proposed judicial-warrant safeguards for protected areas, and supported residents affected by TPS changes, while saying Connecticut is not a sanctuary state."
+    },
+    "foreign_policy": {
+      "score": 0.0,
+      "confidence": "medium",
+      "rationale": "This matches the mainstream support-for-allies-and-sanctions anchor: he expressed solidarity with Israel after Hamas’s attacks and supported sanctions against Russia."
+    },
+    "lgbtq": {
+      "score": -0.75,
+      "confidence": "low",
+      "rationale": "This is a partial match to the expand-protections anchor: findings document gender-affirming care access and protections against discrimination, but do not address sports participation."
+    },
+    "womens_childrens": {
+      "score": -0.5,
+      "confidence": "medium",
+      "rationale": "This matches the expand-family-support anchor: Lamont signed a paid-leave program providing up to 12 weeks, with no finding here on universal child care or equal-pay mandates."
+    }
+  },
+  "stats": {
+    "raw_findings": 15,
+    "passed_code_checks": 15,
+    "verified": 9,
+    "profile_facts": 6,
+    "deep_pass": {
+      "found": 51,
+      "passed_code_checks": 46,
+      "added": 23,
+      "before": 9,
+      "after": 32
+    }
+  },
+  "deepened_at": "2026-10-24T05:09:17+00:00"
+}

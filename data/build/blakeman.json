@@ -1,0 +1,438 @@
+{
+  "id": "blakeman",
+  "built_at": "2026-10-24T03:28:11+00:00",
+  "profile": [
+    {
+      "issue_id": "profile:current_role",
+      "claim": "Nassau County Executive.",
+      "quote": "Bruce Blakeman\nCounty Executive",
+      "url": "https://www.nassaucountyny.gov/481/County-Executive",
+      "source_type": "official",
+      "source_title": "County Executive | Nassau County, NY - Official Website",
+      "retrieved_at": "2026-10-24T03:26:54+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote identifies him as County Executive."
+    },
+    {
+      "issue_id": "profile:previous_role",
+      "claim": "Hempstead Town Councilman, 2015–2021.",
+      "quote": "As Hempstead Town Councilman from 2015 to 2021, Bruce Blakeman voted to cut property taxes multiple years in a row",
+      "url": "https://www.nassaucountyny.gov/481/County-Executive",
+      "source_type": "official",
+      "source_title": "County Executive | Nassau County, NY - Official Website",
+      "retrieved_at": "2026-10-24T03:26:54+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote identifies his Hempstead Town Council service and the 2015–2021 dates."
+    },
+    {
+      "issue_id": "profile:previous_role",
+      "claim": "Commissioner of the Port Authority of New York and New Jersey.",
+      "quote": "Appointed by the Governor of New York, Bruce Blakeman previously served as a Commissioner of the Port Authority of New York and New Jersey in the aftermath of 9/11",
+      "url": "https://www.nassaucountyny.gov/481/County-Executive",
+      "source_type": "official",
+      "source_title": "County Executive | Nassau County, NY - Official Website",
+      "retrieved_at": "2026-10-24T03:26:54+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote says he previously served as a Port Authority commissioner."
+    },
+    {
+      "issue_id": "profile:previous_role",
+      "claim": "Executive Director of the New York Police Chiefs Benevolent Association.",
+      "quote": "As Executive Director of the New York Police Chiefs Benevolent Association",
+      "url": "https://www.nassaucountyny.gov/481/County-Executive",
+      "source_type": "official",
+      "source_title": "County Executive | Nassau County, NY - Official Website",
+      "retrieved_at": "2026-10-24T03:26:54+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote identifies him as Executive Director of the New York Police Chiefs Benevolent Association."
+    },
+    {
+      "issue_id": "profile:previous_role",
+      "claim": "Presiding Officer of the County Legislature.",
+      "quote": "A former Presiding Officer of the County Legislature",
+      "url": "https://www.nassaucountyny.gov/481/County-Executive",
+      "source_type": "official",
+      "source_title": "County Executive | Nassau County, NY - Official Website",
+      "retrieved_at": "2026-10-24T03:26:54+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote identifies him as a former Presiding Officer of the County Legislature."
+    },
+    {
+      "issue_id": "profile:top_policy",
+      "claim": "Supports reducing state income taxes.",
+      "quote": "His plan also calls for a 10% income-tax cut for those earning under $250,000 a year.",
+      "url": "https://www.blakemanfornewyork.com/save-money",
+      "source_type": "campaign",
+      "source_title": "3 Ways Bruce Blakeman Will Save You Money",
+      "retrieved_at": "2026-10-24T03:26:54+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote shows the campaign proposing a 10% state income-tax cut for those earning under $250,000.",
+      "original_claim": "The campaign highlights reducing state income taxes."
+    },
+    {
+      "issue_id": "profile:education",
+      "claim": "Graduate of California Western Law School and Arizona State University.",
+      "quote": "Mr. Blakeman is a graduate of California Western Law School and Arizona State University.",
+      "url": "https://www.nassaucountyny.gov/481/County-Executive",
+      "source_type": "official",
+      "source_title": "County Executive | Nassau County, NY - Official Website",
+      "retrieved_at": "2026-10-24T03:26:54+00:00",
+      "archived_copy": null,
+      "verifier_note": "The official profile states that Blakeman graduated from both named institutions."
+    }
+  ],
+  "findings": [
+    {
+      "issue_id": "crime",
+      "claim": "Proposes repealing policies he labels “cashless bail” and hiring more police officers.",
+      "quote": "Bruce Blakeman’s Plan:\nRepeal cashless bail\nEnd pro-criminal laws\nRestore accountability\nPolicing\nKathy Hochul’s Record:\nSupported policies tied to a $1 billion NYPD funding reduction\nCriticized incarceration rates instead of enforcing laws\nBruce Blakeman’s Plan:\nHire more police officers",
+      "url": "https://www.blakemanfornewyork.com/bruce-blakeman-and-kathy-hochul",
+      "source_type": "campaign",
+      "source_title": "Bruce Blakeman vs. Kathy Hochul | The Clear Choice for NY",
+      "retrieved_at": "2026-10-24T03:26:54+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote lists both repealing cashless bail and hiring more police officers as Blakeman’s plan.",
+      "original_claim": "His campaign plan calls for repealing cashless bail and hiring more police officers."
+    },
+    {
+      "issue_id": "economy",
+      "claim": "Proposes eliminating state income tax on the first $50,000 for single filers and $100,000 for joint filers, plus a 10% income-tax cut for people earning under $250,000.",
+      "quote": "Bruce will eliminate state personal income tax on the first $50,000 of income for single filers and the first $100,000 for joint filers. His plan also calls for a 10% income-tax cut for those earning under $250,000 a year.",
+      "url": "https://www.blakemanfornewyork.com/save-money",
+      "source_type": "campaign",
+      "source_title": "3 Ways Bruce Blakeman Will Save You Money",
+      "retrieved_at": "2026-10-24T03:26:54+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote states both proposed income-tax reductions and their thresholds.",
+      "original_claim": "He proposes eliminating state income tax on the first $50,000 for single filers and $100,000 for joint filers, plus a 10% income-tax cut for people earning under $250,000."
+    },
+    {
+      "issue_id": "education",
+      "claim": "Proposes reducing class sizes, supporting school choice, and focusing on math, science, and reading.",
+      "quote": "Bruce Blakeman’s Plan:\nRedirect funding back to schools\nReduce class sizes\nImprove facilities\nSupport parental rights and school choice\nFocus on math, science, and reading",
+      "url": "https://www.blakemanfornewyork.com/bruce-blakeman-and-kathy-hochul",
+      "source_type": "campaign",
+      "source_title": "Bruce Blakeman vs. Kathy Hochul | The Clear Choice for NY",
+      "retrieved_at": "2026-10-24T03:26:54+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote lists reducing class sizes, supporting school choice, and focusing on math, science, and reading.",
+      "original_claim": "His campaign plan proposes reducing class sizes, supporting school choice, and focusing on math, science, and reading."
+    },
+    {
+      "issue_id": "healthcare",
+      "claim": "Proposes creating a Medicaid fraud task force, requiring price transparency, and supporting local hospitals.",
+      "quote": "Bruce Blakeman’s Plan:\nLaunch Medicaid Fraud Task Force\nRecover stolen funds\nReduce mandates driving up costs\nRequire price transparency\nSupport local hospitals",
+      "url": "https://www.blakemanfornewyork.com/bruce-blakeman-and-kathy-hochul",
+      "source_type": "campaign",
+      "source_title": "Bruce Blakeman vs. Kathy Hochul | The Clear Choice for NY",
+      "retrieved_at": "2026-10-24T03:26:54+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote lists a Medicaid fraud task force, price transparency, and support for local hospitals.",
+      "original_claim": "His campaign plan proposes a Medicaid fraud task force, price transparency requirements, and support for local hospitals."
+    },
+    {
+      "issue_id": "housing",
+      "claim": "Joined a press conference raising concerns about all-electric building mandates and their effects on rent, utilities, and housing construction.",
+      "quote": "Bruce Blakeman joined Senator Steve Chan, Assemblyman Lester Chang, Assemblyman Michael Novakhov, and Humberto “HL” Lopes, CEO of HL Dynasty and Gotham Housing Alliance, for a press conference to sound the alarm as “All-Electric Building” mandates drive up the cost of rent and utilities while stalling housing construction.",
+      "url": "https://www.blakemanfornewyork.com/press/blakeman-nyc-builders-expose-gas-ban-for-stalling-housing-construction-and-driving-up-rent",
+      "source_type": "campaign",
+      "source_title": "Blakeman, NYC Builders Expose Gas Ban for Stalling Housing Construction and Driving Up Rent | Bruce Blakeman for NY",
+      "retrieved_at": "2026-10-24T03:27:05+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote says Blakeman joined the press conference and attributes the cost and construction claims to the campaign.",
+      "original_claim": "He joined a press conference opposing all-electric building mandates, which the campaign said increase rent and utility costs and stall housing construction."
+    },
+    {
+      "issue_id": "immigration",
+      "claim": "Signed an executive order opposing sanctuary-county status and county spending on services for undocumented immigrants.",
+      "quote": "County Executive Blakeman signed an Executive Order to ensure Nassau never becomes a Sanctuary County nor spends your tax dollars on services for illegal aliens.",
+      "url": "https://www.nassaucountyny.gov/481/County-Executive",
+      "source_type": "official",
+      "source_title": "County Executive | Nassau County, NY - Official Website",
+      "retrieved_at": "2026-10-24T03:26:54+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote says Blakeman signed an order against sanctuary-county status and county spending on the specified services.",
+      "original_claim": "As Nassau County executive, he signed an executive order opposing sanctuary-county status and county spending on services for undocumented immigrants."
+    },
+    {
+      "issue_id": "lgbtq",
+      "claim": "Signed an executive order concerning women’s sports; the county page says it is intended to keep transgender women and girls from competing in female leagues.",
+      "quote": "A champion for the rights of women and girls to compete in sporting events in female leagues without transgender biological males bullying their way onto girls’ teams, Bruce Blakeman signed an Executive Order to protect women’s sports.",
+      "url": "https://www.nassaucountyny.gov/481/County-Executive",
+      "source_type": "official",
+      "source_title": "County Executive | Nassau County, NY - Official Website",
+      "retrieved_at": "2026-10-24T03:26:54+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote links the executive order to excluding transgender athletes from female leagues.",
+      "original_claim": "As Nassau County executive, he signed an executive order to protect women’s sports; the county page describes its aim as keeping transgender women and girls out of female leagues."
+    },
+    {
+      "issue_id": "womens_childrens",
+      "claim": "Signed an executive order concerning women’s sports.",
+      "quote": "Bruce Blakeman signed an Executive Order to protect women’s sports.",
+      "url": "https://www.nassaucountyny.gov/481/County-Executive",
+      "source_type": "official",
+      "source_title": "County Executive | Nassau County, NY - Official Website",
+      "retrieved_at": "2026-10-24T03:26:54+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote directly says Blakeman signed an executive order to protect women’s sports.",
+      "original_claim": "As Nassau County executive, Blakeman signed an executive order concerning women’s sports."
+    },
+    {
+      "issue_id": "womens_childrens",
+      "claim": "Signed an executive order about parents sending children to school without masks.",
+      "quote": "He signed New York State’s first Executive Order to restore the rights of parents to send their children to school without masks.",
+      "url": "https://www.nassaucountyny.gov/481/County-Executive",
+      "source_type": "official",
+      "source_title": "County Executive | Nassau County, NY - Official Website",
+      "retrieved_at": "2026-10-24T03:26:54+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote says he signed an order concerning parents sending children to school without masks.",
+      "original_claim": "As Nassau County executive, Blakeman signed an executive order about parents sending children to school without masks."
+    },
+    {
+      "issue_id": "climate",
+      "claim": "Says he pledged to cut New Yorkers’ electricity bills in half if elected governor.",
+      "quote": "pledged to cut New Yorkers' electricity bills in half as Governor.",
+      "url": "https://www.blakemanfornewyork.com/press/blakeman-declares-utility-bill-state-of-emergency-as-hochul-approves-48th-rate-hike",
+      "source_type": "campaign",
+      "source_title": "Blakeman Declares Utility Bill State of Emergency as Hochul Approves 48th Rate Hike | Bruce Blakeman for NY",
+      "retrieved_at": "2026-10-24T05:05:34+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote supports the campaign's statement that he pledged to cut electricity bills in half as governor.",
+      "original_claim": "His campaign said he pledged to cut New Yorkers’ electricity bills in half if elected governor."
+    },
+    {
+      "issue_id": "crime",
+      "claim": "Proposes investing in crime-fighting technology, funding local departments, and holding district attorneys accountable.",
+      "quote": "Invest in crime-fighting technology\nFund local departments\nHold district attorneys accountable",
+      "url": "https://www.blakemanfornewyork.com/bruce-blakeman-and-kathy-hochul",
+      "source_type": "campaign",
+      "source_title": "Bruce Blakeman vs. Kathy Hochul | The Clear Choice for NY",
+      "retrieved_at": "2026-10-24T03:26:54+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quoted campaign plan lists all three proposals.",
+      "original_claim": "The campaign plan proposes investing in crime-fighting technology, funding local departments and holding district attorneys accountable."
+    },
+    {
+      "issue_id": "crime",
+      "claim": "Says he launched Operation Overwatch, a roving police-car patrol unit intended to deter crime and respond to incidents.",
+      "quote": "Blakeman also launched Operation Overwatch, a roving patrol unit of police cars, to serve as a crime deterrent and respond swiftly should an incident occur.",
+      "url": "https://www.nassaucountyny.gov/481/County-Executive",
+      "source_type": "official",
+      "source_title": "County Executive | Nassau County, NY - Official Website",
+      "retrieved_at": "2026-10-24T03:26:54+00:00",
+      "archived_copy": null,
+      "verifier_note": "The official biography says Blakeman launched the patrol unit and describes its intended purpose.",
+      "original_claim": "As Nassau County executive, Blakeman launched Operation Overwatch, a roving police-car patrol unit intended to deter crime and respond to incidents."
+    },
+    {
+      "issue_id": "crime",
+      "claim": "Says he invested millions in programs addressing illegal drugs and addiction, including enforcement and recovery programs.",
+      "quote": "the County Executive also invested millions into battling illegal drugs and addiction. He is focused on keeping families together and saving lives through increased awareness, education, enforcement programs, and recovery programs.",
+      "url": "https://www.nassaucountyny.gov/481/County-Executive",
+      "source_type": "official",
+      "source_title": "County Executive | Nassau County, NY - Official Website",
+      "retrieved_at": "2026-10-24T03:26:54+00:00",
+      "archived_copy": null,
+      "verifier_note": "The official biography attributes the investment in drug and addiction programs to the county executive.",
+      "original_claim": "Nassau County’s official biography says Blakeman invested millions in programs addressing illegal drugs and addiction, including enforcement and recovery programs."
+    },
+    {
+      "issue_id": "economy",
+      "claim": "Proposes cutting spending he calls “wasteful,” dedicating 70% of new state revenues to tax relief, and reducing property taxes by 10%.",
+      "quote": "Bruce will cut wasteful spending, dedicate 70% of new state revenues to tax relief, and reduce property taxes by 10%.",
+      "url": "https://www.blakemanfornewyork.com/save-money",
+      "source_type": "campaign",
+      "source_title": "3 Ways Bruce Blakeman Will Save You Money",
+      "retrieved_at": "2026-10-24T03:26:54+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote directly supports the spending and tax-relief proposals.",
+      "original_claim": "His campaign says he would cut wasteful spending, use 70% of new state revenues for tax relief, and reduce property taxes by 10%."
+    },
+    {
+      "issue_id": "economy",
+      "claim": "Calls for ending congestion pricing and auditing the MTA for waste and fraud.",
+      "quote": "End congestion pricing on Day One Audit the MTA for waste and fraud",
+      "url": "https://www.blakemanfornewyork.com/bruce-blakeman-and-kathy-hochul",
+      "source_type": "campaign",
+      "source_title": "Bruce Blakeman vs. Kathy Hochul | The Clear Choice for NY",
+      "retrieved_at": "2026-10-24T03:26:54+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quoted campaign plan calls for ending congestion pricing and auditing the MTA.",
+      "original_claim": "His campaign plan calls for ending congestion pricing and auditing the MTA for waste and fraud."
+    },
+    {
+      "issue_id": "economy",
+      "claim": "Proposes ending mandates he says target workers, rehiring correction officers fired for striking, and supporting fair pay and working conditions.",
+      "quote": "End mandates targeting workers Rehire correction officers fired for striking Support fair pay and working conditions",
+      "url": "https://www.blakemanfornewyork.com/bruce-blakeman-and-kathy-hochul",
+      "source_type": "campaign",
+      "source_title": "Bruce Blakeman vs. Kathy Hochul | The Clear Choice for NY",
+      "retrieved_at": "2026-10-24T03:26:54+00:00",
+      "archived_copy": null,
+      "verifier_note": "The campaign plan lists each of the stated worker-related proposals.",
+      "original_claim": "In its workers section, his campaign says he would end mandates targeting workers, rehire correction officers fired for striking, and support fair pay and working conditions."
+    },
+    {
+      "issue_id": "education",
+      "claim": "Urged state lawmakers to restore school funding cuts instead of allocating taxpayer funds to migrant services.",
+      "quote": "To best protect your wallet, I have urged the Democrat Majority in the State Senate and State Assembly to restore cuts to our schools and communities instead of allocating billions of taxpayer dollars for migrant services.",
+      "url": "https://forms.nassaucountyny.gov/contact/agencies/ce/school-aid-petition.php",
+      "source_type": "official",
+      "source_title": "Nassau County, NY",
+      "retrieved_at": "2026-10-24T05:06:06+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote says he urged state lawmakers to restore school cuts instead of allocating billions for migrant services.",
+      "original_claim": "He urged state lawmakers to restore school funding cuts rather than allocate the cited taxpayer funds to migrant services."
+    },
+    {
+      "issue_id": "education",
+      "claim": "Says he called for an independent investigation of the State Board of Regents over the use of AI in high-school graduation exams.",
+      "quote": "Nassau County Executive and Republican nominee for Governor Bruce Blakeman today demanded an immediate, independent investigation into the New York State Board of Regents, slamming Governor Kathy Hochul for allowing unvetted artificial intelligence to generate this year's high-stakes high school graduation exams.",
+      "url": "https://www.blakemanfornewyork.com/press/robot-regents-hochul-outsourced-our-kids-education-to-an-ai",
+      "source_type": "campaign",
+      "source_title": "Robot Regents: Hochul Outsourced Our Kids' Education to an AI | Bruce Blakeman for NY",
+      "retrieved_at": "2026-10-24T05:05:53+00:00",
+      "archived_copy": null,
+      "verifier_note": "The campaign statement calls for an independent investigation and links the issue to AI-generated high-school exams.",
+      "original_claim": "His campaign said he called for an independent investigation of the State Board of Regents over the use of AI in high-school graduation exams."
+    },
+    {
+      "issue_id": "healthcare",
+      "claim": "Says he rejected mask mandates while serving as Nassau County executive.",
+      "quote": "As Nassau County Executive, he was re-elected in 2025 by 12 points in a Democrat-leaning county by doing what Albany won’t: keeping communities safe, cutting taxes, and putting common sense first. He fought sanctuary policies, rejected mask mandates",
+      "url": "https://www.blakemanfornewyork.com/",
+      "source_type": "campaign",
+      "source_title": "Bruce Blakeman for Governor | Lower Taxes & Safe Streets",
+      "retrieved_at": "2026-10-24T03:26:54+00:00",
+      "archived_copy": null,
+      "verifier_note": "The campaign says he rejected mask mandates as Nassau County executive.",
+      "original_claim": "His campaign says Blakeman rejected mask mandates while serving as Nassau County Executive."
+    },
+    {
+      "issue_id": "immigration",
+      "claim": "Says he worked with ICE to take people he describes as criminals off the streets.",
+      "quote": "Blakeman said NO to Kathy Hochul’s sanctuary policies, and worked with ICE to take criminals off our streets.",
+      "url": "https://www.blakemanfornewyork.com/",
+      "source_type": "campaign",
+      "source_title": "Bruce Blakeman for Governor | Lower Taxes & Safe Streets",
+      "retrieved_at": "2026-10-24T03:26:54+00:00",
+      "archived_copy": null,
+      "original_claim": "His campaign says he worked with ICE to remove criminals from Nassau County streets.",
+      "verifier_note": "The campaign says he worked with ICE to take people it describes as criminals off the streets."
+    },
+    {
+      "issue_id": "immigration",
+      "claim": "Says no migrant buses entered the county while Blakeman was county executive.",
+      "quote": "Under County Executive Blakeman’s watch, no migrant buses have come into Nassau County.",
+      "url": "https://www.nassaucountyny.gov/481/County-Executive",
+      "source_type": "official",
+      "source_title": "County Executive | Nassau County, NY - Official Website",
+      "retrieved_at": "2026-10-24T03:26:54+00:00",
+      "archived_copy": null,
+      "verifier_note": "The official biography states that no migrant buses entered Nassau County under Blakeman's watch.",
+      "original_claim": "Nassau County’s official biography says no migrant buses entered the county while Blakeman was county executive."
+    },
+    {
+      "issue_id": "foreign_policy",
+      "claim": "Says he organized a rally in support of Israel and formed a bipartisan task force to combat antisemitism.",
+      "quote": "County Executive Blakeman organized the region’s largest rally in support of the state of Israel by bringing over 6,000 people together to stand against terrorism. He also formed a bi-partisan Task Force to Combat Antisemitism on Long Island.",
+      "url": "https://www.nassaucountyny.gov/481/County-Executive",
+      "source_type": "official",
+      "source_title": "County Executive | Nassau County, NY - Official Website",
+      "retrieved_at": "2026-10-24T03:26:54+00:00",
+      "archived_copy": null,
+      "verifier_note": "The official biography attributes the rally and task force formation to Blakeman.",
+      "original_claim": "As Nassau County executive, Blakeman organized a rally in support of Israel and formed a bipartisan task force to combat antisemitism."
+    },
+    {
+      "issue_id": "foreign_policy",
+      "claim": "In January 2026, called for an investigation into the Hochul administration’s ties to the Chinese Communist Party, citing national-security concerns.",
+      "quote": "Blakeman: Investigation Needed Into Hochul Administration's Ties to Chinese Communist Party\nJanuary 7, 2026\nWarns Pattern of Engagement Raises Serious National Security Concerns",
+      "url": "https://www.blakemanfornewyork.com/press/blakeman-investigation-needed-into-hochul-administrations-ties-to-chinese-communist-party",
+      "source_type": "campaign",
+      "source_title": "Blakeman: Investigation Needed Into Hochul Administration's Ties to Chinese Communist Party | Bruce Blakeman for NY",
+      "retrieved_at": "2026-10-24T05:06:53+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quoted campaign headline calls for an investigation into the administration's ties to the Chinese Communist Party, and the subhead states the national-security concern.",
+      "original_claim": "In January 2026, Blakeman’s campaign called for an investigation into the Hochul administration’s ties to the Chinese Communist Party, citing national-security concerns."
+    }
+  ],
+  "scores": {
+    "abortion": {
+      "score": null,
+      "confidence": null,
+      "rationale": "Not enough verified information."
+    },
+    "climate": {
+      "score": null,
+      "confidence": null,
+      "rationale": "The electricity-bill pledge does not identify a climate or energy-policy approach that matches a rubric anchor."
+    },
+    "crime": {
+      "score": 0.5,
+      "confidence": "high",
+      "rationale": "The 0.5 anchor matches the proposals to repeal cashless bail, hire more police, fund local departments, and invest in crime-fighting technology."
+    },
+    "economy": {
+      "score": 0.5,
+      "confidence": "high",
+      "rationale": "The 0.5 anchor matches broad income- and property-tax cuts and the stated plan to cut wasteful spending and direct new revenue to tax relief."
+    },
+    "education": {
+      "score": 0.0,
+      "confidence": "medium",
+      "rationale": "The 0.0 anchor matches support for both public schools, including restoring funding and reducing class sizes, and school choice."
+    },
+    "guns": {
+      "score": null,
+      "confidence": null,
+      "rationale": "Not enough verified information."
+    },
+    "healthcare": {
+      "score": 0.25,
+      "confidence": "low",
+      "rationale": "The findings sit between the 0.0 targeted-fixes anchor and the 0.5 market-based-reforms anchor: they propose price transparency and a fraud task force, and also reducing mandates driving costs."
+    },
+    "housing": {
+      "score": 0.5,
+      "confidence": "low",
+      "rationale": "The 0.5 anchor is a partial fit because he opposed all-electric building mandates on grounds that they raise costs and stall construction."
+    },
+    "immigration": {
+      "score": 0.5,
+      "confidence": "high",
+      "rationale": "The 0.5 anchor matches the opposition to sanctuary status and work with ICE to remove people described as criminals."
+    },
+    "foreign_policy": {
+      "score": null,
+      "confidence": null,
+      "rationale": "The Israel rally and China-related national-security concern do not establish a position matching the rubric’s aid, diplomacy, sanctions, or military-posture anchors."
+    },
+    "lgbtq": {
+      "score": 0.5,
+      "confidence": "medium",
+      "rationale": "The 0.5 anchor matches the executive order aimed at excluding transgender women and girls from female sports leagues."
+    },
+    "womens_childrens": {
+      "score": null,
+      "confidence": null,
+      "rationale": "The findings about women’s sports and school mask policies do not indicate a position on childcare, paid leave, equal-pay mandates, or government family-support programs."
+    }
+  },
+  "stats": {
+    "raw_findings": 12,
+    "passed_code_checks": 11,
+    "verified": 9,
+    "profile_facts": 6,
+    "deep_pass": {
+      "found": 30,
+      "passed_code_checks": 24,
+      "added": 14,
+      "before": 9,
+      "after": 23
+    }
+  },
+  "deepened_at": "2026-10-24T05:07:59+00:00"
+}

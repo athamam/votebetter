@@ -1,0 +1,117 @@
+{
+  "id": "kuniansky",
+  "built_at": "2026-10-24T03:29:44+00:00",
+  "profile": [],
+  "findings": [
+    {
+      "issue_id": "abortion",
+      "claim": "Said she did not mourn Roe v. Wade’s reversal, stated that Dobbs did not ban abortions, and described it as opening debate to build support for decriminalization.",
+      "quote": "“Today I don’t mourn the reversal of Roe v. Wade,” Kuniansky told participants. “The Dobbs decision did not ban abortions.” It opened a “debate to win a majority of working people to support decriminalization.”",
+      "url": "https://themilitant.com/2023/01/28/road-to-womens-emancipation-debated-at-us-womens-marches/",
+      "source_type": "campaign",
+      "source_title": "Road to women’s emancipation debated at US women’s marches – The Militant",
+      "retrieved_at": "2026-10-24T05:12:55+00:00",
+      "archived_copy": "https://web.archive.org/web/20250423140047/https://themilitant.com/2023/01/28/road-to-womens-emancipation-debated-at-us-womens-marches/",
+      "verifier_note": "The quote reports Kuniansky’s own statements about Roe, Dobbs, and support for decriminalization.",
+      "original_claim": "Kuniansky said she did not mourn Roe v. Wade’s reversal, stated that Dobbs did not ban abortions, and described it as opening debate to build support for decriminalization."
+    },
+    {
+      "issue_id": "climate",
+      "claim": "In a 2021 statement, Kuniansky argued that government regulations do not stop employers from prioritizing profit over workers and the planet.",
+      "quote": "Regulations by all-too complicit government bureaucrats do nothing to stop bosses determined to maximize profits at the expense of workers’ lives and our planet.",
+      "url": "https://themilitant.com/2021/06/12/fight-for-workers-control-of-production/",
+      "source_type": "campaign",
+      "source_title": "Fight for workers control of production! – The Militant",
+      "retrieved_at": "2026-10-24T05:13:00+00:00",
+      "archived_copy": "https://web.archive.org/web/20250708105215/https://themilitant.com/2021/06/12/fight-for-workers-control-of-production/",
+      "verifier_note": "The quote supports her stated view that regulations do not stop employers from prioritizing profits at workers’ and the planet’s expense."
+    },
+    {
+      "issue_id": "climate",
+      "claim": "She advocated workers taking control of production, saying that would enable safe work and protect natural resources for future generations.",
+      "quote": "All work can be performed safely and in ways that protect our natural resources for use by future generations. But for that to become a reality, workers must fight to take control of production out of the bosses’ hands.",
+      "url": "https://themilitant.com/2021/06/12/fight-for-workers-control-of-production/",
+      "source_type": "campaign",
+      "source_title": "Fight for workers control of production! – The Militant",
+      "retrieved_at": "2026-10-24T05:13:00+00:00",
+      "archived_copy": "https://web.archive.org/web/20250708105215/https://themilitant.com/2021/06/12/fight-for-workers-control-of-production/",
+      "verifier_note": "The quote supports her call for workers to take control of production as a means of making work safe and protecting natural resources."
+    }
+  ],
+  "scores": {
+    "abortion": {
+      "score": -0.75,
+      "confidence": "low",
+      "rationale": "Partial fit with the -1.0 anchor: she advocated decriminalization, but the finding does not establish access at any stage or public funding."
+    },
+    "climate": {
+      "score": null,
+      "confidence": null,
+      "rationale": "The findings are too little to match a climate anchor: she criticized government regulation and called for worker control to protect natural resources, without specifying an emissions or energy policy."
+    },
+    "crime": {
+      "score": null,
+      "confidence": null,
+      "rationale": "Not enough verified information."
+    },
+    "economy": {
+      "score": null,
+      "confidence": null,
+      "rationale": "Not enough verified information."
+    },
+    "education": {
+      "score": null,
+      "confidence": null,
+      "rationale": "Not enough verified information."
+    },
+    "guns": {
+      "score": null,
+      "confidence": null,
+      "rationale": "Not enough verified information."
+    },
+    "healthcare": {
+      "score": null,
+      "confidence": null,
+      "rationale": "Not enough verified information."
+    },
+    "housing": {
+      "score": null,
+      "confidence": null,
+      "rationale": "Not enough verified information."
+    },
+    "immigration": {
+      "score": null,
+      "confidence": null,
+      "rationale": "Not enough verified information."
+    },
+    "foreign_policy": {
+      "score": null,
+      "confidence": null,
+      "rationale": "Not enough verified information."
+    },
+    "lgbtq": {
+      "score": null,
+      "confidence": null,
+      "rationale": "Not enough verified information."
+    },
+    "womens_childrens": {
+      "score": null,
+      "confidence": null,
+      "rationale": "Not enough verified information."
+    }
+  },
+  "stats": {
+    "raw_findings": 0,
+    "passed_code_checks": 0,
+    "verified": 0,
+    "profile_facts": 0,
+    "deep_pass": {
+      "found": 3,
+      "passed_code_checks": 3,
+      "added": 3,
+      "before": 0,
+      "after": 3
+    }
+  },
+  "deepened_at": "2026-10-24T05:14:45+00:00"
+}

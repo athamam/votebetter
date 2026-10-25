@@ -1,0 +1,314 @@
+{
+  "_about": "Official ballot list for the three statewide races in NY, NJ and CT on November 3, 2026. Names, parties and ballot lines are hand-copied from each state's election office (see ballot_source on each race). Campaign domains were checked by opening the site; they tell the agents which sites count as the candidate's own words.",
+  "election_date": "2026-11-03",
+  "races": [
+    {
+      "id": "ny-governor",
+      "state": "NY",
+      "state_name": "New York",
+      "office": "Governor",
+      "ballot_source": {
+        "title": "NY State Board of Elections - Certification for the November 3, 2026 General Election (amended Sept 17, 2026), page 3",
+        "url": "https://elections.ny.gov/system/files/documents/2026/09/accessible-2026-general-ballot-certification-9.17.2026.pdf",
+        "archived_url": "https://web.archive.org/web/20260921161739/https://elections.ny.gov/system/files/documents/2026/09/accessible-2026-general-ballot-certification-9.17.2026.pdf"
+      },
+      "candidates": [
+        {
+          "id": "hochul",
+          "name": "Kathy Hochul",
+          "ballot_name": "Kathy C. Hochul",
+          "party": "Democratic",
+          "ballot_lines": [
+            "Democratic",
+            "Working Families"
+          ],
+          "running_mate": "Adrienne E. Adams",
+          "incumbent": true,
+          "campaign_domains": [
+            "kathyhochul.com"
+          ],
+          "official_domains": [
+            "governor.ny.gov",
+            "ny.gov"
+          ],
+          "voteview": {
+            "congress": 112,
+            "chamber": "House",
+            "bioguide_id": "H001062",
+            "note": "U.S. House, NY-26, 2011-2013"
+          },
+          "photo": {
+            "file": "hochul.jpg",
+            "credit": "The White House",
+            "license": "Public domain (U.S. federal government work)",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Kathy_Hochul_(51918007546)_(1).jpg"
+          },
+          "contact": {
+            "website": "https://kathyhochul.com/",
+            "social": {},
+            "email": null,
+            "contact_page": null,
+            "found_on": "https://kathyhochul.com/"
+          }
+        },
+        {
+          "id": "blakeman",
+          "name": "Bruce Blakeman",
+          "ballot_name": "Bruce A. Blakeman",
+          "party": "Republican",
+          "ballot_lines": [
+            "Republican",
+            "Conservative",
+            "Vote Affordable"
+          ],
+          "running_mate": "Todd Hood",
+          "incumbent": false,
+          "campaign_domains": [
+            "blakemanfornewyork.com"
+          ],
+          "official_domains": [
+            "nassaucountyny.gov"
+          ],
+          "voteview": null,
+          "photo": {
+            "file": "blakeman.jpg",
+            "credit": "Office of U.S. Rep. Lee Zeldin",
+            "license": "Public domain (U.S. federal government work)",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Bruce_Blakeman_2022_(cropped).jpg"
+          },
+          "contact": {
+            "website": "https://www.blakemanfornewyork.com/",
+            "social": {
+              "Instagram": "https://www.instagram.com/bruceblakemanforgovernor",
+              "Facebook": "https://www.facebook.com/BruceBlakemanNewYorkFirst",
+              "X (Twitter)": "https://x.com/NassauExec"
+            },
+            "email": "events@blakemanfornewyork.com",
+            "contact_page": null,
+            "found_on": "https://www.blakemanfornewyork.com/"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ct-governor",
+      "state": "CT",
+      "state_name": "Connecticut",
+      "office": "Governor",
+      "ballot_source": {
+        "title": "CT Secretary of the State - Official sample ballot, State Election November 3, 2026 (Burlington)",
+        "url": "https://portal.ct.gov/-/media/sots/electionservices/town_ballots/2026/nov-2026/burlington_sample.pdf"
+      },
+      "candidates": [
+        {
+          "id": "lamont",
+          "name": "Ned Lamont",
+          "ballot_name": "Ned Lamont",
+          "party": "Democratic",
+          "ballot_lines": [
+            "Democratic",
+            "Working Families"
+          ],
+          "running_mate": "Susan Bysiewicz",
+          "incumbent": true,
+          "campaign_domains": [
+            "nedlamont.com"
+          ],
+          "official_domains": [
+            "portal.ct.gov",
+            "ct.gov"
+          ],
+          "voteview": null,
+          "photo": null,
+          "contact": {
+            "website": "https://www.nedlamont.com/",
+            "social": {
+              "Facebook": "https://www.facebook.com/NedLamontCT",
+              "X (Twitter)": "https://x.com/NedLamont",
+              "Instagram": "https://www.instagram.com/nedlamont/",
+              "TikTok": "https://www.tiktok.com/@nedlamont.ct"
+            },
+            "email": "info@nedlamont.com",
+            "contact_page": null,
+            "found_on": "https://www.nedlamont.com/"
+          }
+        },
+        {
+          "id": "fazio",
+          "name": "Ryan Fazio",
+          "ballot_name": "Ryan Fazio",
+          "party": "Republican",
+          "ballot_lines": [
+            "Republican",
+            "Independent"
+          ],
+          "running_mate": "Matt Corey",
+          "incumbent": false,
+          "campaign_domains": [
+            "ryanfazio.com"
+          ],
+          "official_domains": [
+            "cga.ct.gov",
+            "senaterepublicans.ct.gov"
+          ],
+          "voteview": null,
+          "photo": null,
+          "contact": {
+            "website": "https://ryanfazio.com/",
+            "social": {
+              "Facebook": "https://facebook.com/ryanfazio",
+              "X (Twitter)": "https://x.com/ryanfazio",
+              "TikTok": "https://tiktok.com/@ryanfazioct",
+              "Instagram": "https://instagram.com/ryanfazioct/",
+              "YouTube": "https://youtube.com/@ryanfazioct"
+            },
+            "email": null,
+            "contact_page": "https://ryanfazio.com/contact/",
+            "found_on": "https://ryanfazio.com/"
+          }
+        }
+      ]
+    },
+    {
+      "id": "nj-senate",
+      "state": "NJ",
+      "state_name": "New Jersey",
+      "office": "U.S. Senate",
+      "ballot_source": {
+        "title": "NJ Division of Elections - Official List, Candidates for US Senate, General Election 11/03/2026 (July 27, 2026)",
+        "url": "https://www.nj.gov/state/elections/assets/pdf/election-results/2026/2026-official-general-candidates-us-senate.pdf"
+      },
+      "candidates": [
+        {
+          "id": "booker",
+          "name": "Cory Booker",
+          "ballot_name": "Cory Booker",
+          "party": "Democratic",
+          "ballot_lines": [
+            "Democratic"
+          ],
+          "running_mate": null,
+          "incumbent": true,
+          "campaign_domains": [
+            "corybooker.com"
+          ],
+          "official_domains": [
+            "booker.senate.gov",
+            "senate.gov",
+            "congress.gov"
+          ],
+          "voteview": {
+            "congress": 119,
+            "chamber": "Senate",
+            "bioguide_id": "B001288",
+            "note": "U.S. Senate, current term"
+          },
+          "photo": {
+            "file": "booker.jpg",
+            "credit": "U.S. Embassy Ghana",
+            "license": "Public domain (U.S. federal government work)",
+            "source_url": "https://commons.wikimedia.org/wiki/File:CoryBookerInGhana_2024_(cropped).jpg"
+          },
+          "contact": {
+            "website": "https://corybooker.com/",
+            "social": {
+              "Facebook": "https://www.facebook.com/corybooker",
+              "X (Twitter)": "https://twitter.com/CoryBooker",
+              "Instagram": "https://www.instagram.com/corybooker/"
+            },
+            "email": null,
+            "contact_page": null,
+            "found_on": "https://corybooker.com/",
+            "official_email": "bookerteam@corybooker.com",
+            "official_email_source": "https://www.nj.gov/state/elections/assets/pdf/election-results/2026/2026-unofficial-general-candidates-us-senate-emails-0727.pdf"
+          }
+        },
+        {
+          "id": "murphy",
+          "name": "Justin Murphy",
+          "ballot_name": "Justin Murphy",
+          "party": "Republican",
+          "ballot_lines": [
+            "Republican"
+          ],
+          "running_mate": null,
+          "incumbent": false,
+          "campaign_domains": [
+            "jerseyjustin4senate.org"
+          ],
+          "official_domains": [],
+          "voteview": null,
+          "photo": null,
+          "contact": {
+            "website": "https://jerseyjustin4senate.org/",
+            "social": {
+              "X (Twitter)": "https://twitter.com/JerseyJustinUSA",
+              "Instagram": "https://www.instagram.com/justsenate",
+              "YouTube": "https://www.youtube.com/@JustinMurphy4Senate"
+            },
+            "email": "jerseyjustin4senate@gmail.com",
+            "contact_page": null,
+            "found_on": "https://jerseyjustin4senate.org/",
+            "official_email": "jerseyjustin4senate@gmail.com",
+            "official_email_source": "https://www.nj.gov/state/elections/assets/pdf/election-results/2026/2026-unofficial-general-candidates-us-senate-emails-0727.pdf"
+          }
+        },
+        {
+          "id": "fernandez",
+          "name": "Veronica Fernandez",
+          "ballot_name": "Veronica Fernandez",
+          "party": "End the Corruption!",
+          "ballot_lines": [
+            "End the Corruption!"
+          ],
+          "running_mate": null,
+          "incumbent": false,
+          "campaign_domains": [
+            "veronicaforsenate.com"
+          ],
+          "official_domains": [],
+          "voteview": null,
+          "photo": null,
+          "contact": {
+            "website": "https://veronicaforsenate.com/",
+            "social": {
+              "Facebook": "https://www.facebook.com/VeronicaforCD7",
+              "Instagram": "https://www.instagram.com/veronica4nj/",
+              "TikTok": "https://www.tiktok.com/@veronica4senate",
+              "X (Twitter)": "https://www.x.com/Veronica4Senate",
+              "YouTube": "https://www.youtube.com/@veronicafernandez1645"
+            },
+            "email": null,
+            "contact_page": null,
+            "found_on": "https://veronicaforsenate.com/",
+            "official_email": "info@veronicaforsenate.com",
+            "official_email_source": "https://www.nj.gov/state/elections/assets/pdf/election-results/2026/2026-unofficial-general-candidates-us-senate-emails-0727.pdf"
+          }
+        },
+        {
+          "id": "kuniansky",
+          "name": "Joanne Kuniansky",
+          "ballot_name": "Joanne Kuniansky",
+          "party": "Socialist Workers Party",
+          "ballot_lines": [
+            "Socialist Workers Party"
+          ],
+          "running_mate": null,
+          "incumbent": false,
+          "campaign_domains": [
+            "themilitant.com"
+          ],
+          "campaign_domains_note": "This candidate has no campaign website. Her party's newspaper (The Militant) publishes her statements, but its site blocks automated readers, so only articles with an Internet Archive copy could be checked.",
+          "official_domains": [],
+          "voteview": null,
+          "photo": null,
+          "contact": {
+            "social": {},
+            "official_email": "njswpcampaign@gmail.com",
+            "official_email_source": "https://www.nj.gov/state/elections/assets/pdf/election-results/2026/2026-unofficial-general-candidates-us-senate-emails-0727.pdf"
+          }
+        }
+      ]
+    }
+  ]
+}

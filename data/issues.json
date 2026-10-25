@@ -1,0 +1,150 @@
+{
+  "_about": "The 12 issues and the fixed rubric the spectrum scorer uses. Scale: -1.0 = furthest left position commonly held in U.S. politics, 0 = center, +1.0 = furthest right. Anchors describe policy positions only, never people or parties. The same rubric is applied to every candidate.",
+  "issues": [
+    {
+      "id": "abortion",
+      "label": "Abortion",
+      "covers": "legal access to abortion, limits by stage of pregnancy, public funding, related state and federal laws",
+      "anchors": {
+        "-1.0": "Abortion legal at any stage with public funding; remove existing restrictions",
+        "-0.5": "Protect legal access (e.g., codify Roe-era protections) with some limits late in pregnancy",
+        "0.0": "Leave to states or support access early in pregnancy with broader limits later",
+        "0.5": "Restrict abortion after an early point in pregnancy, with exceptions (rape, incest, life of the mother)",
+        "1.0": "Ban abortion nationwide with few or no exceptions"
+      }
+    },
+    {
+      "id": "climate",
+      "label": "Climate & Environment",
+      "covers": "climate change, emissions, energy sources, environmental regulation, conservation",
+      "anchors": {
+        "-1.0": "Rapid mandatory phase-out of fossil fuels; large public investment in clean energy (e.g., Green New Deal)",
+        "-0.5": "Binding emissions targets and clean-energy incentives with a gradual transition",
+        "0.0": "Mix of energy sources; market incentives; moderate regulation",
+        "0.5": "Prioritize energy costs and domestic oil and gas; reduce environmental regulation",
+        "1.0": "Oppose climate regulation and emissions mandates; expand fossil fuel production"
+      }
+    },
+    {
+      "id": "crime",
+      "label": "Crime & Justice",
+      "covers": "policing, bail, sentencing, prisons, public safety",
+      "anchors": {
+        "-1.0": "Shift funding from police to social services; end cash bail; large cuts to incarceration",
+        "-0.5": "Criminal justice reform (bail, sentencing, police accountability) alongside policing",
+        "0.0": "Balance reform with support for police funding",
+        "0.5": "Expand police funding and staffing; roll back bail and sentencing reforms",
+        "1.0": "Maximum enforcement: tougher sentences, expanded detention, few reform measures"
+      }
+    },
+    {
+      "id": "economy",
+      "label": "Economy, Jobs & Taxes",
+      "covers": "employment, minimum wage, taxes, government spending, cost of living",
+      "anchors": {
+        "-1.0": "Large tax increases on high earners and corporations; much higher minimum wage; major public programs",
+        "-0.5": "Raise taxes on top earners; raise minimum wage; expand targeted public programs",
+        "0.0": "Targeted tax relief and spending; moderate wage policy",
+        "0.5": "Broad tax cuts; reduce spending and regulation; oppose minimum wage mandates",
+        "1.0": "Deep tax and spending cuts; abolish major federal agencies or taxes"
+      }
+    },
+    {
+      "id": "education",
+      "label": "Education",
+      "covers": "public schools, school funding, school choice, college costs, curriculum",
+      "anchors": {
+        "-1.0": "Large public school funding increases; free public college; oppose school vouchers",
+        "-0.5": "Increase public school funding; expand pre-K; limits on charters and vouchers",
+        "0.0": "Support both public schools and some school choice",
+        "0.5": "Expand school choice and vouchers; parental control over curriculum",
+        "1.0": "Shift funding to private and home schooling; abolish the federal education department"
+      }
+    },
+    {
+      "id": "guns",
+      "label": "Gun Laws",
+      "covers": "background checks, assault-style weapons, permits, concealed carry",
+      "anchors": {
+        "-1.0": "Ban and buy back assault-style weapons; strict licensing for all guns",
+        "-0.5": "Universal background checks, red-flag laws, assault-style weapons ban",
+        "0.0": "Some new checks while protecting existing gun rights",
+        "0.5": "Oppose new gun restrictions; expand concealed carry",
+        "1.0": "Repeal most existing gun restrictions"
+      }
+    },
+    {
+      "id": "healthcare",
+      "label": "Healthcare",
+      "covers": "insurance coverage, Medicaid, Medicare, drug prices, public health",
+      "anchors": {
+        "-1.0": "Single-payer system (Medicare for All) replacing private insurance",
+        "-0.5": "Expand public coverage (public option, Medicaid expansion), lower drug prices",
+        "0.0": "Keep current mix of public and private coverage with targeted fixes",
+        "0.5": "Market-based reforms; reduce federal role; limit Medicaid growth",
+        "1.0": "Repeal federal coverage programs and mandates"
+      }
+    },
+    {
+      "id": "housing",
+      "label": "Housing",
+      "covers": "rent, home prices, zoning, public and affordable housing, homelessness",
+      "anchors": {
+        "-1.0": "Universal rent control; large public housing build-out; housing as a guaranteed right",
+        "-0.5": "Tenant protections plus public funding for affordable housing",
+        "0.0": "Mix of zoning reform, incentives for builders, and targeted aid",
+        "0.5": "Deregulate building and zoning; lower property taxes; oppose rent control",
+        "1.0": "Remove government from housing markets; end public housing subsidies"
+      }
+    },
+    {
+      "id": "immigration",
+      "label": "Immigration",
+      "covers": "border security, deportation, legal immigration, sanctuary policies",
+      "anchors": {
+        "-1.0": "Broad legalization; end most deportations; abolish ICE",
+        "-0.5": "Path to citizenship plus border security; support sanctuary policies",
+        "0.0": "Pair stronger border enforcement with expanded legal pathways",
+        "0.5": "Prioritize border enforcement; end sanctuary policies; reduce immigration",
+        "1.0": "Mass deportation; sharply cut legal immigration"
+      }
+    },
+    {
+      "id": "foreign_policy",
+      "label": "Foreign Policy",
+      "covers": "Israel, Iran, Ukraine, military aid, alliances, trade, war powers",
+      "anchors": {
+        "-1.0": "Cut military aid broadly; condition aid to Israel; prioritize diplomacy over force",
+        "-0.5": "Support allies with conditions; diplomacy-first approach to Iran",
+        "0.0": "Mainstream bipartisan support for allies and sanctions",
+        "0.5": "Strong unconditional support for Israel; maximum pressure on Iran",
+        "1.0": "Most aggressive military posture toward adversaries"
+      },
+      "note": "Foreign policy does not divide neatly into left and right (for example, some candidates on both sides favor less foreign involvement). The scorer reports low confidence when a stance does not fit the anchors."
+    },
+    {
+      "id": "lgbtq",
+      "label": "LGBTQ+ Rights",
+      "covers": "marriage, anti-discrimination laws, transgender policy",
+      "anchors": {
+        "-1.0": "Expand protections in all areas, including gender-affirming care and sports participation",
+        "-0.5": "Support federal anti-discrimination protections (e.g., Equality Act)",
+        "0.0": "Support marriage equality; mixed on other policies",
+        "0.5": "Limit transgender participation in sports and gender-affirming care for minors",
+        "1.0": "Roll back legal protections, including marriage equality"
+      }
+    },
+    {
+      "id": "womens_childrens",
+      "label": "Women's & Children's Rights",
+      "covers": "equal pay, child care, paid leave, child welfare, family policy (abortion is its own issue)",
+      "anchors": {
+        "-1.0": "Universal publicly funded child care and paid leave; strong equal-pay mandates",
+        "-0.5": "Expand child care subsidies, paid leave, and child tax credits",
+        "0.0": "Targeted family support with limited new mandates",
+        "0.5": "Family support mainly through tax credits; oppose new employer mandates",
+        "1.0": "Oppose government child care and leave programs"
+      }
+    }
+  ]
+}

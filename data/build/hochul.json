@@ -1,0 +1,428 @@
+{
+  "id": "hochul",
+  "built_at": "2026-10-24T03:29:09+00:00",
+  "profile": [
+    {
+      "issue_id": "profile:previous_role",
+      "claim": "Member of the Hamburg Town Board",
+      "quote": "She began her career in public service on her local Hamburg Town Board",
+      "url": "https://kathyhochul.com/about/",
+      "source_type": "campaign",
+      "source_title": "About | Governor Kathy Hochul",
+      "retrieved_at": "2026-10-24T03:26:52+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote says she began her public-service career on the Hamburg Town Board."
+    },
+    {
+      "issue_id": "profile:previous_role",
+      "claim": "Erie County Clerk",
+      "quote": "and then as the Erie County Clerk.",
+      "url": "https://kathyhochul.com/about/",
+      "source_type": "campaign",
+      "source_title": "About | Governor Kathy Hochul",
+      "retrieved_at": "2026-10-24T03:26:52+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote identifies her as Erie County Clerk."
+    },
+    {
+      "issue_id": "profile:previous_role",
+      "claim": "Member of Congress for NY-26",
+      "quote": "In 2011, Kathy won an upset special election in one of the most Republican districts in New York and became a Member of Congress for NY-26.",
+      "url": "https://kathyhochul.com/about/",
+      "source_type": "campaign",
+      "source_title": "About | Governor Kathy Hochul",
+      "retrieved_at": "2026-10-24T03:26:52+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote says she became a Member of Congress for NY-26."
+    },
+    {
+      "issue_id": "profile:previous_role",
+      "claim": "Lieutenant Governor",
+      "quote": "In 2014, Kathy was elected to statewide office as Lieutenant Governor.",
+      "url": "https://kathyhochul.com/about/",
+      "source_type": "campaign",
+      "source_title": "About | Governor Kathy Hochul",
+      "retrieved_at": "2026-10-24T03:26:52+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote says she was elected Lieutenant Governor."
+    },
+    {
+      "issue_id": "profile:top_policy",
+      "claim": "Highlights putting money back in people’s pockets.",
+      "quote": "As Governor, Kathy has taken decisive action to put money back in people’s pockets, lower costs, and invest in keeping New Yorkers safe.",
+      "url": "https://kathyhochul.com/about/",
+      "source_type": "campaign",
+      "source_title": "About | Governor Kathy Hochul",
+      "retrieved_at": "2026-10-24T03:26:52+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote says the campaign highlights putting money back in people’s pockets.",
+      "original_claim": "The campaign highlights putting money back in people’s pockets."
+    },
+    {
+      "issue_id": "profile:top_policy",
+      "claim": "Highlights lowering costs.",
+      "quote": "As Governor, Kathy has taken decisive action to put money back in people’s pockets, lower costs, and invest in keeping New Yorkers safe.",
+      "url": "https://kathyhochul.com/about/",
+      "source_type": "campaign",
+      "source_title": "About | Governor Kathy Hochul",
+      "retrieved_at": "2026-10-24T03:26:52+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote says the campaign highlights lowering costs.",
+      "original_claim": "The campaign highlights lowering costs."
+    },
+    {
+      "issue_id": "profile:top_policy",
+      "claim": "Highlights investing in keeping New Yorkers safe.",
+      "quote": "As Governor, Kathy has taken decisive action to put money back in people’s pockets, lower costs, and invest in keeping New Yorkers safe.",
+      "url": "https://kathyhochul.com/about/",
+      "source_type": "campaign",
+      "source_title": "About | Governor Kathy Hochul",
+      "retrieved_at": "2026-10-24T03:26:52+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote says the campaign highlights investing in keeping New Yorkers safe.",
+      "original_claim": "The campaign highlights investing in keeping New Yorkers safe."
+    },
+    {
+      "issue_id": "profile:education",
+      "claim": "Student organizer and leader at Syracuse University",
+      "quote": "Kathy took those lessons of courage, risk-taking, and discipline to become a student organizer and leader at Syracuse University",
+      "url": "https://kathyhochul.com/about/",
+      "source_type": "campaign",
+      "source_title": "About | Governor Kathy Hochul",
+      "retrieved_at": "2026-10-24T03:26:52+00:00",
+      "archived_copy": null,
+      "verifier_note": "The campaign page describes Hochul as a student organizer and leader at Syracuse University, supporting the claim.",
+      "original_claim": "She was a student organizer and leader at Syracuse University."
+    }
+  ],
+  "findings": [
+    {
+      "issue_id": "abortion",
+      "claim": "Says her accomplishments include protecting abortion rights in New York.",
+      "quote": "Protected abortion rights in New York",
+      "url": "https://kathyhochul.com/accomplishments/",
+      "source_type": "campaign",
+      "source_title": "Accomplishments | Governor Kathy Hochul",
+      "retrieved_at": "2026-10-24T03:27:08+00:00",
+      "archived_copy": null,
+      "verifier_note": "The campaign quote lists protecting abortion rights in New York as an accomplishment.",
+      "original_claim": "Hochul’s campaign lists protecting abortion rights in New York among her accomplishments."
+    },
+    {
+      "issue_id": "economy",
+      "claim": "Says she sent inflation refund checks to more than eight million New Yorkers.",
+      "quote": "Sending inflation refund checks to over 8 million New Yorkers",
+      "url": "https://kathyhochul.com/accomplishments/",
+      "source_type": "campaign",
+      "source_title": "Accomplishments | Governor Kathy Hochul",
+      "retrieved_at": "2026-10-24T03:27:08+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote says the campaign lists inflation refund checks for over 8 million New Yorkers.",
+      "original_claim": "Her campaign says she sent inflation refund checks to more than eight million New Yorkers."
+    },
+    {
+      "issue_id": "education",
+      "claim": "Says she secured free school meals for every student.",
+      "quote": "Securing free school meals for every student",
+      "url": "https://kathyhochul.com/accomplishments/",
+      "source_type": "campaign",
+      "source_title": "Accomplishments | Governor Kathy Hochul",
+      "retrieved_at": "2026-10-24T03:27:08+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote says the campaign lists free school meals for every student.",
+      "original_claim": "Her campaign says she secured free school meals for every student."
+    },
+    {
+      "issue_id": "guns",
+      "claim": "Says her gun-safety actions include strengthening red-flag laws.",
+      "quote": "Strengthening red flag laws",
+      "url": "https://kathyhochul.com/accomplishments/",
+      "source_type": "campaign",
+      "source_title": "Accomplishments | Governor Kathy Hochul",
+      "retrieved_at": "2026-10-24T03:27:08+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote lists strengthening red-flag laws, which supports the stated gun-safety action.",
+      "original_claim": "Her campaign lists strengthening red-flag laws as a gun-safety action."
+    },
+    {
+      "issue_id": "guns",
+      "claim": "Says her gun-safety actions include blocking 3-D-printed guns.",
+      "quote": "Blocking 3-D printed guns",
+      "url": "https://kathyhochul.com/accomplishments/",
+      "source_type": "campaign",
+      "source_title": "Accomplishments | Governor Kathy Hochul",
+      "retrieved_at": "2026-10-24T03:27:08+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote lists blocking 3-D-printed guns as an action.",
+      "original_claim": "Her campaign lists blocking 3-D-printed guns among its gun-safety actions."
+    },
+    {
+      "issue_id": "housing",
+      "claim": "Says her accomplishments include allowing more housing construction.",
+      "quote": "Letting them build more housing",
+      "url": "https://kathyhochul.com/accomplishments/",
+      "source_type": "campaign",
+      "source_title": "Accomplishments | Governor Kathy Hochul",
+      "retrieved_at": "2026-10-24T03:27:08+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote supports the claim that the campaign lists allowing more housing construction among her accomplishments.",
+      "original_claim": "Her campaign lists allowing more housing construction among its accomplishments."
+    },
+    {
+      "issue_id": "foreign_policy",
+      "claim": "Described herself as a “strong supporter of Israel” and said she had continued to advocate for the hostages’ release.",
+      "quote": "I have always been a strong supporter of Israel. I visited Kfar Aza in the immediate aftermath of October 7th, mourned with families who had lost loved ones to the attacks by Hamas, and in the more than 600 days since, I have continued to advocate for the release of all hostages.",
+      "url": "https://www.governor.ny.gov/news/statement-governor-kathy-hochul-98",
+      "source_type": "official",
+      "source_title": "Statement from Governor Kathy Hochul | Governor Kathy Hochul | New York State",
+      "retrieved_at": "2026-10-24T03:27:08+00:00",
+      "archived_copy": "https://web.archive.org/web/20260514064647/https://www.governor.ny.gov/news/statement-governor-kathy-hochul-98",
+      "verifier_note": "The quote directly states her support for Israel and her continued advocacy for the hostages’ release.",
+      "original_claim": "In a July 31, 2025 statement, Hochul described herself as a strong supporter of Israel and said she had advocated for the hostages’ release."
+    },
+    {
+      "issue_id": "womens_childrens",
+      "claim": "Says she is working to deliver universal child care.",
+      "quote": "she’s working to deliver universal child care",
+      "url": "https://kathyhochul.com/accomplishments/",
+      "source_type": "campaign",
+      "source_title": "Accomplishments | Governor Kathy Hochul",
+      "retrieved_at": "2026-10-24T03:27:08+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote says she is working to deliver universal child care.",
+      "original_claim": "Her campaign says she is working to deliver universal child care."
+    },
+    {
+      "issue_id": "healthcare",
+      "claim": "Directed the state health department to return the Essential Plan to a Basic Health Program, which she says will preserve coverage for 1.3 million New Yorkers.",
+      "quote": "To mitigate the worst impacts of these devastating federal cuts, Governor Hochul directed the Department of Health to return the Essential Plan to a Basic Health Program, a move that was approved by the Centers for Medicare and Medicaid Services in March and will preserve coverage for 1.3 million New Yorkers for whom the program is a critical lifeline.",
+      "url": "https://www.governor.ny.gov/news/governor-hochul-secures-historic-investments-bolster-new-yorks-healthcare-system-and-protect",
+      "source_type": "official",
+      "source_title": "Governor Hochul Secures Historic Investments to Bolster New York’s Healthcare System and Protect the Health and Well-Being of All New Yorkers as Part of the FY27 Budget | Governor Kathy Hochul | New York State",
+      "retrieved_at": "2026-10-24T03:28:15+00:00",
+      "archived_copy": "https://web.archive.org/web/20260820205939/https://www.governor.ny.gov/news/governor-hochul-secures-historic-investments-bolster-new-yorks-healthcare-system-and-protect",
+      "verifier_note": "The quote states that Hochul directed the department to return the plan to a Basic Health Program and says this will preserve coverage for 1.3 million New Yorkers.",
+      "original_claim": "Hochul directed the state health department to return the Essential Plan to a Basic Health Program, which the page says will preserve coverage for 1.3 million New Yorkers."
+    },
+    {
+      "issue_id": "economy",
+      "claim": "Says she cut middle-class taxes to the lowest rate in 70 years.",
+      "quote": "Cutting middle-class taxes to the lowest rate in 70 years",
+      "url": "https://kathyhochul.com/accomplishments/",
+      "source_type": "campaign",
+      "source_title": "Accomplishments | Governor Kathy Hochul",
+      "retrieved_at": "2026-10-24T03:27:08+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote directly supports the campaign’s stated tax-cut accomplishment.",
+      "original_claim": "Her campaign says she cut middle-class taxes to the lowest rate in 70 years."
+    },
+    {
+      "issue_id": "economy",
+      "claim": "Says her accomplishments include free community college for high-demand occupations.",
+      "quote": "Free community college for high-demand occupations",
+      "url": "https://kathyhochul.com/accomplishments/",
+      "source_type": "campaign",
+      "source_title": "Accomplishments | Governor Kathy Hochul",
+      "retrieved_at": "2026-10-24T03:27:08+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote directly supports the campaign listing free community college for high-demand occupations as an accomplishment.",
+      "original_claim": "Her campaign lists free community college for high-demand occupations as an accomplishment."
+    },
+    {
+      "issue_id": "education",
+      "claim": "Says she banned cell phones in schools.",
+      "quote": "Banning cell phones in schools",
+      "url": "https://kathyhochul.com/accomplishments/",
+      "source_type": "campaign",
+      "source_title": "Accomplishments | Governor Kathy Hochul",
+      "retrieved_at": "2026-10-24T03:27:08+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote directly supports the campaign listing a school cell-phone ban as an accomplishment.",
+      "original_claim": "Her campaign says she banned cell phones in schools."
+    },
+    {
+      "issue_id": "education",
+      "claim": "Says her accomplishments include statewide universal pre-K.",
+      "quote": "Delivering statewide universal pre-K",
+      "url": "https://kathyhochul.com/accomplishments/",
+      "source_type": "campaign",
+      "source_title": "Accomplishments | Governor Kathy Hochul",
+      "retrieved_at": "2026-10-24T03:27:08+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote directly supports the campaign listing statewide universal pre-K as an accomplishment.",
+      "original_claim": "Her campaign lists statewide universal pre-K as an accomplishment."
+    },
+    {
+      "issue_id": "healthcare",
+      "claim": "Signed legislation authorizing New York to set immunization standards based on medical science and public health needs.",
+      "quote": "To keep New Yorkers healthy and keep money in their pockets, Governor Hochul signed legislation to ensure New York can set its own immunization standards based on accepted medical science and public health needs.",
+      "url": "https://www.governor.ny.gov/news/governor-hochul-secures-historic-investments-bolster-new-yorks-healthcare-system-and-protect",
+      "source_type": "official",
+      "source_title": "Governor Hochul Secures Historic Investments to Bolster New York’s Healthcare System and Protect the Health and Well-Being of All New Yorkers as Part of the FY27 Budget | Governor Kathy Hochul | New York State",
+      "retrieved_at": "2026-10-24T03:28:15+00:00",
+      "archived_copy": "https://web.archive.org/web/20260820205939/https://www.governor.ny.gov/news/governor-hochul-secures-historic-investments-bolster-new-yorks-healthcare-system-and-protect",
+      "verifier_note": "The quote directly says Hochul signed legislation concerning New York’s immunization standards.",
+      "original_claim": "Hochul signed legislation authorizing New York to set immunization standards based on medical science and public health needs."
+    },
+    {
+      "issue_id": "healthcare",
+      "claim": "Proposes modernizing AED rules and creating a statewide registry to help emergency dispatchers direct bystanders to nearby devices during cardiac emergencies.",
+      "quote": "The Governor will also modernize AED regulations to keep communities safe and create New York’s first statewide AED registry. This registry will map the precise location of every AED across the state, enabling emergency dispatchers to direct bystanders to the nearest device during cardiac events.",
+      "url": "https://www.governor.ny.gov/news/governor-hochul-secures-historic-investments-bolster-new-yorks-healthcare-system-and-protect",
+      "source_type": "official",
+      "source_title": "Governor Hochul Secures Historic Investments to Bolster New York’s Healthcare System and Protect the Health and Well-Being of All New Yorkers as Part of the FY27 Budget | Governor Kathy Hochul | New York State",
+      "retrieved_at": "2026-10-24T03:28:15+00:00",
+      "archived_copy": "https://web.archive.org/web/20260820205939/https://www.governor.ny.gov/news/governor-hochul-secures-historic-investments-bolster-new-yorks-healthcare-system-and-protect",
+      "verifier_note": "The quote supports both the planned AED regulation changes and creation of a statewide registry with the stated dispatch purpose.",
+      "original_claim": "Her plan would modernize AED rules and create a statewide registry to help emergency dispatchers direct bystanders to nearby devices during cardiac emergencies."
+    },
+    {
+      "issue_id": "housing",
+      "claim": "Says she supported New York City Council Speaker Adrienne Adams’ City for All plan to build and preserve more affordable housing.",
+      "quote": "Governor Hochul supported Speaker Adams’ City for All plan to build and preserve more affordable housing.",
+      "url": "https://kathyhochul.com/about/",
+      "source_type": "campaign",
+      "source_title": "About | Governor Kathy Hochul",
+      "retrieved_at": "2026-10-24T03:26:52+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote directly supports that Hochul supported the City for All plan.",
+      "original_claim": "Hochul says she supported New York City Council Speaker Adrienne Adams’ City for All plan to build and preserve more affordable housing."
+    },
+    {
+      "issue_id": "immigration",
+      "claim": "Says her accomplishments include holding ICE agents accountable.",
+      "quote": "Holding ICE agents accountable",
+      "url": "https://kathyhochul.com/accomplishments/",
+      "source_type": "campaign",
+      "source_title": "Accomplishments | Governor Kathy Hochul",
+      "retrieved_at": "2026-10-24T03:27:08+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote directly supports the campaign listing “Holding ICE agents accountable” among accomplishments.",
+      "original_claim": "Her campaign lists holding ICE agents accountable among her accomplishments."
+    },
+    {
+      "issue_id": "lgbtq",
+      "claim": "Says her administration expanded the Gender Recognition Act and created a fund for transgender, gender-nonconforming and nonbinary service providers.",
+      "quote": "We established the Lorena Borjas Transgender Wellness and Equity Fund to support service providers serving TGNCNB New Yorkers and funded mental health support for LGBTQ+ youth. We expanded the Gender Recognition Act, and last year, I signed legislation to make elections for party positions more inclusive.",
+      "url": "https://reports.dol.ny.gov/2023-tgncnb/",
+      "source_type": "official",
+      "source_title": "2023 TGNCNB Report - NYS DOL Reports",
+      "retrieved_at": "2026-10-24T05:05:59+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote directly supports establishing the fund and expanding the Gender Recognition Act.",
+      "original_claim": "Hochul said her administration expanded the Gender Recognition Act and created a fund for transgender, gender-nonconforming and nonbinary service providers."
+    },
+    {
+      "issue_id": "lgbtq",
+      "claim": "Says her administration would continue providing protections and resources intended to help transgender, gender-nonconforming and nonbinary New Yorkers live without discrimination.",
+      "quote": "New York remains committed to providing an open and affirming workplace for TGNCNB workers, and my administration will continue to provide the resources and protections that allow all New Yorkers to live free from discrimination as their truest, most authentic selves.",
+      "url": "https://reports.dol.ny.gov/2023-tgncnb/",
+      "source_type": "official",
+      "source_title": "2023 TGNCNB Report - NYS DOL Reports",
+      "retrieved_at": "2026-10-24T05:05:59+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote supports continuing protections and resources intended to help New Yorkers live free from discrimination.",
+      "original_claim": "Hochul said her administration would continue providing protections and resources intended to help transgender, gender-nonconforming and nonbinary New Yorkers live without discrimination."
+    },
+    {
+      "issue_id": "lgbtq",
+      "claim": "Said in a 2024 statement that people of all sexual orientations and gender identities and expressions deserve safety, recognition and support.",
+      "quote": "New Yorkers of all sexual orientations, gender identities, and gender expressions deserve to be safe, heard and valued. The State of New York stands with and supports the LGBTQ+ community.",
+      "url": "https://dol.ny.gov/news/governor-hochul-announces-54-million-investment-lgbtq-community",
+      "source_type": "official",
+      "source_title": "Governor Hochul Announces $5.4 Million Investment in LGBTQ+ Community | Department of Labor",
+      "retrieved_at": "2026-10-24T05:05:59+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote directly supports the stated view about safety, recognition, and support for people of all sexual orientations and gender identities and expressions.",
+      "original_claim": "In a 2024 statement, Hochul said people of all sexual orientations and gender identities and expressions deserve safety, recognition and support."
+    },
+    {
+      "issue_id": "womens_childrens",
+      "claim": "Says her accomplishments include tripling the New York child tax credit.",
+      "quote": "Tripling the New York child tax credit",
+      "url": "https://kathyhochul.com/accomplishments/",
+      "source_type": "campaign",
+      "source_title": "Accomplishments | Governor Kathy Hochul",
+      "retrieved_at": "2026-10-24T03:27:08+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote directly supports the campaign listing a tripled New York child tax credit as an accomplishment.",
+      "original_claim": "Her campaign lists tripling the New York child tax credit among Hochul’s accomplishments."
+    }
+  ],
+  "scores": {
+    "abortion": {
+      "score": -0.5,
+      "confidence": "medium",
+      "rationale": "Matches the protect-legal-access anchor: her campaign lists protecting abortion rights in New York."
+    },
+    "climate": {
+      "score": null,
+      "confidence": null,
+      "rationale": "Not enough verified information."
+    },
+    "crime": {
+      "score": null,
+      "confidence": null,
+      "rationale": "Not enough verified information."
+    },
+    "economy": {
+      "score": 0.0,
+      "confidence": "medium",
+      "rationale": "Matches targeted tax relief and spending: findings cite middle-class tax cuts, inflation refund checks, and free community college for high-demand occupations."
+    },
+    "education": {
+      "score": -0.5,
+      "confidence": "medium",
+      "rationale": "Matches the anchor for expanding pre-K and public education support: findings cite statewide universal pre-K and free school meals for every student."
+    },
+    "guns": {
+      "score": -0.5,
+      "confidence": "medium",
+      "rationale": "Matches the anchor that includes red-flag laws: her campaign lists strengthening red-flag laws and blocking 3-D-printed guns."
+    },
+    "healthcare": {
+      "score": -0.5,
+      "confidence": "medium",
+      "rationale": "Matches the public-coverage expansion anchor: the Essential Plan change is described as preserving coverage for 1.3 million New Yorkers."
+    },
+    "housing": {
+      "score": 0.0,
+      "confidence": "medium",
+      "rationale": "Matches the mixed approach anchor: findings cite allowing more housing construction and a plan to build and preserve affordable housing."
+    },
+    "immigration": {
+      "score": null,
+      "confidence": null,
+      "rationale": "Holding ICE agents accountable does not establish a position matching an immigration anchor."
+    },
+    "foreign_policy": {
+      "score": 0.5,
+      "confidence": "low",
+      "rationale": "Partly matches the strong-support-for-Israel anchor: Hochul described herself as a strong supporter of Israel, while the finding does not address Iran."
+    },
+    "lgbtq": {
+      "score": -0.75,
+      "confidence": "low",
+      "rationale": "Partly matches the protections-expansion anchor: findings describe expanded transgender protections and resources, but do not address all areas named in the anchor."
+    },
+    "womens_childrens": {
+      "score": -0.75,
+      "confidence": "low",
+      "rationale": "Partly matches the universal-child-care anchor: her campaign says she is working to deliver universal child care and cites a tripling of the state child tax credit."
+    }
+  },
+  "stats": {
+    "raw_findings": 16,
+    "passed_code_checks": 14,
+    "verified": 9,
+    "profile_facts": 7,
+    "deep_pass": {
+      "found": 30,
+      "passed_code_checks": 24,
+      "added": 12,
+      "before": 9,
+      "after": 21
+    }
+  },
+  "deepened_at": "2026-10-24T05:06:51+00:00"
+}

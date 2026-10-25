@@ -1,0 +1,9 @@
+# VoteBetter - Python requirements (pinned to the tested set)
+pydantic-ai-slim[openai]==2.55.0   # PydanticAI agents (model: gpt-6-luna via Portkey)
+openai==3.29.0                     # OpenAI-compatible client pointed at the Portkey gateway
+python-dotenv==1.2.4               # loads PORTKEY_API_KEY from .env (repo folder, then one level up)
+httpx==0.28.1                      # fetches allowlisted official source pages
+beautifulsoup4==4.15.0             # turns fetched HTML into plain text for quote checks
+pypdf==6.21.2                      # reads official PDFs (ballot certifications, press releases)
+fastapi==0.143.0
+uvicorn[standard]==0.54.0

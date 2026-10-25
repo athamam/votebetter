@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>VoteBetter · NY · NJ · CT</title>
+  <meta name="description" content="A nonpartisan, source-checked guide to the 2026 statewide candidates in New York, New Jersey and Connecticut.">
+  <link rel="icon" href="/static/logo-icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap header-row">
+      <img class="us-flag" src="/static/flags/US.svg" alt="Flag of the United States">
+      <a class="brand" href="#/">
+        <span class="brand-text"><img class="brand-logo" src="/static/logo.svg" alt="VoteBetter"><small>2026 Midterm Elections</small></span>
+      </a>
+      <nav class="nav" aria-label="Main">
+        <a href="#/">Home</a>
+        <a href="#/methodology">How it works</a>
+        <a href="#/about">About</a>
+      </nav>
+      <div class="corner">
+        <div class="countdown" id="countdown" aria-live="polite"></div>
+        <a class="btn-vote" id="how-to-vote" href="https://vote.gov/" target="_blank" rel="noopener noreferrer">How to vote ↗</a>
+      </div>
+    </div>
+  </header>
+
+  <div class="disclaimer" role="note">
+    <div class="wrap">
+      <strong>Disclaimer: This is an independent, nonpartisan student project. It is not affiliated with or endorsed by
+      Yale University, the Yale School of Management, or any candidate, campaign, or party. It does not recommend any candidate
+      or party. Every fact links to its public source and may be incomplete or out of date; check the original source before
+      relying on it. Spectrum positions are AI estimates and are not verified by the candidates.
+      <a href="#/about">Report an error</a>.</strong>
+    </div>
+  </div>
+
+  <main id="app" class="wrap" tabindex="-1"></main>
+
+  <footer class="site-footer">
+    <div class="wrap footer-row">
+      <span id="built-at"></span>
+      <span>Sources: official ballots, candidates' own websites, .gov sites, AP and Reuters. No Wikipedia.</span>
+    </div>
+  </footer>
+
+  <button id="chat-fab" class="chat-fab" hidden aria-label="Ask about this race">💬 Ask about this race</button>
+  <aside id="chat-drawer" class="chat-drawer" aria-label="Ask about this race">
+    <div class="drawer-head"><h3 id="drawer-title">Ask about this race</h3>
+      <button id="drawer-close" class="drawer-close" aria-label="Close chat">✕</button></div>
+    <div id="drawer-body" class="drawer-body"></div>
+  </aside>
+
+  <dialog id="source-dialog" aria-labelledby="source-title">
+    <form method="dialog" class="dialog-close"><button aria-label="Close">✕</button></form>
+    <div id="source-body"></div>
+  </dialog>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 52">
+  <!-- VoteBetter icon (favicon): the logo's teal badge without the wordmark -->
+  <rect width="52" height="52" rx="12" fill="#1f7a72"/>
+  <rect x="13" y="9" width="26" height="34" rx="3.5" fill="#fbfaf7"/>
+  <path d="M18.5 25.5 l5.5 5.5 l11 -13" fill="none" stroke="#15302f" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="18" y="35.5" width="16" height="2.4" rx="1.2" fill="#1f7a72" opacity=".45"/>
+  <path d="M44.5 2.5 l1.6 3.3 3.6 .5 -2.6 2.5 .6 3.6 -3.2 -1.7 -3.2 1.7 .6 -3.6 -2.6 -2.5 3.6 -.5 z" fill="#fbfaf7" transform="translate(-1 1)"/>
+</svg>

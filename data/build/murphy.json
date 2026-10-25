@@ -1,0 +1,575 @@
+{
+  "id": "murphy",
+  "built_at": "2026-10-24T03:29:05+00:00",
+  "profile": [
+    {
+      "issue_id": "profile:current_role",
+      "claim": "Self-employed.",
+      "quote": "Being self-employed, I can identify with middle-class voters.",
+      "url": "https://jerseyjustin4senate.org/",
+      "source_type": "campaign",
+      "source_title": "MURPHY FOR U.S. SENATE 2026 - New Jersey",
+      "retrieved_at": "2026-10-24T03:28:19+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote describes him as self-employed.",
+      "original_claim": "Murphy describes himself as self-employed."
+    },
+    {
+      "issue_id": "profile:top_policy",
+      "claim": "Highlights private-sector growth, tax cuts, spending reductions, and economic opportunity for the middle class.",
+      "quote": "Economy & Jobs\nPrivate sector growth, tax cuts, spending reductions, and economic opportunity for the middle class.",
+      "url": "https://jerseyjustin4senate.org/",
+      "source_type": "campaign",
+      "source_title": "MURPHY FOR U.S. SENATE 2026 - New Jersey",
+      "retrieved_at": "2026-10-24T03:28:19+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote lists private-sector growth, tax cuts, spending reductions, and middle-class economic opportunity under the campaign's Economy & Jobs heading.",
+      "original_claim": "The campaign highlights private-sector growth, tax cuts, spending reductions, and economic opportunity for the middle class."
+    },
+    {
+      "issue_id": "profile:top_policy",
+      "claim": "Highlights a strong America standing up to terrorism, hostile foreign governments, and rampant crime.",
+      "quote": "Security\nA strong America that stands up to terrorism, hostile foreign governments, and rampant crime.",
+      "url": "https://jerseyjustin4senate.org/",
+      "source_type": "campaign",
+      "source_title": "MURPHY FOR U.S. SENATE 2026 - New Jersey",
+      "retrieved_at": "2026-10-24T03:28:19+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote lists standing up to terrorism, hostile foreign governments, and rampant crime under the campaign's Security heading.",
+      "original_claim": "The campaign highlights a strong America standing up to terrorism, hostile foreign governments, and rampant crime."
+    },
+    {
+      "issue_id": "profile:top_policy",
+      "claim": "Highlights reducing reliance on foreign energy sources.",
+      "quote": "Energy Independence\nAmerica must no longer rely on foreign energy sources. I will fight for true energy independence.",
+      "url": "https://jerseyjustin4senate.org/",
+      "source_type": "campaign",
+      "source_title": "MURPHY FOR U.S. SENATE 2026 - New Jersey",
+      "retrieved_at": "2026-10-24T03:28:19+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote says America must no longer rely on foreign energy sources and that he will fight for energy independence.",
+      "original_claim": "The campaign highlights reducing reliance on foreign energy sources."
+    }
+  ],
+  "findings": [
+    {
+      "issue_id": "crime",
+      "claim": "Calls for border security, stopping fentanyl flows, deporting people he describes as “criminal aliens,” and federal charges when state and local prosecutors fail to enforce criminal codes.",
+      "quote": "Secure our border; stop the flow of fentanyl; deport criminal aliens; bring federal charges against criminals when state and local prosecutors fail to enforce criminal codes.",
+      "url": "https://jerseyjustin4senate.org/",
+      "source_type": "campaign",
+      "source_title": "MURPHY FOR U.S. SENATE 2026 - New Jersey",
+      "retrieved_at": "2026-10-24T03:28:19+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote states each listed proposal, including federal charges when state and local prosecutors fail to enforce criminal codes.",
+      "original_claim": "He proposes border security, stopping fentanyl flows, deporting criminal noncitizens, and federal charges when state and local prosecutors fail to enforce criminal codes."
+    },
+    {
+      "issue_id": "economy",
+      "claim": "Proposes replacing the Internal Revenue Code with a 10%–12% flat income tax and abolishing capital-gains, estate, and alternative minimum taxes.",
+      "quote": "I advocate abolishing the Internal Revenue Code and enacting a Flat-Tax rate of 10% – 12%, to promote the economic growth needed in coming decades as we face more potent global economic competition. I believe we should abolish the capital gains tax in its entirety, all estate and death taxes (when you leave this life, the IRS should not follow you), and the AMT.",
+      "url": "https://jerseyjustin4senate.org/",
+      "source_type": "campaign",
+      "source_title": "MURPHY FOR U.S. SENATE 2026 - New Jersey",
+      "retrieved_at": "2026-10-24T03:28:19+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote supports abolishing the Internal Revenue Code, enacting a 10%–12% flat-tax rate, and abolishing the listed taxes.",
+      "original_claim": "He proposes replacing the Internal Revenue Code with a 10%–12% flat income tax and abolishing capital-gains, estate, and alternative minimum taxes."
+    },
+    {
+      "issue_id": "guns",
+      "claim": "Supports constitutional carry and says he would oppose government actions that threaten the right to bear arms.",
+      "quote": "I will oppose any attempt by the government that threatens to take away our Constitutional right to bear arms and protect ourselves, our families, and our property. I will oppose all attempts to suppress 2A rights whether from domestic or international bodies. I support Constitutional Carry.",
+      "url": "https://jerseyjustin4senate.org/",
+      "source_type": "campaign",
+      "source_title": "MURPHY FOR U.S. SENATE 2026 - New Jersey",
+      "retrieved_at": "2026-10-24T03:28:19+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote explicitly supports constitutional carry and opposes government attempts that threaten the right to bear arms.",
+      "original_claim": "He supports constitutional carry and says he would oppose government actions that threaten the right to bear arms."
+    },
+    {
+      "issue_id": "abortion",
+      "claim": "Says life begins at conception, identifies exceptions for the mother’s life, rape, and incest, and opposes public funding for abortion.",
+      "quote": "I am pro-life; I believe life begins at conception, and there is inherent value in each individual life. My exceptions are the life of the mother, and the rape/incest exceptions. I believe our government should promote a culture that values innocent human life. I oppose tax dollars funding abortion.",
+      "url": "https://jerseyjustin4senate.org/",
+      "source_type": "campaign",
+      "source_title": "MURPHY FOR U.S. SENATE 2026 - New Jersey",
+      "retrieved_at": "2026-10-24T03:28:19+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote states his position on when life begins, the listed exceptions, and opposition to tax-funded abortion.",
+      "original_claim": "Murphy says life begins at conception, names exceptions for the mother’s life, rape and incest, and opposes public funding for abortion."
+    },
+    {
+      "issue_id": "abortion",
+      "claim": "Supports parental notification, a ban on partial-birth abortion, and policies supporting adoption.",
+      "quote": "I support parental notification, the ban on partial birth abortion, and pro adoption policies.",
+      "url": "https://jerseyjustin4senate.org/",
+      "source_type": "campaign",
+      "source_title": "MURPHY FOR U.S. SENATE 2026 - New Jersey",
+      "retrieved_at": "2026-10-24T03:28:19+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote explicitly supports parental notification, a ban on partial-birth abortion, and adoption policies.",
+      "original_claim": "He supports parental notification, a ban on partial-birth abortion and policies supporting adoption."
+    },
+    {
+      "issue_id": "education",
+      "claim": "Supports school choice for parents and competition among schools, and says parents control their children’s education.",
+      "quote": "Parents control their children’s education – there is no co-parenting arrangement between government and parents, period. I am pro education; we have no future without a vibrant public education system. I believe in school choice for parents and competition between all schools as a way to strengthen our education system.",
+      "url": "https://jerseyjustin4senate.org/",
+      "source_type": "campaign",
+      "source_title": "MURPHY FOR U.S. SENATE 2026 - New Jersey",
+      "retrieved_at": "2026-10-24T03:28:19+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote supports parental control of education, school choice, and competition among schools.",
+      "original_claim": "Murphy supports school choice for parents and competition among schools, and says parents control their children’s education."
+    },
+    {
+      "issue_id": "education",
+      "claim": "Proposes abolishing the federal Department of Education and dividing its annual budget among local school boards for public education funding and school voucher programs.",
+      "quote": "I advocate the complete abolition of the Federal Department of Education, and that their annual budget of approximately 100-billion dollars be equally divided among each individual local school board for public education funding and school voucher programs.",
+      "url": "https://jerseyjustin4senate.org/",
+      "source_type": "campaign",
+      "source_title": "MURPHY FOR U.S. SENATE 2026 - New Jersey",
+      "retrieved_at": "2026-10-24T03:28:19+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote explicitly proposes abolishing the federal Department of Education and dividing its annual budget among local school boards for the stated purposes.",
+      "original_claim": "He proposes abolishing the federal Department of Education and dividing its annual budget among local school boards for public education funding and school voucher programs."
+    },
+    {
+      "issue_id": "immigration",
+      "claim": "Proposes securing the northern and southern borders with a wall, military presence, and Title 42 enforcement, and deporting criminals.",
+      "quote": "America’s immigration policies should ensure the following objectives are achieved: Secure both the southern and northern borders: Impenetrable wall; military presence; Title 42 enforcement; aggressive deportation of criminals",
+      "url": "https://jerseyjustin4senate.org/issue-immigration/",
+      "source_type": "campaign",
+      "source_title": "Issue immigration - Justin for U.S. Senate 2026 - New Jersey",
+      "retrieved_at": "2026-10-24T03:28:19+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote lists both borders, a wall, military presence, Title 42 enforcement, and deportation of criminals.",
+      "original_claim": "Murphy proposes securing the northern and southern borders with a wall, military presence and Title 42 enforcement, and calls for deporting criminals."
+    },
+    {
+      "issue_id": "immigration",
+      "claim": "Supports tracking visa holders, penalties for illegal immigrants including deportation and fines, and work visas intended to benefit U.S. workers and the economy.",
+      "quote": "Effective tracking of who is here in our country, why they are here, and measures to ensure that legal immigrants do not overstay their work or student visa, thereby becoming illegal immigrants\nStiff penalties for illegal immigrants: deportation and fines\nIssuance of work visas that benefit our American economy and American workforce.",
+      "url": "https://jerseyjustin4senate.org/issue-immigration/",
+      "source_type": "campaign",
+      "source_title": "Issue immigration - Justin for U.S. Senate 2026 - New Jersey",
+      "retrieved_at": "2026-10-24T03:28:19+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote supports visa tracking, deportation and fines for illegal immigrants, and work visas intended to benefit the U.S. economy and workforce.",
+      "original_claim": "He supports tracking visa holders, penalties including deportation and fines for illegal immigrants, and work visas intended to benefit U.S. workers and the economy."
+    },
+    {
+      "issue_id": "immigration",
+      "claim": "Supports withholding federal aid from jurisdictions that declare themselves sanctuaries for undocumented immigrants.",
+      "quote": "I believe in withholding federal aid to cities and states that declare themselves ‘sanctuary for illegal aliens’.",
+      "url": "https://jerseyjustin4senate.org/",
+      "source_type": "campaign",
+      "source_title": "MURPHY FOR U.S. SENATE 2026 - New Jersey",
+      "retrieved_at": "2026-10-24T03:28:19+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote supports withholding federal aid from cities and states that declare themselves sanctuaries for immigrants without legal status.",
+      "original_claim": "He supports withholding federal aid from jurisdictions that declare themselves sanctuaries for undocumented immigrants."
+    },
+    {
+      "issue_id": "climate",
+      "claim": "Supports energy production on federal lands and faster federal leasing and permitting for energy projects.",
+      "quote": "Promote Rather than restrict, energy production on federal lands\nEnergy projects\nExpedite federal leasing and permitting for energy development projects",
+      "url": "https://jerseyjustin4senate.org/issue-energy/",
+      "source_type": "campaign",
+      "source_title": "Issue energy - Justin for U.S. Senate - New Jersey",
+      "retrieved_at": "2026-10-24T03:28:19+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote explicitly calls for promoting energy production on federal lands and expediting federal leasing and permitting.",
+      "original_claim": "He supports energy production on federal lands and faster federal leasing and permitting for energy projects."
+    },
+    {
+      "issue_id": "climate",
+      "claim": "Says he would not support a domestic energy project that could not be developed in an environmentally responsible manner.",
+      "quote": "If development of domestic energy sources cannot be accomplished in an environmentally responsible manner, I will not support development of that project.",
+      "url": "https://jerseyjustin4senate.org/",
+      "source_type": "campaign",
+      "source_title": "MURPHY FOR U.S. SENATE 2026 - New Jersey",
+      "retrieved_at": "2026-10-24T03:28:19+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote directly states he would not support a project that cannot be developed responsibly.",
+      "original_claim": "He says he would not support a domestic energy project that could not be developed in an environmentally responsible manner."
+    },
+    {
+      "issue_id": "climate",
+      "claim": "Supports expanding nuclear power in the United States.",
+      "quote": "I strongly support the expansion of nuclear power in the U.S.",
+      "url": "https://jerseyjustin4senate.org/",
+      "source_type": "campaign",
+      "source_title": "MURPHY FOR U.S. SENATE 2026 - New Jersey",
+      "retrieved_at": "2026-10-24T03:28:19+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote directly says he supports expanding nuclear power in the U.S.",
+      "original_claim": "He supports expanding nuclear power in the United States."
+    },
+    {
+      "issue_id": "climate",
+      "claim": "Says he wants the NJ Pinelands kept “pristine” and the Jersey Shore free of pollution and windmills.",
+      "quote": "As a US Senator, I want to ensure the NJ Pinelands (my home) are kept pristine, the Jersey Shore kept pollution and windmill free;",
+      "url": "https://jerseyjustin4senate.org/",
+      "source_type": "campaign",
+      "source_title": "MURPHY FOR U.S. SENATE 2026 - New Jersey",
+      "retrieved_at": "2026-10-24T03:28:19+00:00",
+      "archived_copy": null,
+      "original_claim": "He says he wants the New Jersey Pinelands kept pristine and the Jersey Shore kept free of pollution and windmills.",
+      "verifier_note": "The quote states both preferences; “pristine” is his own wording and should be attributed."
+    },
+    {
+      "issue_id": "crime",
+      "claim": "Calls for a nationwide campaign against drug use.",
+      "quote": "There needs to be a nation-wide campaign against drug use, as there was in the 1980’s.",
+      "url": "https://jerseyjustin4senate.org/issue-drugs/",
+      "source_type": "campaign",
+      "source_title": "Issue drugs - Justin for U.S. Senate - New Jersey",
+      "retrieved_at": "2026-10-24T03:28:19+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote directly calls for a nationwide campaign against drug use.",
+      "original_claim": "Murphy calls for a nationwide campaign against drug use."
+    },
+    {
+      "issue_id": "crime",
+      "claim": "Says drug use increases crime, among other harms.",
+      "quote": "So much will be lost – drug use results in destroyed lives, whether or not some legislature writes down on a piece of paper that it is now legal. Depression, suicide, dysfunction, crime, etc. all increase.",
+      "url": "https://jerseyjustin4senate.org/issue-drugs/",
+      "source_type": "campaign",
+      "source_title": "Issue drugs - Justin for U.S. Senate - New Jersey",
+      "retrieved_at": "2026-10-24T03:28:19+00:00",
+      "archived_copy": null,
+      "verifier_note": "In context, the quote says drug use results in harms including increased crime.",
+      "original_claim": "Murphy says drug use increases crime, among other harms."
+    },
+    {
+      "issue_id": "economy",
+      "claim": "Highlights private-sector growth, tax cuts, spending reductions, and economic opportunity for the middle class under the “Economy & Jobs” heading.",
+      "quote": "Economy & Jobs\nPrivate sector growth, tax cuts, spending reductions, and economic opportunity for the middle class.",
+      "url": "https://jerseyjustin4senate.org/",
+      "source_type": "campaign",
+      "source_title": "MURPHY FOR U.S. SENATE 2026 - New Jersey",
+      "retrieved_at": "2026-10-24T03:28:19+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote lists those items under the Economy & Jobs heading.",
+      "original_claim": "The campaign lists private-sector growth, tax cuts, spending reductions, and economic opportunity for the middle class under its Economy & Jobs heading."
+    },
+    {
+      "issue_id": "economy",
+      "claim": "His energy policy calls for promoting production on federal lands and expediting federal leasing and permitting for energy projects.",
+      "quote": "Promote\nRather than restrict, energy production on federal lands\nEnergy projects\nExpedite federal leasing and permitting for energy development projects",
+      "url": "https://jerseyjustin4senate.org/issue-energy/",
+      "source_type": "campaign",
+      "source_title": "Issue energy - Justin for U.S. Senate - New Jersey",
+      "retrieved_at": "2026-10-24T03:28:19+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote directly calls for promoting production on federal lands and expediting federal leasing and permitting."
+    },
+    {
+      "issue_id": "economy",
+      "claim": "Supports making DOGE a permanent federal effort and a constitutional balanced-budget amendment.",
+      "quote": "DOGE should become a permanent federal endeavor. I also support a Balanced Budget Amendment to the U.S. Constitution.",
+      "url": "https://jerseyjustin4senate.org/",
+      "source_type": "campaign",
+      "source_title": "MURPHY FOR U.S. SENATE 2026 - New Jersey",
+      "retrieved_at": "2026-10-24T03:28:19+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote directly supports making DOGE permanent and a constitutional balanced-budget amendment.",
+      "original_claim": "Murphy supports making DOGE a permanent federal effort and a constitutional balanced-budget amendment."
+    },
+    {
+      "issue_id": "education",
+      "claim": "Supports public education and describes a vibrant public education system as necessary for the country’s future.",
+      "quote": "I am pro education; we have no future without a vibrant public education system.",
+      "url": "https://jerseyjustin4senate.org/",
+      "source_type": "campaign",
+      "source_title": "MURPHY FOR U.S. SENATE 2026 - New Jersey",
+      "retrieved_at": "2026-10-24T03:28:19+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote directly expresses support for education and says the country needs a vibrant public education system.",
+      "original_claim": "Murphy says he supports public education and describes a vibrant public education system as necessary for the country’s future."
+    },
+    {
+      "issue_id": "education",
+      "claim": "Says he characterizes public-school curriculum as an attempt by the left to “sexualize children.”",
+      "quote": "Given the attempt by the left to sexualize children through public school curriculum",
+      "url": "https://jerseyjustin4senate.org/",
+      "source_type": "campaign",
+      "source_title": "MURPHY FOR U.S. SENATE 2026 - New Jersey",
+      "retrieved_at": "2026-10-24T03:28:19+00:00",
+      "archived_copy": null,
+      "original_claim": "Murphy alleges that public-school curriculum is being used to sexualize children.",
+      "verifier_note": "The quote attributes the claim about sexualizing children through public-school curriculum to Murphy; the allegation is clearly attributed."
+    },
+    {
+      "issue_id": "healthcare",
+      "claim": "Supports universal health coverage but opposes government-run healthcare.",
+      "quote": "I agree with those who want universal health coverage for Americans, however, I adamantly oppose government-run healthcare.",
+      "url": "https://jerseyjustin4senate.org/",
+      "source_type": "campaign",
+      "source_title": "MURPHY FOR U.S. SENATE 2026 - New Jersey",
+      "retrieved_at": "2026-10-24T03:28:19+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote directly supports universal health coverage and opposes government-run healthcare.",
+      "original_claim": "Murphy supports universal health coverage but opposes government-run healthcare."
+    },
+    {
+      "issue_id": "healthcare",
+      "claim": "Proposes that every American own a portable Health Savings Account that is privately held and can be left to heirs.",
+      "quote": "Ensures every American owns a Health Savings Account – these health care tools are portable, not employer owned, private, and can be left to the owners’ heirs as a way of insuring family members.",
+      "url": "https://jerseyjustin4senate.org/",
+      "source_type": "campaign",
+      "source_title": "MURPHY FOR U.S. SENATE 2026 - New Jersey",
+      "retrieved_at": "2026-10-24T03:28:19+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote directly describes Health Savings Accounts as available to every American, portable, privately held, and inheritable.",
+      "original_claim": "He proposes that every American own a portable Health Savings Account that is privately held and can be left to heirs."
+    },
+    {
+      "issue_id": "healthcare",
+      "claim": "Proposes allowing Americans to buy insurance from any insurer nationwide, creating a national insurance market.",
+      "quote": "Promotes Competition – allow all Americans to purchase health insurance from any insurance company in the country, creating a national insurance market.",
+      "url": "https://jerseyjustin4senate.org/",
+      "source_type": "campaign",
+      "source_title": "MURPHY FOR U.S. SENATE 2026 - New Jersey",
+      "retrieved_at": "2026-10-24T03:28:19+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote directly proposes allowing Americans to buy insurance from any insurer in the country.",
+      "original_claim": "He proposes allowing Americans to buy insurance from any insurer nationwide, creating a national insurance market."
+    },
+    {
+      "issue_id": "healthcare",
+      "claim": "Proposes a special Medicare and Medicaid fraud unit, rewards for information leading to convictions, and penalties for system abuse.",
+      "quote": "We need to create a special Medicare & Medicaid Fraud Unit, provide substantial financial rewards for information leading to a Fraud conviction, and enact severe penalties for abuse of the system.",
+      "url": "https://jerseyjustin4senate.org/",
+      "source_type": "campaign",
+      "source_title": "MURPHY FOR U.S. SENATE 2026 - New Jersey",
+      "retrieved_at": "2026-10-24T03:28:19+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote directly proposes the fraud unit, rewards for information leading to convictions, and penalties for abuse.",
+      "original_claim": "He proposes a special Medicare and Medicaid fraud unit, rewards for information leading to convictions, and penalties for system abuse."
+    },
+    {
+      "issue_id": "healthcare",
+      "claim": "Proposes directing money recovered from healthcare fraud and waste back to Social Security and Medicare.",
+      "quote": "All dollars recouped from fraud and waste should be recycled into the Social Security and Medicare systems to keep those programs solvent.",
+      "url": "https://jerseyjustin4senate.org/",
+      "source_type": "campaign",
+      "source_title": "MURPHY FOR U.S. SENATE 2026 - New Jersey",
+      "retrieved_at": "2026-10-24T03:28:19+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote directly proposes directing recovered fraud and waste dollars to Social Security and Medicare.",
+      "original_claim": "He proposes directing money recovered from healthcare fraud and waste back to Social Security and Medicare."
+    },
+    {
+      "issue_id": "housing",
+      "claim": "Supports homeownership as a source of economic security and family wealth.",
+      "quote": "Home ownership will provide Americans with economic freedom, economic security, and the creation of family wealth by passing down to generations the value of a home and real property",
+      "url": "https://jerseyjustin4senate.org/",
+      "source_type": "campaign",
+      "source_title": "MURPHY FOR U.S. SENATE 2026 - New Jersey",
+      "retrieved_at": "2026-10-24T03:28:19+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote directly describes homeownership as a source of economic security and family wealth.",
+      "original_claim": "Murphy says he supports homeownership as a source of economic security and family wealth."
+    },
+    {
+      "issue_id": "housing",
+      "claim": "Identifies middle-class employment and low interest rates as the best homeownership policy.",
+      "quote": "The best homeownership policy is a gainfully employed middle-class, and low interest rates.",
+      "url": "https://jerseyjustin4senate.org/",
+      "source_type": "campaign",
+      "source_title": "MURPHY FOR U.S. SENATE 2026 - New Jersey",
+      "retrieved_at": "2026-10-24T03:28:19+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote identifies middle-class employment and low interest rates as the best homeownership policy.",
+      "original_claim": "Murphy identifies middle-class employment and low interest rates as the best homeownership policy."
+    },
+    {
+      "issue_id": "immigration",
+      "claim": "Proposes ending catch-and-release.",
+      "quote": "Zero Tolerance\nEnd catch-and-release",
+      "url": "https://jerseyjustin4senate.org/issue-immigration/",
+      "source_type": "campaign",
+      "source_title": "Issue immigration - Justin for U.S. Senate 2026 - New Jersey",
+      "retrieved_at": "2026-10-24T03:28:19+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote directly calls for ending catch-and-release.",
+      "original_claim": "Murphy proposes ending catch-and-release."
+    },
+    {
+      "issue_id": "immigration",
+      "claim": "Proposes restoring the “Remain in Mexico” policy.",
+      "quote": "Resurrect the ‘Remain in Mexico’ Policy",
+      "url": "https://jerseyjustin4senate.org/issue-immigration/",
+      "source_type": "campaign",
+      "source_title": "Issue immigration - Justin for U.S. Senate 2026 - New Jersey",
+      "retrieved_at": "2026-10-24T03:28:19+00:00",
+      "archived_copy": null,
+      "verifier_note": "“Resurrect” the policy supports the claim that he proposes restoring it.",
+      "original_claim": "Murphy proposes restoring the “Remain in Mexico” policy."
+    },
+    {
+      "issue_id": "immigration",
+      "claim": "Supports allowing state and local law enforcement to take part in immigration enforcement under INA Section 287(g).",
+      "quote": "I support section 287 (g) of the INA (Immigration & Nationality Act) to permit state and local law enforcement involvement in immigration enforcement.",
+      "url": "https://jerseyjustin4senate.org/",
+      "source_type": "campaign",
+      "source_title": "MURPHY FOR U.S. SENATE 2026 - New Jersey",
+      "retrieved_at": "2026-10-24T03:28:19+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote directly supports state and local law-enforcement involvement in immigration enforcement under INA Section 287(g).",
+      "original_claim": "Murphy supports allowing state and local law enforcement to take part in immigration enforcement under INA Section 287(g)."
+    },
+    {
+      "issue_id": "foreign_policy",
+      "claim": "Says the U.S. military should be able to fight and win two wars at the same time.",
+      "quote": "America’s military should have the capacity to fight and win two wars simultaneously.",
+      "url": "https://jerseyjustin4senate.org/",
+      "source_type": "campaign",
+      "source_title": "MURPHY FOR U.S. SENATE 2026 - New Jersey",
+      "retrieved_at": "2026-10-24T03:28:19+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote directly states that the military should be able to fight and win two wars simultaneously.",
+      "original_claim": "Murphy says the U.S. military should be able to fight and win two wars at the same time."
+    },
+    {
+      "issue_id": "foreign_policy",
+      "claim": "Calls China the most serious nation-state threat and advocates engaging it from political and economic strength.",
+      "quote": "Engage the communist government of China from a position of strength, politically and economically. America faces numerous foreign policy challenges; the communist government of China poses the most serious threat to America from nation-state actors.",
+      "url": "https://jerseyjustin4senate.org/issue-china/",
+      "source_type": "campaign",
+      "source_title": "Issue China - Justin for U.S. Senate 2026 - New Jersey",
+      "retrieved_at": "2026-10-24T03:28:19+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote calls China the most serious threat from nation-state actors and advocates engaging its government from political and economic strength.",
+      "original_claim": "Murphy says China is the most serious nation-state threat and advocates engaging it from political and economic strength."
+    },
+    {
+      "issue_id": "foreign_policy",
+      "claim": "Proposes tariffs on Chinese-made goods, citing intellectual-property theft and economic damage from the coronavirus.",
+      "quote": "Tariff goods manufactured in China to compensate for the intellectual property theft and the damage the corona-virus caused to America’s economy",
+      "url": "https://jerseyjustin4senate.org/issue-china/",
+      "source_type": "campaign",
+      "source_title": "Issue China - Justin for U.S. Senate 2026 - New Jersey",
+      "retrieved_at": "2026-10-24T03:28:19+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote directly proposes tariffs on goods made in China and gives the stated reasons.",
+      "original_claim": "Murphy proposes tariffs on Chinese-made goods, citing intellectual-property theft and economic damage from the coronavirus."
+    },
+    {
+      "issue_id": "foreign_policy",
+      "claim": "Proposes increasing the U.S. military presence in the South China Sea and continuing arms transfers to Taiwan and several Asian allies.",
+      "quote": "increase American military presence in the South China Sea; expel Chinese diplomats and close Chinese consulates in America; withhold federal aid to colleges and universities that take money from Chinese companies and Chinese universities; remove ambiguity as it relates to the defense of Taiwan; continue to arm Taiwan and our Asian allies Japan, South Korea, and the Philippines.",
+      "url": "https://jerseyjustin4senate.org/issue-china/",
+      "source_type": "campaign",
+      "source_title": "Issue China - Justin for U.S. Senate 2026 - New Jersey",
+      "retrieved_at": "2026-10-24T03:28:19+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote directly proposes a greater U.S. military presence in the South China Sea and continuing arms transfers to Taiwan and named Asian allies.",
+      "original_claim": "Murphy proposes increasing the U.S. military presence in the South China Sea and continuing arms transfers to Taiwan and several Asian allies."
+    },
+    {
+      "issue_id": "foreign_policy",
+      "claim": "Proposes expelling Chinese diplomats and closing Chinese consulates, and says the U.S. should consider a military alliance with Vietnam.",
+      "quote": "expel Chinese diplomats and close Chinese consulates in America; withhold federal aid to colleges and universities that take money from Chinese companies and Chinese universities; remove ambiguity as it relates to the defense of Taiwan; continue to arm Taiwan and our Asian allies Japan, South Korea, and the Philippines. Make it clear to China that we would entertain a military alliance with Vietnam.",
+      "url": "https://jerseyjustin4senate.org/issue-china/",
+      "source_type": "campaign",
+      "source_title": "Issue China - Justin for U.S. Senate 2026 - New Jersey",
+      "retrieved_at": "2026-10-24T03:28:19+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote calls for expelling diplomats and closing consulates, and says the U.S. would entertain a military alliance with Vietnam.",
+      "original_claim": "Murphy proposes expelling Chinese diplomats, closing Chinese consulates, and says the U.S. should consider a military alliance with Vietnam."
+    },
+    {
+      "issue_id": "womens_childrens",
+      "claim": "Supports parents, rather than government, controlling their children’s education.",
+      "quote": "Parents control their children’s education – there is no co-parenting arrangement between government and parents, period.",
+      "url": "https://jerseyjustin4senate.org/",
+      "source_type": "campaign",
+      "source_title": "MURPHY FOR U.S. SENATE 2026 - New Jersey",
+      "retrieved_at": "2026-10-24T03:28:19+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote directly states that parents control their children’s education.",
+      "original_claim": "Murphy says parents, rather than government, control their children’s education."
+    }
+  ],
+  "scores": {
+    "abortion": {
+      "score": 0.5,
+      "confidence": "medium",
+      "rationale": "Matches the +0.5 anchor of restricting abortion with exceptions: he identifies exceptions for the mother’s life, rape, and incest and opposes public funding."
+    },
+    "climate": {
+      "score": 0.5,
+      "confidence": "medium",
+      "rationale": "Matches the +0.5 anchor prioritizing domestic energy production and faster permitting: he supports federal-land production and expedited leasing, while also requiring environmental responsibility."
+    },
+    "crime": {
+      "score": 0.5,
+      "confidence": "low",
+      "rationale": "Leans toward the +0.5 enforcement anchor: he proposes federal charges when local prosecutors fail to enforce criminal codes, but the findings do not specify police staffing or sentencing changes."
+    },
+    "economy": {
+      "score": 0.75,
+      "confidence": "low",
+      "rationale": "Partly matches the +1.0 anchor of deep tax and spending cuts or abolishing taxes: he proposes a flat tax, abolishing several taxes, and reducing spending, but does not propose abolishing major federal agencies."
+    },
+    "education": {
+      "score": 0.75,
+      "confidence": "low",
+      "rationale": "Partly matches the +1.0 anchor of abolishing the federal education department: he proposes abolishing it and funding both public schools and vouchers, rather than shifting funding solely to private or home schooling."
+    },
+    "guns": {
+      "score": 0.75,
+      "confidence": "low",
+      "rationale": "Partly matches the +0.5 anchor opposing new restrictions: he supports constitutional carry and opposes government actions that threaten gun rights, but the findings do not mention expanding concealed carry."
+    },
+    "healthcare": {
+      "score": 0.5,
+      "confidence": "medium",
+      "rationale": "Matches the +0.5 market-based reform anchor: he proposes private Health Savings Accounts and a national insurance market while opposing government-run healthcare."
+    },
+    "housing": {
+      "score": null,
+      "confidence": null,
+      "rationale": "The findings support homeownership but do not establish a position matching a housing-policy anchor."
+    },
+    "immigration": {
+      "score": 0.5,
+      "confidence": "high",
+      "rationale": "Matches the +0.5 anchor prioritizing border enforcement and opposing sanctuary policies: he proposes border security, deportations, and withholding aid from sanctuary jurisdictions."
+    },
+    "foreign_policy": {
+      "score": 0.75,
+      "confidence": "low",
+      "rationale": "Partly matches the +1.0 anchor of an aggressive military posture toward adversaries: he proposes greater U.S. military presence in the South China Sea and continued arms transfers to Taiwan and Asian allies."
+    },
+    "lgbtq": {
+      "score": null,
+      "confidence": null,
+      "rationale": "Not enough verified information."
+    },
+    "womens_childrens": {
+      "score": null,
+      "confidence": null,
+      "rationale": "The finding concerns parental control of education and does not establish a position on child care or leave programs."
+    }
+  },
+  "stats": {
+    "raw_findings": 17,
+    "passed_code_checks": 14,
+    "verified": 10,
+    "profile_facts": 4,
+    "deep_pass": {
+      "found": 35,
+      "passed_code_checks": 33,
+      "added": 27,
+      "before": 10,
+      "after": 37
+    }
+  },
+  "deepened_at": "2026-10-24T05:12:59+00:00"
+}

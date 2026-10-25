@@ -1,0 +1,23 @@
+# secrets: never commit a real key
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# full-text copies of source pages: kept locally for re-checking, not republished
+data/source_cache/
+
+# scratch output
+output/build_run.txt
+output/live_usage.json
+
+# local editor/tool settings
+.claude/
+output/deep_run.txt
+output/education_run.txt
+output/token_log_lines_before_deep.txt

@@ -1,0 +1,228 @@
+{
+  "id": "fernandez",
+  "built_at": "2026-10-24T03:29:19+00:00",
+  "profile": [
+    {
+      "issue_id": "profile:current_role",
+      "claim": "Fernandez says she and her husband own and operate a small commercial electrical contracting business.",
+      "quote": "together we own and operate a small commercial electrical contracting business.",
+      "url": "https://veronicaforsenate.com/about-me",
+      "source_type": "campaign",
+      "source_title": "About Me",
+      "retrieved_at": "2026-10-24T03:28:51+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote says she and her husband own and operate a small commercial electrical contracting business."
+    },
+    {
+      "issue_id": "profile:previous_role",
+      "claim": "Former licensed property/casualty insurance underwriter.",
+      "quote": "I was a licensed Property/Casualty (including Health) Insurance Underwriter in our state.",
+      "url": "https://veronicaforsenate.com/about-me",
+      "source_type": "campaign",
+      "source_title": "About Me",
+      "retrieved_at": "2026-10-24T03:28:51+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote says she was a licensed property/casualty insurance underwriter.",
+      "original_claim": "Fernandez says she previously worked as a licensed property/casualty insurance underwriter."
+    },
+    {
+      "issue_id": "profile:top_policy",
+      "claim": "Will sign on day one to a proposed 28th Amendment resolution in the Senate to overturn Citizens United.",
+      "quote": "There is a proposed 28th Amendment resolution in the Senate to overturn CU that I will sign on day one.",
+      "url": "https://veronicaforsenate.com/policies",
+      "source_type": "campaign",
+      "source_title": "Policies",
+      "retrieved_at": "2026-10-24T03:28:51+00:00",
+      "archived_copy": null,
+      "original_claim": "The campaign highlights campaign finance reform, including overturning Citizens United.",
+      "verifier_note": "The quote supports her stated intention to sign on to a resolution to overturn Citizens United."
+    },
+    {
+      "issue_id": "profile:top_policy",
+      "claim": "Supports Medicare for All.",
+      "quote": "I am a FIERCE supporter of M4A and will sign on to Bernie Sander’s Bill S1506 immediately.",
+      "url": "https://veronicaforsenate.com/policies",
+      "source_type": "campaign",
+      "source_title": "Policies",
+      "retrieved_at": "2026-10-24T03:28:51+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote states her support for M4A and says she would sign on to the bill.",
+      "original_claim": "The campaign highlights Medicare for All."
+    }
+  ],
+  "findings": [
+    {
+      "issue_id": "healthcare",
+      "claim": "Supports Medicare for All and would sign on to Bernie Sanders’s S1506.",
+      "quote": "I am a FIERCE supporter of M4A and will sign on to Bernie Sander’s Bill S1506 immediately.",
+      "url": "https://veronicaforsenate.com/policies",
+      "source_type": "campaign",
+      "source_title": "Policies",
+      "retrieved_at": "2026-10-24T03:28:51+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote states her support for M4A and says she would sign on to the bill.",
+      "original_claim": "Fernandez says she supports Medicare for All and would sign on to Bernie Sanders’s S1506."
+    },
+    {
+      "issue_id": "guns",
+      "claim": "Supports passing gun-control laws to protect children and improve safety in schools and communities.",
+      "quote": "we will be able to finally protect our children with the passage of meaningful gun control laws and can begin to feel safe in our schools and communities again.",
+      "url": "https://veronicaforsenate.com/policies",
+      "source_type": "campaign",
+      "source_title": "Policies",
+      "retrieved_at": "2026-10-24T03:28:51+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote supports passing gun-control laws and links them to protecting children and safety in schools and communities.",
+      "original_claim": "Fernandez says she supports passing gun-control laws to protect children and improve safety in schools and communities."
+    },
+    {
+      "issue_id": "foreign_policy",
+      "claim": "Opposes continued U.S. arms to Netanyahu and would not accept support from AIPAC.",
+      "quote": "Unlike Cory Booker, I will NOT vote in any way to continue arming Netanyahu and I will not be accepting support, money or otherwise from AIPAC in any form.",
+      "url": "https://veronicaforsenate.com/policies",
+      "source_type": "campaign",
+      "source_title": "Policies",
+      "retrieved_at": "2026-10-24T03:28:51+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote states she would not vote to continue arming Netanyahu and would not accept support from AIPAC.",
+      "original_claim": "Fernandez says she would oppose continued U.S. arms to Netanyahu and would not accept support from AIPAC."
+    },
+    {
+      "issue_id": "economy",
+      "claim": "Says industry has influenced legislation while its profits reached record highs and people’s finances were depleted, and that Americans’ lives should improve.",
+      "quote": "Since then industry has decided legislation on just about everything. While their profits reach record highs, our pockets have been drained. American lives should be getting better, not harder.",
+      "url": "https://veronicaforsenate.com/",
+      "source_type": "campaign",
+      "source_title": "Veronica for Senate",
+      "retrieved_at": "2026-10-24T03:28:49+00:00",
+      "archived_copy": null,
+      "original_claim": "Fernandez says industry influence over legislation has coincided with record profits and drained household finances, and says Americans’ lives should be getting better.",
+      "verifier_note": "The quote states Fernandez’s criticism of industry influence, record profits, depleted pockets, and the view that Americans’ lives should improve."
+    },
+    {
+      "issue_id": "healthcare",
+      "claim": "Says insurance is not suited to healthcare because it is designed to cover losses rather than ongoing care.",
+      "quote": "As a former underwriter, I can assure you that insurance will NEVER work for healthcare as insurance is designed for loss, not maintenance.",
+      "url": "https://veronicaforsenate.com/policies",
+      "source_type": "campaign",
+      "source_title": "Policies",
+      "retrieved_at": "2026-10-24T03:28:51+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote says insurance is designed for loss rather than maintenance and will not work for healthcare.",
+      "original_claim": "Fernandez says insurance is not suited to healthcare because it is designed to cover losses rather than ongoing care."
+    },
+    {
+      "issue_id": "foreign_policy",
+      "claim": "Opposes any government that maintains a hierarchy of citizenship based on religion or race.",
+      "quote": "I believe PEOPLE have a right to exist and cannot support ANY government that maintains a hierarchy of citizenship based on religion or race.",
+      "url": "https://veronicaforsenate.com/policies",
+      "source_type": "campaign",
+      "source_title": "Policies",
+      "retrieved_at": "2026-10-24T03:28:51+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote directly states that Fernandez cannot support a government maintaining a citizenship hierarchy based on religion or race.",
+      "original_claim": "Fernandez says she opposes any government that maintains a hierarchy of citizenship based on religion or race."
+    },
+    {
+      "issue_id": "foreign_policy",
+      "claim": "Condemns Hamas attacks on innocent Israelis and says acts against innocent Palestinians must stop.",
+      "quote": "I condemn HAMAS and their attacks on innocent Israelis. The atrocities committed on innocent Palestinians is abhorrent and must be stopped.",
+      "url": "https://veronicaforsenate.com/policies",
+      "source_type": "campaign",
+      "source_title": "Policies",
+      "retrieved_at": "2026-10-24T03:28:51+00:00",
+      "archived_copy": null,
+      "original_claim": "She condemns Hamas attacks on Israelis and says atrocities against Palestinians must stop.",
+      "verifier_note": "The quote states both Fernandez’s condemnation of Hamas attacks and her call for acts against Palestinians to stop."
+    },
+    {
+      "issue_id": "foreign_policy",
+      "claim": "Calls for Netanyahu to be charged and brought to trial for war crimes.",
+      "quote": "There is substantial evidence provided by the ICC that Netanyahu is committing genocidal acts and he should be charged and brought to trial for war crimes.",
+      "url": "https://veronicaforsenate.com/policies",
+      "source_type": "campaign",
+      "source_title": "Policies",
+      "retrieved_at": "2026-10-24T03:28:51+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote says Netanyahu should be charged and brought to trial for war crimes.",
+      "original_claim": "Fernandez says Netanyahu should be charged and brought to trial for war crimes."
+    }
+  ],
+  "scores": {
+    "abortion": {
+      "score": null,
+      "confidence": null,
+      "rationale": "Not enough verified information."
+    },
+    "climate": {
+      "score": null,
+      "confidence": null,
+      "rationale": "Not enough verified information."
+    },
+    "crime": {
+      "score": null,
+      "confidence": null,
+      "rationale": "Not enough verified information."
+    },
+    "economy": {
+      "score": null,
+      "confidence": null,
+      "rationale": "No economy anchor is matched; the finding criticizes industry influence and profits but gives no tax, spending, or wage policy."
+    },
+    "education": {
+      "score": null,
+      "confidence": null,
+      "rationale": "Not enough verified information."
+    },
+    "guns": {
+      "score": -0.25,
+      "confidence": "low",
+      "rationale": "Between the 0.0 and -0.5 anchors: support for meaningful gun-control laws points toward new restrictions, but the finding names no specific measures."
+    },
+    "healthcare": {
+      "score": -1.0,
+      "confidence": "high",
+      "rationale": "The -1.0 single-payer anchor is matched by support for Medicare for All and the finding that insurance is not suited to healthcare."
+    },
+    "housing": {
+      "score": null,
+      "confidence": null,
+      "rationale": "Not enough verified information."
+    },
+    "immigration": {
+      "score": null,
+      "confidence": null,
+      "rationale": "Not enough verified information."
+    },
+    "foreign_policy": {
+      "score": -0.75,
+      "confidence": "low",
+      "rationale": "Partial fit with the -1.0 anchor: opposition to continued U.S. arms to Netanyahu aligns with limiting aid to Israel, but the findings do not establish broad aid cuts or a diplomacy-first approach."
+    },
+    "lgbtq": {
+      "score": null,
+      "confidence": null,
+      "rationale": "Not enough verified information."
+    },
+    "womens_childrens": {
+      "score": null,
+      "confidence": null,
+      "rationale": "Not enough verified information."
+    }
+  },
+  "stats": {
+    "raw_findings": 5,
+    "passed_code_checks": 5,
+    "verified": 3,
+    "profile_facts": 4,
+    "deep_pass": {
+      "found": 14,
+      "passed_code_checks": 10,
+      "added": 5,
+      "before": 3,
+      "after": 8
+    }
+  },
+  "deepened_at": "2026-10-24T05:14:18+00:00",
+  "refreshed_at": "2026-10-24T05:21:13+00:00"
+}

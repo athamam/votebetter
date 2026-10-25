@@ -1,0 +1,381 @@
+{
+  "id": "fazio",
+  "built_at": "2026-10-24T03:28:45+00:00",
+  "profile": [
+    {
+      "issue_id": "profile:current_role",
+      "claim": "Connecticut state senator representing the 36th District.",
+      "quote": "Ryan Fazio is a state Senator representing Connecticut’s 36th District.",
+      "url": "https://ryanfazio.com/",
+      "source_type": "campaign",
+      "source_title": "Ryan Fazio for Governor – Change Hartford. Save Connecticut.",
+      "retrieved_at": "2026-10-24T03:24:09+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote identifies Fazio as a state senator representing Connecticut’s 36th District.",
+      "original_claim": "Ryan Fazio is a Connecticut state senator representing the 36th District."
+    },
+    {
+      "issue_id": "profile:previous_role",
+      "claim": "Professional experience in energy.",
+      "quote": "working professionally in energy",
+      "url": "https://ryanfazio.com/meet-ryan/",
+      "source_type": "campaign",
+      "source_title": "Meet Ryan – Ryan Fazio for Governor",
+      "retrieved_at": "2026-10-24T03:24:11+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote says he worked professionally in energy.",
+      "original_claim": "He worked professionally in energy."
+    },
+    {
+      "issue_id": "profile:previous_role",
+      "claim": "Served on Greenwich’s Representative Town Meeting and Energy Efficiency Committee.",
+      "quote": "He also held positions on Greenwich’s Representative Town Meeting and Energy Efficiency Committee.",
+      "url": "https://ryanfazio.com/meet-ryan/",
+      "source_type": "campaign",
+      "source_title": "Meet Ryan – Ryan Fazio for Governor",
+      "retrieved_at": "2026-10-24T03:24:11+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote says he held positions on Greenwich’s Representative Town Meeting and Energy Efficiency Committee.",
+      "original_claim": "He served on Greenwich’s Representative Town Meeting and Energy Efficiency Committee."
+    },
+    {
+      "issue_id": "profile:top_policy",
+      "claim": "Supports reducing state income-tax rates.",
+      "quote": "Ryan Fazio’s plan would reduce state income-tax rates, providing more than $2.5 billion in annual tax relief when fully implemented.",
+      "url": "https://ryanfazio.com/issues/",
+      "source_type": "campaign",
+      "source_title": "Issues – Ryan Fazio for Governor",
+      "retrieved_at": "2026-10-24T03:24:09+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote says his plan would reduce state income-tax rates.",
+      "original_claim": "The campaign highlights reducing state income-tax rates."
+    },
+    {
+      "issue_id": "profile:top_policy",
+      "claim": "Supports a plan to cut electricity bills by 20%.",
+      "quote": "Ryan Fazio has a real plan to cut electricity bills by 20% — by ending hidden taxes, expanding reliable supply, and removing the mandates driving up costs.",
+      "url": "https://ryanfazio.com/issues/",
+      "source_type": "campaign",
+      "source_title": "Issues – Ryan Fazio for Governor",
+      "retrieved_at": "2026-10-24T03:24:09+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote states that his campaign has a plan to cut electricity bills by 20%.",
+      "original_claim": "The campaign highlights a plan to cut electricity bills by 20%."
+    },
+    {
+      "issue_id": "profile:top_policy",
+      "claim": "Supports a housing approach intended to reduce housing costs, increase supply, and protect local decision-making.",
+      "quote": "Ryan Fazio has a three-pronged approach to housing that reduces the cost of housing, allows Connecticut to grow its housing supply, and protects local control of zoning and decision-making.",
+      "url": "https://ryanfazio.com/issues/",
+      "source_type": "campaign",
+      "source_title": "Issues – Ryan Fazio for Governor",
+      "retrieved_at": "2026-10-24T03:24:09+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote describes an approach to reduce housing costs, expand supply, and protect local control of zoning and decision-making.",
+      "original_claim": "The campaign highlights a housing approach intended to reduce housing costs, increase supply, and protect local decision-making."
+    },
+    {
+      "issue_id": "profile:education",
+      "claim": "Degree in economics, Northwestern University.",
+      "quote": "After earning a degree in economics from Northwestern University",
+      "url": "https://ryanfazio.com/meet-ryan/",
+      "source_type": "campaign",
+      "source_title": "Meet Ryan – Ryan Fazio for Governor",
+      "retrieved_at": "2026-10-24T03:24:11+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote states that Fazio earned a degree in economics from Northwestern University.",
+      "original_claim": "Earned a degree in economics from Northwestern University."
+    }
+  ],
+  "findings": [
+    {
+      "issue_id": "crime",
+      "claim": "Proposes revising the 2020 police law, closing parole loopholes for violent offenders, and reinstating proactive policing.",
+      "quote": "Ryan’s plan reforms the 2020 anti-police legislation, closes parole loopholes for violent offenders, and reinstates proactive policing to keep our communities safe.",
+      "url": "https://ryanfazio.com/issues/",
+      "source_type": "campaign",
+      "source_title": "Issues – Ryan Fazio for Governor",
+      "retrieved_at": "2026-10-24T03:24:09+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote describes the campaign’s plan to reform the 2020 police law, close parole loopholes, and reinstate proactive policing.",
+      "original_claim": "His campaign says his plan would revise the 2020 police law, close parole loopholes for violent offenders, and reinstate proactive policing."
+    },
+    {
+      "issue_id": "economy",
+      "claim": "Proposes reducing taxes by more than $2.5 billion by the fourth year, with relief focused on middle-income families.",
+      "quote": "Ryan Fazio will reduce taxes by over $2.5 billion by the fourth year of his administration with relief focused on income tax relief for middle-income families",
+      "url": "https://ryanfazio.com/the-fazio-tax-cut-plan/",
+      "source_type": "campaign",
+      "source_title": "THE FAZIO TAX CUT PLAN – Ryan Fazio for Governor",
+      "retrieved_at": "2026-10-24T03:24:09+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote specifies tax reductions of over $2.5 billion by the fourth year and relief focused on middle-income families.",
+      "original_claim": "His tax plan proposes reducing taxes by more than $2.5 billion by the fourth year, with relief focused on middle-income families."
+    },
+    {
+      "issue_id": "education",
+      "claim": "Proposes allowing high-demand public charter and magnet schools to expand to their buildings’ physical capacity.",
+      "quote": "Allow all high-demand public charter and magnet schools to expand to the physical capacity of their buildings so that no family needs to depend on a lottery",
+      "url": "https://ryanfazio.com/leadership-on-education-funding-access/",
+      "source_type": "campaign",
+      "source_title": "LEADERSHIP ON EDUCATION FUNDING & ACCESS – Ryan Fazio for Governor",
+      "retrieved_at": "2026-10-24T03:24:09+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote proposes expanding high-demand charter and magnet schools to their buildings’ physical capacity.",
+      "original_claim": "His education plan proposes allowing high-demand public charter and magnet schools to expand to their buildings’ physical capacity."
+    },
+    {
+      "issue_id": "womens_childrens",
+      "claim": "Proposes reducing the paid-family-leave payroll tax by 0.1 percentage points, using existing program reserves and surplus.",
+      "quote": "Reduce PFML payroll tax by 0.1 percentage points, fully funded by existing PFML reserves and surplus",
+      "url": "https://ryanfazio.com/the-fazio-tax-cut-plan/",
+      "source_type": "campaign",
+      "source_title": "THE FAZIO TAX CUT PLAN – Ryan Fazio for Governor",
+      "retrieved_at": "2026-10-24T03:24:09+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote proposes a 0.1-percentage-point reduction in the PFML payroll tax funded by reserves and surplus.",
+      "original_claim": "His tax plan proposes reducing the paid-family-leave payroll tax by 0.1 percentage points, using existing program reserves and surplus."
+    },
+    {
+      "issue_id": "healthcare",
+      "claim": "On veterans’ healthcare access, his campaign says he would streamline veteran services, reduce costs and cut fees.",
+      "quote": "Connecticut is home to over 130,000 veterans, yet progress on veteran homelessness, healthcare access, and job training has stalled. Ryan will streamline veteran services, reduce costs, cut fees, recognize out-of-state licenses, and support employment opportunities for those who served.",
+      "url": "https://ryanfazio.com/issues/",
+      "source_type": "campaign",
+      "source_title": "Issues – Ryan Fazio for Governor",
+      "retrieved_at": "2026-10-24T03:24:09+00:00",
+      "archived_copy": null,
+      "verifier_note": "The campaign says Ryan would streamline veteran services, reduce costs, and cut fees, in a passage that also identifies veterans’ healthcare access as an issue."
+    },
+    {
+      "issue_id": "climate",
+      "claim": "Proposes ending or sunsetting most programs funded through the Public Benefits Charge and moving some remaining programs into the state budget process.",
+      "quote": "The plan would immediately end or sunset most of the more than 50 government programs hidden in the charge and move a small portion of the remaining necessary programs to the state budget process for full transparency.",
+      "url": "https://ryanfazio.com/reduce-electricity-bills-20/",
+      "source_type": "campaign",
+      "source_title": "Ryan’s Plan to Cut Your Electricity Bills – Ryan Fazio for Governor",
+      "retrieved_at": "2026-10-24T03:24:52+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote supports ending or sunsetting most programs in the charge and moving a small portion of remaining programs to the state budget process.",
+      "original_claim": "Fazio’s electricity plan would end or sunset most programs funded through the Public Benefits Charge and move some remaining programs into the state budget process."
+    },
+    {
+      "issue_id": "climate",
+      "claim": "His plan would limit long-term state electricity contracts to prices close to the wholesale market price.",
+      "quote": "Limit any long-term contract for electricity to no more than a nominal difference from the wholesale market price of electricity, protecting ratepayers from bad deals.",
+      "url": "https://ryanfazio.com/reduce-electricity-bills-20/",
+      "source_type": "campaign",
+      "source_title": "Ryan’s Plan to Cut Your Electricity Bills – Ryan Fazio for Governor",
+      "retrieved_at": "2026-10-24T03:24:52+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote supports limiting long-term electricity contracts to a nominal difference from the wholesale price."
+    },
+    {
+      "issue_id": "economy",
+      "claim": "Proposes full expensing of capital investments to encourage business investment and long-term manufacturing and industrial jobs.",
+      "quote": "Full expensing of capital expenditures to incentivize building factories, offices, buying machinery and plants that will lead to the long-term manufacturing and industrial jobs, around $100 million",
+      "url": "https://ryanfazio.com/the-fazio-tax-cut-plan/",
+      "source_type": "campaign",
+      "source_title": "THE FAZIO TAX CUT PLAN – Ryan Fazio for Governor",
+      "retrieved_at": "2026-10-24T03:24:09+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote supports full expensing and says it would incentivize investment and lead to long-term manufacturing and industrial jobs.",
+      "original_claim": "His tax plan proposes full expensing of capital investments, which it says would encourage business investment and long-term manufacturing and industrial jobs."
+    },
+    {
+      "issue_id": "economy",
+      "claim": "Proposes reducing spending he describes as “wasteful” and “politically oriented” by about $1 billion per year by 2031.",
+      "quote": "Reduce wasteful and politically oriented spending by about $1 billion per year by 2031",
+      "url": "https://ryanfazio.com/the-fazio-tax-cut-plan/",
+      "source_type": "campaign",
+      "source_title": "THE FAZIO TAX CUT PLAN – Ryan Fazio for Governor",
+      "retrieved_at": "2026-10-24T03:24:09+00:00",
+      "archived_copy": null,
+      "original_claim": "His tax plan proposes reducing wasteful and politically oriented spending by about $1 billion annually by 2031.",
+      "verifier_note": "The quote supports the spending-reduction proposal, with “wasteful” presented as the campaign's characterization."
+    },
+    {
+      "issue_id": "education",
+      "claim": "Fazio proposes that every Connecticut student be able to read by third grade, with literacy materials based on the Science of Reading.",
+      "quote": "High standards for literacy education: Every Connecticut student should be able to read by 3rd grade\nMaterials must be oriented around proven Science of Reading",
+      "url": "https://ryanfazio.com/leadership-on-education-funding-access/",
+      "source_type": "campaign",
+      "source_title": "LEADERSHIP ON EDUCATION FUNDING & ACCESS – Ryan Fazio for Governor",
+      "retrieved_at": "2026-10-24T03:24:09+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote supports the third-grade reading goal and the use of materials oriented around the Science of Reading."
+    },
+    {
+      "issue_id": "education",
+      "claim": "Proposes reassessing and simplifying Connecticut’s school-funding formulas and providing districts with adequate, predictable funding.",
+      "quote": "Connecticut currently has 10 different school funding formulas. They should be re-assessed and simplified, and districts should count on adequate, transparent, and predictable funding for their needs.",
+      "url": "https://ryanfazio.com/leadership-on-education-funding-access/",
+      "source_type": "campaign",
+      "source_title": "LEADERSHIP ON EDUCATION FUNDING & ACCESS – Ryan Fazio for Governor",
+      "retrieved_at": "2026-10-24T03:24:09+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote supports reassessing and simplifying school-funding formulas and says districts should count on adequate, predictable funding.",
+      "original_claim": "Fazio proposes reassessing and simplifying Connecticut’s school-funding formulas and providing districts with adequate, predictable funding."
+    },
+    {
+      "issue_id": "education",
+      "claim": "Proposes recognizing licenses held by experienced teachers in good standing in other states and eliminating teacher licensing fees.",
+      "quote": "Recognize licenses for credential, experienced teachers in good standing in other states\nExplore better and easier pathways for “second-career” professionals to become teachers\nEliminate licensing fees for teachers",
+      "url": "https://ryanfazio.com/leadership-on-education-funding-access/",
+      "source_type": "campaign",
+      "source_title": "LEADERSHIP ON EDUCATION FUNDING & ACCESS – Ryan Fazio for Governor",
+      "retrieved_at": "2026-10-24T03:24:09+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote supports recognizing out-of-state licenses for experienced teachers in good standing and eliminating teacher licensing fees.",
+      "original_claim": "Fazio proposes recognizing licenses held by experienced teachers in good standing in other states and eliminating teacher licensing fees."
+    },
+    {
+      "issue_id": "education",
+      "claim": "Proposes opting Connecticut into a federal education tax credit for children’s education in private or public settings.",
+      "quote": "Opt into the Federal Education Tax Credit, which is free (federally-financed) money for kids’ education in private or public settings",
+      "url": "https://ryanfazio.com/leadership-on-education-funding-access/",
+      "source_type": "campaign",
+      "source_title": "LEADERSHIP ON EDUCATION FUNDING & ACCESS – Ryan Fazio for Governor",
+      "retrieved_at": "2026-10-24T03:24:09+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote explicitly supports opting into the federal education tax credit for children's education in private or public settings.",
+      "original_claim": "Fazio proposes opting Connecticut into a federal education tax credit for children’s education in private or public settings."
+    },
+    {
+      "issue_id": "education",
+      "claim": "Fazio proposes making curriculum information available online so families can review and understand instructional materials.",
+      "quote": "Online curriculum transparency for families so they can engage and understand materials",
+      "url": "https://ryanfazio.com/leadership-on-education-funding-access/",
+      "source_type": "campaign",
+      "source_title": "LEADERSHIP ON EDUCATION FUNDING & ACCESS – Ryan Fazio for Governor",
+      "retrieved_at": "2026-10-24T03:24:09+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote supports online curriculum transparency so families can engage with and understand materials."
+    },
+    {
+      "issue_id": "housing",
+      "claim": "Proposes incentivizing smaller-scale housing, including accessory dwelling units and residential development in mixed-use areas.",
+      "quote": "Incentivize small-scale housing development and other housing with more community support, including Accessory Dwelling Units, residential in mixed-use areas, and more",
+      "url": "https://ryanfazio.com/housing-affordability-local-control/",
+      "source_type": "campaign",
+      "source_title": "HOUSING AFFORDABILITY & LOCAL CONTROL – Ryan Fazio for Governor",
+      "retrieved_at": "2026-10-24T03:24:09+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote supports incentivizing small-scale housing, including accessory dwelling units and residential development in mixed-use areas.",
+      "original_claim": "He proposes incentivizing smaller-scale housing, including accessory dwelling units and residential development in mixed-use areas."
+    },
+    {
+      "issue_id": "housing",
+      "claim": "Proposes eliminating or rolling back state affordable-housing law 8-30g and H.B. 8002 to give municipalities more flexibility over zoning.",
+      "quote": "Eliminate or roll back 8-30(g) and H.B. 8002 in a way that gives towns and cities more flexibility.",
+      "url": "https://ryanfazio.com/housing-affordability-local-control/",
+      "source_type": "campaign",
+      "source_title": "HOUSING AFFORDABILITY & LOCAL CONTROL – Ryan Fazio for Governor",
+      "retrieved_at": "2026-10-24T03:24:09+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote supports eliminating or rolling back the named laws to give towns and cities more flexibility.",
+      "original_claim": "He proposes eliminating or rolling back state affordable-housing law 8-30g and H.B. 8002 to give municipalities more flexibility over zoning."
+    },
+    {
+      "issue_id": "housing",
+      "claim": "Proposes allowing additional types of housing to count toward 8-30g requirements and changing its percentage-based incentive if 8-30g is not repealed.",
+      "quote": "If 8-30(g) isn’t repealed, allow more forms of naturally occurring affordable housing, transit-oriented or mixed-use development, and senior housing to meet statutory requirements. Also, reform the percentage-based incentive in 8-30(g) to a fixed number to align with incentives.",
+      "url": "https://ryanfazio.com/housing-affordability-local-control/",
+      "source_type": "campaign",
+      "source_title": "HOUSING AFFORDABILITY & LOCAL CONTROL – Ryan Fazio for Governor",
+      "retrieved_at": "2026-10-24T03:24:09+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote supports the listed alternative housing types and changing the percentage-based incentive to a fixed number.",
+      "original_claim": "If 8-30g is not repealed, he proposes allowing additional types of housing to count toward its requirements and changing its percentage-based incentive."
+    },
+    {
+      "issue_id": "housing",
+      "claim": "Proposes capping property-tax increases at no more than 2% or the rate of inflation.",
+      "quote": "Cap property tax increases at no greater than 2% or the rate of inflation",
+      "url": "https://ryanfazio.com/housing-affordability-local-control/",
+      "source_type": "campaign",
+      "source_title": "HOUSING AFFORDABILITY & LOCAL CONTROL – Ryan Fazio for Governor",
+      "retrieved_at": "2026-10-24T03:24:09+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote supports capping property-tax increases at no greater than 2% or the rate of inflation.",
+      "original_claim": "His housing plan proposes capping property-tax increases at no more than 2% or the rate of inflation."
+    }
+  ],
+  "scores": {
+    "abortion": {
+      "score": null,
+      "confidence": null,
+      "rationale": "Not enough verified information."
+    },
+    "climate": {
+      "score": null,
+      "confidence": null,
+      "rationale": "The findings concern electricity costs and program funding but do not establish a climate-policy position matching an anchor."
+    },
+    "crime": {
+      "score": 0.5,
+      "confidence": "medium",
+      "rationale": "The 0.5 anchor fits his proposal to reinstate proactive policing and revise the 2020 police law, alongside closing parole loopholes for violent offenders."
+    },
+    "economy": {
+      "score": 0.5,
+      "confidence": "medium",
+      "rationale": "The 0.5 anchor fits his proposed tax reductions focused on middle-income families and cuts to spending he describes as wasteful."
+    },
+    "education": {
+      "score": 0.0,
+      "confidence": "medium",
+      "rationale": "The 0.0 anchor fits support for public schools alongside school choice, including charter expansion and an education tax credit for public or private settings."
+    },
+    "guns": {
+      "score": null,
+      "confidence": null,
+      "rationale": "Not enough verified information."
+    },
+    "healthcare": {
+      "score": null,
+      "confidence": null,
+      "rationale": "The finding concerns veterans’ service access and costs, not a position on the broader public-private coverage system in the anchors."
+    },
+    "housing": {
+      "score": 0.5,
+      "confidence": "high",
+      "rationale": "The 0.5 anchor fits incentives for housing development, rollback of state affordable-housing requirements for more local zoning flexibility, and a cap on property-tax increases."
+    },
+    "immigration": {
+      "score": null,
+      "confidence": null,
+      "rationale": "Not enough verified information."
+    },
+    "foreign_policy": {
+      "score": null,
+      "confidence": null,
+      "rationale": "Not enough verified information."
+    },
+    "lgbtq": {
+      "score": null,
+      "confidence": null,
+      "rationale": "Not enough verified information."
+    },
+    "womens_childrens": {
+      "score": 0.0,
+      "confidence": "low",
+      "rationale": "The 0.0 anchor is the closest fit: he proposes a limited reduction in the paid-family-leave payroll tax while maintaining the program using reserves and surplus."
+    }
+  },
+  "stats": {
+    "raw_findings": 8,
+    "passed_code_checks": 8,
+    "verified": 4,
+    "profile_facts": 6,
+    "deep_pass": {
+      "found": 31,
+      "passed_code_checks": 24,
+      "added": 13,
+      "before": 5,
+      "after": 18
+    }
+  },
+  "refreshed_at": "2026-10-24T04:20:25+00:00",
+  "deepened_at": "2026-10-24T05:10:36+00:00"
+}
