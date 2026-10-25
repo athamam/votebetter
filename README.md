@@ -11,6 +11,9 @@ A nonpartisan, source-checked guide to the November 3, 2026 statewide races in N
 ## Run it (about 5 minutes)
 
 You need **Python 3.11 or newer** (tested on 3.14). No Node.js, database, or other services.
+Tested from a fresh clone on Windows: clone + install took about 4 minutes, and the app started in about 12 seconds.
+
+> **Windows tip:** clone into a short folder path (for example `C:\Users\<you>\votebetter`). One installed package has very long file names, and Windows can refuse paths longer than 260 characters.
 
 **1. Get the code**
 
