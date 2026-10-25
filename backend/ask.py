@@ -7,6 +7,7 @@ checks then drop unknown citations and block any voting recommendation.
 
 from __future__ import annotations
 
+import re
 import time
 
 from pydantic import BaseModel, Field
@@ -78,8 +79,10 @@ async def ask(model, race: dict, question: str) -> dict:
     blocked = None
     if guardrails.recommends(out.answer):
         blocked = "answer contained a voting recommendation"
-    unknown = [c for c in out.cited_ids if c not in by_id]
-    cited = [c for c in out.cited_ids if c in by_id]
+    # citations = the ids the agent listed plus the [id] markers in its text (it sometimes fills only one of the two)
+    ids = list(dict.fromkeys([*out.cited_ids, *re.findall(r"\[([a-z]+-\d+)\]", out.answer)]))
+    unknown = [c for c in ids if c not in by_id]
+    cited = [c for c in ids if c in by_id]
     if not out.refused and not cited and blocked is None:
         blocked = "answer cited no verified facts"
     if blocked:
