@@ -299,6 +299,28 @@
       "archived_copy": null,
       "verifier_note": "The quote supports capping property-tax increases at no greater than 2% or the rate of inflation.",
       "original_claim": "His housing plan proposes capping property-tax increases at no more than 2% or the rate of inflation."
+    },
+    {
+      "issue_id": "climate",
+      "claim": "Proposes ending the RPS and RGGI charges or changing how they operate, including counting nuclear and hydropower toward the RPS and crediting RGGI proceeds to ratepayers.",
+      "quote": "End the Renewable Portfolio Standard (RPS) Tax and the Regional Greenhouse Gas Initiative (RGGI) Tax in the supply portion of our bills, which cost over $400 million per year. Either end the programs in statute entirely or allow all nuclear and hydropower to count toward the RPS, which would drive the cost to ratepayers toward zero, and credit all proceeds from the RGGI back to ratepayers.",
+      "url": "https://ryanfazio.com/reduce-electricity-bills-20/",
+      "source_type": "campaign",
+      "source_title": "Ryan’s Plan to Cut Your Electricity Bills – Ryan Fazio for Governor",
+      "retrieved_at": "2026-10-24T03:24:52+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote supports ending the RPS and RGGI taxes or changing the programs, including the stated nuclear, hydropower, and ratepayer provisions."
+    },
+    {
+      "issue_id": "climate",
+      "claim": "Proposes expanding natural-gas pipeline capacity from Pennsylvania and having Connecticut intervene federally or sue New York if it blocks pipeline proposals.",
+      "quote": "Expand natural gas pipeline capacity from Pennsylvania, providing affordable, reliable power while reducing reliance on expensive, dirty oil peaker plants. Have Connecticut officially intervene through the federal regulatory process at FERC or sue the State of New York if it continues to block pipeline expansion proposals under the Interstate Commerce Clause.",
+      "url": "https://ryanfazio.com/reduce-electricity-bills-20/",
+      "source_type": "campaign",
+      "source_title": "Ryan’s Plan to Cut Your Electricity Bills – Ryan Fazio for Governor",
+      "retrieved_at": "2026-10-24T03:24:52+00:00",
+      "archived_copy": null,
+      "verifier_note": "The quote supports expanding natural-gas pipeline capacity from Pennsylvania and having Connecticut intervene at FERC or sue New York over blocked expansion proposals."
     }
   ],
   "scores": {
@@ -308,9 +330,9 @@
       "rationale": "Not enough verified information."
     },
     "climate": {
-      "score": null,
-      "confidence": null,
-      "rationale": "The findings concern electricity costs and program funding but do not establish a climate-policy position matching an anchor."
+      "score": 0.5,
+      "confidence": "high",
+      "rationale": "Matches the 0.5 anchor prioritizing energy costs and domestic oil and gas and reducing environmental regulation: the findings propose ending or changing RPS/RGGI charges, limiting electricity costs, and expanding natural-gas pipeline capacity."
     },
     "crime": {
       "score": 0.5,
@@ -376,6 +398,6 @@
       "after": 18
     }
   },
-  "refreshed_at": "2026-10-24T04:20:25+00:00",
+  "refreshed_at": "2026-10-25T06:13:49+00:00",
   "deepened_at": "2026-10-24T05:10:36+00:00"
 }

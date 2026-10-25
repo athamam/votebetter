@@ -38,7 +38,8 @@ MAX_WEB_SEARCHES = 8             # web searches in one run
 MAX_OUTPUT_TOKENS = 6_000        # cap on any single model response
 
 # --- App-wide spending caps (live features in the web app) ---
-MAX_LIVE_RUNS_PER_SESSION = 5    # refresh + questions per browser session
+MAX_LIVE_RUNS_PER_SESSION = 15   # refresh + questions per browser session
+MAX_LIVE_RUNS_PER_NETWORK = 30   # all sessions from one network (IP address)
 MAX_LIVE_RUNS_PER_DAY = 200      # all users combined; resets at midnight
 MAX_QUESTION_CHARS = 500         # longest question a user can send
 

@@ -102,7 +102,7 @@ All agents use **gpt-6-luna** through Portkey (`PORTKEY_API_KEY`).
 ## Guardrails
 
 - Per run: caps on model requests, tool calls, web searches, and tokens (`backend/config.py`).
-- Live features: 5 per browser session, 15 per network, 200 per day site-wide (`backend/guardrails.py`). Browsing is unlimited.
+- Live features: 15 per browser session, 30 per network, 200 per day site-wide (`backend/guardrails.py`). Browsing is unlimited. **If you see "You have used all 15 live AI requests", that is this spending cap working as designed**, not an error; open a new private window for a fresh session.
 - Prompt injection: page text is passed as tagged, untrusted data; user questions are treated as questions only.
 - Output checks in plain code: answers with voting recommendations or with no valid citations are blocked before display.
 - Every rejected claim and every blocked request is logged to `output/safety_log.jsonl`. Every agent run's tokens are logged to `output/token_log.jsonl`.

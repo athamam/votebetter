@@ -18,6 +18,7 @@ from datetime import date
 
 from backend.config import (
     MAX_LIVE_RUNS_PER_DAY,
+    MAX_LIVE_RUNS_PER_NETWORK,
     MAX_LIVE_RUNS_PER_SESSION,
     MAX_QUESTION_CHARS,
     OUTPUT_DIR,
@@ -25,7 +26,6 @@ from backend.config import (
 )
 
 USAGE_PATH = OUTPUT_DIR / "live_usage.json"
-MAX_LIVE_RUNS_PER_IP = MAX_LIVE_RUNS_PER_SESSION * 3  # a few sessions from one network, not unlimited
 _lock = threading.Lock()
 
 NO_RECOMMENDATION = (
@@ -64,7 +64,7 @@ def check_and_count(session_id: str, ip: str) -> tuple[bool, str, dict]:
             msg = "The guide has reached its daily limit for live AI requests. Browsing still works; please try again tomorrow."
         elif s_used >= MAX_LIVE_RUNS_PER_SESSION:
             msg = f"You have used all {MAX_LIVE_RUNS_PER_SESSION} live AI requests for this session. Browsing still works."
-        elif ip_used >= MAX_LIVE_RUNS_PER_IP:
+        elif ip_used >= MAX_LIVE_RUNS_PER_NETWORK:
             msg = "This network has reached its limit for live AI requests today. Browsing still works."
         else:
             data["total"] += 1

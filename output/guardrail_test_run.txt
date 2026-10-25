@@ -9,6 +9,6 @@ PASS  over-long question is rejected before any AI call
 PASS  unknown fact: no invented answer
       {"answer": "The guide has no verified information that answers this question.", "error": null, "refused": true, "blocked": "answer cited no verified facts"}
 PASS  per-session spending cap blocks the next run
-      {"answer": null, "error": "You have used all 5 live AI requests for this session. Browsing still works.", "refused": null, "blocked": null}
+      {"answer": null, "error": "You have used all 15 live AI requests for this session. Browsing still works.", "refused": null, "blocked": null}
 
 6/6 passed
