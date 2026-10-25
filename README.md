@@ -1,5 +1,7 @@
 # VoteBetter: Know where they stand (NY · NJ · CT, 2026)
 
+**Repo:** https://github.com/athamam/votebetter · **Runs locally** (see *Run it* below; about 5 minutes).
+
 A nonpartisan, source-checked guide to the November 3, 2026 statewide races in New York (Governor), New Jersey (U.S. Senate) and Connecticut (Governor). AI agents research each candidate on allowed sources only, every statement is checked word for word against its source page, and nothing is shown that cannot be traced.
 
 > **Disclaimer.** Independent student project for MGT 409 at the Yale School of Management. Not affiliated with or endorsed by Yale University, the Yale School of Management, or any candidate, campaign, or party. It does not recommend any candidate or party. Spectrum positions are AI estimates and are not verified by the candidates.

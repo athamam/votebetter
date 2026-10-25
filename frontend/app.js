@@ -594,8 +594,8 @@ function renderAbout() {
     and it does not recommend any candidate or party.</p>
     <p>Its purpose is to make it quicker to see what the candidates on your ballot have said, in their own words, with the source
     one click away. It covers the November 3, 2026 statewide races in New York (Governor), New Jersey (U.S. Senate) and Connecticut (Governor).</p>
-    <p><b>Report an error.</b> If anything here is wrong, out of date, or unfairly worded, please open an issue on the project's
-    GitHub page (linked in the README). Corrections are made by re-running the same checks, never by hand-editing a candidate's positions.</p>
+    <p><b>Report an error.</b> If anything here is wrong, out of date, or unfairly worded, please
+    <a href="https://github.com/athamam/votebetter/issues" target="_blank" rel="noopener noreferrer">open an issue on GitHub ↗</a>. Corrections are made by re-running the same checks, never by hand-editing a candidate's positions.</p>
     <p class="small muted">Not legal, financial or voting advice. For official information on registering and voting, use the
     <a href="https://vote.gov/" target="_blank" rel="noopener noreferrer">vote.gov ↗</a> link at the top of every page or your state's election office.</p>
   </div>`;
