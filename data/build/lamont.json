@@ -15,14 +15,15 @@
     },
     {
       "issue_id": "profile:previous_role",
-      "claim": "Business owner and job creator in Connecticut.",
+      "claim": "Business owner in Connecticut.",
       "quote": "Governor Lamont started a business here in Connecticut; as a business owner and job creator",
       "url": "https://www.nedlamont.com/about/",
       "source_type": "campaign",
       "source_title": "About Governor Ned Lamont",
       "retrieved_at": "2026-10-24T03:26:54+00:00",
       "archived_copy": null,
-      "verifier_note": "The campaign says Lamont started a business in Connecticut and describes him as a business owner and job creator."
+      "verifier_note": "The campaign says Lamont started a business in Connecticut and describes him as a business owner and job creator.",
+      "original_claim": "Business owner and job creator in Connecticut."
     },
     {
       "issue_id": "profile:previous_role",
@@ -74,14 +75,15 @@
     },
     {
       "issue_id": "profile:education",
-      "claim": "Bachelor of Arts in sociology, Harvard College (1976).",
+      "claim": "B.A. in sociology, Harvard College (1976).",
       "quote": "he earned a Bachelor of Arts in sociology from Harvard College in 1976",
       "url": "https://portal.ct.gov/en/SOTS/Register-Manual/Section-II/Biographies---CT-Elective-State-Officers",
       "source_type": "official",
       "source_title": "Biographies - Connecticut Elective State Officers",
       "retrieved_at": "2026-10-24T04:27:39+00:00",
       "archived_copy": null,
-      "verifier_note": "The quote supports Lamont’s degree, field, institution, and graduation year."
+      "verifier_note": "The quote supports Lamont’s degree, field, institution, and graduation year.",
+      "original_claim": "Bachelor of Arts in sociology, Harvard College (1976)."
     },
     {
       "issue_id": "profile:education",
@@ -110,7 +112,7 @@
     },
     {
       "issue_id": "crime",
-      "claim": "Says public safety should guide state and local law enforcement and serious offenders should be taken off the streets.",
+      "claim": "Supports using public safety to guide state and local law enforcement and taking serious offenders off the streets.",
       "quote": "The top priority of local and state law enforcement needs to be public safety and getting those who commit serious crimes off our streets.",
       "url": "https://portal.ct.gov/governor/news/press-releases/2025/08-2025/governor-lamont-statement-on-letter-from-the-department-of-justice?language=en_US",
       "source_type": "official",
@@ -122,7 +124,7 @@
     },
     {
       "issue_id": "economy",
-      "claim": "Says his record includes reducing income-tax rates for middle-income residents and increasing the Earned Income Tax Credit.",
+      "claim": "Says he reduced income-tax rates for middle-income residents and increased the Earned Income Tax Credit.",
       "quote": "Delivered the largest income tax cut in Connecticut’s history, lowering rates for middle-income residents and raising the Earned Income Tax Credit, putting meaningful, permanent relief in the hands of working families",
       "url": "https://www.nedlamont.com/accomplishments/",
       "source_type": "campaign",
@@ -217,7 +219,7 @@
     },
     {
       "issue_id": "abortion",
-      "claim": "Says he would protect reproductive rights in Connecticut and oppose laws restricting them.",
+      "claim": "Would protect reproductive rights in Connecticut and oppose laws restricting them.",
       "quote": "Politicians should not get between a person and their doctor. As long as I am governor, reproductive rights will be protected in Connecticut, and I will do everything in my power to block laws from being passed that restrict those rights.",
       "url": "https://portal.ct.gov/reproductiverights/?language=en_US",
       "source_type": "official",
@@ -347,7 +349,7 @@
     },
     {
       "issue_id": "housing",
-      "claim": "Would increase housing supply near transit and job centers, support workforce and middle-income housing, and revitalize downtowns and underused properties, according to his 2026 campaign platform.",
+      "claim": "Would increase housing supply near transit and job centers, support workforce and middle-income housing, and revitalize downtowns and underused properties.",
       "quote": "Expanding housing supply near transit and job centers\nSupporting workforce and middle-income housing\nRevitalizing downtowns and underused properties\nWorking with local leaders and communities to meet housing needs responsibly",
       "url": "https://www.nedlamont.com/priorities/",
       "source_type": "campaign",
@@ -371,7 +373,7 @@
     },
     {
       "issue_id": "immigration",
-      "claim": "Would require federal immigration officials to obtain a judicial warrant to enter designated protected areas, subject to exigent-circumstances exceptions, under his 2026 legislative proposal.",
+      "claim": "Would require federal immigration officials to obtain a judicial warrant to enter designated protected areas, subject to exigent-circumstances exceptions.",
       "quote": "Protect hospitals, schools, religious and government buildings and properties by codifying the \"protected areas” policy that federal law enforcement previously maintained. The proposal requires federal immigration officials to provide a judicial warrant in order to enter a protected area, subject to certain exceptions for exigent circumstances.",
       "url": "https://portal.ct.gov/governor/-/media/office-of-the-governor/2026-legislative-proposals/sb-91-ig-and-protected-areas.pdf?hash=82F09E7DAC9E32BBFC0DD9BD28F3779C&rev=10e0c187dea44dda9e49d7950353f21b",
       "source_type": "official",
@@ -431,7 +433,7 @@
     },
     {
       "issue_id": "lgbtq",
-      "claim": "Says his record includes ensuring access to gender-affirming care and barring health-insurance discrimination based on gender identity.",
+      "claim": "Says he ensured access to gender-affirming care and barred health-insurance discrimination based on gender identity.",
       "quote": "Ensured access to gender-affirming care and banned discrimination based on gender identity in health insurance",
       "url": "https://www.nedlamont.com/progressive-wins/",
       "source_type": "campaign",

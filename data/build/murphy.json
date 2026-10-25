@@ -28,7 +28,7 @@
     },
     {
       "issue_id": "profile:top_policy",
-      "claim": "Highlights a strong America standing up to terrorism, hostile foreign governments, and rampant crime.",
+      "claim": "Highlights America standing up to terrorism, hostile foreign governments, and crime.",
       "quote": "Security\nA strong America that stands up to terrorism, hostile foreign governments, and rampant crime.",
       "url": "https://jerseyjustin4senate.org/",
       "source_type": "campaign",
@@ -90,7 +90,7 @@
     },
     {
       "issue_id": "abortion",
-      "claim": "Says life begins at conception, identifies exceptions for the mother’s life, rape, and incest, and opposes public funding for abortion.",
+      "claim": "Says life begins at conception, with exceptions for the mother’s life, rape, and incest, and opposes public funding for abortion.",
       "quote": "I am pro-life; I believe life begins at conception, and there is inherent value in each individual life. My exceptions are the life of the mother, and the rape/incest exceptions. I believe our government should promote a culture that values innocent human life. I oppose tax dollars funding abortion.",
       "url": "https://jerseyjustin4senate.org/",
       "source_type": "campaign",
@@ -126,7 +126,7 @@
     },
     {
       "issue_id": "education",
-      "claim": "Proposes abolishing the federal Department of Education and dividing its annual budget among local school boards for public education funding and school voucher programs.",
+      "claim": "Proposes abolishing the federal Department of Education and dividing its annual budget among local school boards to fund public education and school voucher programs.",
       "quote": "I advocate the complete abolition of the Federal Department of Education, and that their annual budget of approximately 100-billion dollars be equally divided among each individual local school board for public education funding and school voucher programs.",
       "url": "https://jerseyjustin4senate.org/",
       "source_type": "campaign",
@@ -258,14 +258,15 @@
     },
     {
       "issue_id": "economy",
-      "claim": "His energy policy calls for promoting production on federal lands and expediting federal leasing and permitting for energy projects.",
+      "claim": "Calls for promoting energy production on federal lands and expediting federal leasing and permitting for energy projects.",
       "quote": "Promote\nRather than restrict, energy production on federal lands\nEnergy projects\nExpedite federal leasing and permitting for energy development projects",
       "url": "https://jerseyjustin4senate.org/issue-energy/",
       "source_type": "campaign",
       "source_title": "Issue energy - Justin for U.S. Senate - New Jersey",
       "retrieved_at": "2026-10-24T03:28:19+00:00",
       "archived_copy": null,
-      "verifier_note": "The quote directly calls for promoting production on federal lands and expediting federal leasing and permitting."
+      "verifier_note": "The quote directly calls for promoting production on federal lands and expediting federal leasing and permitting.",
+      "original_claim": "His energy policy calls for promoting production on federal lands and expediting federal leasing and permitting for energy projects."
     },
     {
       "issue_id": "economy",
@@ -281,7 +282,7 @@
     },
     {
       "issue_id": "education",
-      "claim": "Supports public education and describes a vibrant public education system as necessary for the country’s future.",
+      "claim": "Supports public education and says the country has no future without a public education system.",
       "quote": "I am pro education; we have no future without a vibrant public education system.",
       "url": "https://jerseyjustin4senate.org/",
       "source_type": "campaign",
@@ -293,7 +294,7 @@
     },
     {
       "issue_id": "education",
-      "claim": "Says he characterizes public-school curriculum as an attempt by the left to “sexualize children.”",
+      "claim": "Says he objects to what he describes as an attempt by the left to “sexualize children” through public-school curriculum.",
       "quote": "Given the attempt by the left to sexualize children through public school curriculum",
       "url": "https://jerseyjustin4senate.org/",
       "source_type": "campaign",
@@ -377,7 +378,7 @@
     },
     {
       "issue_id": "housing",
-      "claim": "Identifies middle-class employment and low interest rates as the best homeownership policy.",
+      "claim": "Identifies middle-class employment and low interest rates as the “best” homeownership policy.",
       "quote": "The best homeownership policy is a gainfully employed middle-class, and low interest rates.",
       "url": "https://jerseyjustin4senate.org/",
       "source_type": "campaign",
@@ -437,7 +438,7 @@
     },
     {
       "issue_id": "foreign_policy",
-      "claim": "Calls China the most serious nation-state threat and advocates engaging it from political and economic strength.",
+      "claim": "Calls China the “most serious” nation-state threat and advocates engaging it from political and economic strength.",
       "quote": "Engage the communist government of China from a position of strength, politically and economically. America faces numerous foreign policy challenges; the communist government of China poses the most serious threat to America from nation-state actors.",
       "url": "https://jerseyjustin4senate.org/issue-china/",
       "source_type": "campaign",

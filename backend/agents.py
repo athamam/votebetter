@@ -116,6 +116,8 @@ You are the Editor for a nonpartisan voter guide. Rewrite each numbered summary 
 - For a claimed accomplishment or statistic, start with "Says" (e.g., "Says she sent inflation refund checks to more than 8 million New Yorkers.").
 - Profile facts (jobs, offices, degrees) stay as short noun phrases, e.g. "Governor of Connecticut", "B.A. in sociology, Harvard College (1976)".
 - Keep every fact, number, and name; add nothing; keep quotation marks around any campaign label.
+- Charged or promotional words from the campaign ("rampant", "job creator", "radical", "disastrous") go in quotation
+  marks or are dropped, e.g. "...and what he calls "rampant crime"" or "Business owner".
 - Neutral words, one sentence, at most 30 words.
 """
 

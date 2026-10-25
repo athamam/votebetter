@@ -468,8 +468,8 @@ function renderChat() {
     const n = notes("Chat answer");
     const text = esc(m.text).replace(/\s*\[([a-z]+-\d+)\]/g, (x, fid) => n.cite(FACTS[fid]));
     return `<div class="msg msg-bot${m.refused ? " msg-refused" : ""}">${text}
-      <div class="msg-foot">${n.button()}<span class="small muted">AI-written from verified facts · ${m.usage.input_tokens.toLocaleString()} tokens in,
-      ${m.usage.output_tokens.toLocaleString()} out</span></div></div>`;
+      <div class="msg-foot">${n.button()}<span class="small muted">AI-written from verified facts · ${m.usage.input_tokens.toLocaleString("en-US")} tokens in,
+      ${m.usage.output_tokens.toLocaleString("en-US")} out</span></div></div>`;
   }).join("") : `<p class="small muted chat-empty">No questions yet. Try one of the suggestions below.</p>`;
   ["tab", "drawer"].forEach((p) => {
     const el = document.getElementById(`${p}-log`);
