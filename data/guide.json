@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T06:17:44+00:00",
+  "generated_at": "2026-10-26T01:45:56+00:00",
   "election_date": "2026-11-03",
   "issues": [
     {
@@ -1072,6 +1072,18 @@
               "verifier_note": "The quoted campaign headline calls for an investigation into the administration's ties to the Chinese Communist Party, and the subhead states the national-security concern.",
               "original_claim": "In January 2026, Blakeman’s campaign called for an investigation into the Hochul administration’s ties to the Chinese Communist Party, citing national-security concerns.",
               "fid": "blakeman-30"
+            },
+            {
+              "issue_id": "economy",
+              "claim": "Proposes repealing energy surcharges and fees, returning $2.4 billion in unspent energy funds to ratepayers, and expanding natural gas and nuclear power.",
+              "quote": "Hochul’s energy surcharges, fees, and mandates drive up electric bills. Bruce will repeal those charges, return $2.4 billion in unspent energy funds to ratepayers, and expand reliable natural gas and nuclear power.",
+              "url": "https://www.blakemanfornewyork.com/save-money",
+              "source_type": "campaign",
+              "source_title": "3 Ways Bruce Blakeman Will Save You Money",
+              "retrieved_at": "2026-10-24T03:26:54+00:00",
+              "archived_copy": null,
+              "verifier_note": "The quote states Blakeman’s proposals on energy charges, ratepayer funds and energy sources.",
+              "fid": "blakeman-31"
             }
           ],
           "scores": {
@@ -1093,7 +1105,7 @@
             "economy": {
               "score": 0.5,
               "confidence": "high",
-              "rationale": "The 0.5 anchor matches broad income- and property-tax cuts and the stated plan to cut wasteful spending and direct new revenue to tax relief."
+              "rationale": "Matches the +0.5 anchor: the findings propose broad tax cuts and spending reductions, including income- and property-tax cuts and cutting spending."
             },
             "education": {
               "score": 0.0,
